@@ -1,8 +1,3 @@
----
-created: 2024-03-18T14:52
-updated: 2024-03-20T15:55
----
-
 TARGET DECK: Cybersecurity
 
 START
@@ -19,10 +14,15 @@ Rückseite: Ein spezielles Netzwerk das als eine Art Puffer zwischen dem externe
 END
 
 START
+Einfach
+Vorderseite: TEST
+Rückseite: TEST
+END
+
+START
 Einfach (beide Richtungen)
 Vorderseite: VPN - Virtual Private Network
 Rückseite: Tunnel-Verbindung zwischen dem Client und dem Unternehmensnetzwerk (Client-to-Server) oder zwischen Standorten von Unternehmen
-Tags: Learning
 END
 
 START
