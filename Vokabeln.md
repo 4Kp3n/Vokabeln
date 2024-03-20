@@ -14,12 +14,6 @@ Rückseite: Ein spezielles Netzwerk das als eine Art Puffer zwischen dem externe
 END
 
 START
-Einfach
-Vorderseite: TEST
-Rückseite: TEST
-END
-
-START
 Einfach (beide Richtungen)
 Vorderseite: VPN - Virtual Private Network
 Rückseite: Tunnel-Verbindung zwischen dem Client und dem Unternehmensnetzwerk (Client-to-Server) oder zwischen Standorten von Unternehmen
