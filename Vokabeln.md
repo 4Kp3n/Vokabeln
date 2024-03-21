@@ -301,4 +301,8 @@ Vorderseite:ADP
 Rückseite:Application Development and Programming
 END
 
-
+START
+Einfach (beide Richtungen)
+Vorderseite: Was ist **Github**?
+Rückseite: Eine webbasierte Plattform, die für die Versionskontrolle und Zusammenarbeit bei der Softwareentwicklung verwendet wird.
+END
