@@ -284,3 +284,15 @@ Einfach
 Vorderseite: IGRP
 Rückseite:Interior Gateway Routing Protocol 
 END
+
+START
+Einfach
+Vorderseite:Acknowledgment
+Rückseite:ist ein Steuerbit im TCP/IP-Protokoll.
+- Es wird verwendet, um den Empfang von Datenpaketen zu bestätigen.
+- Der Sender markiert ein Datenpaket als "erwartet eine Bestätigung" (ACK).
+- Der Empfänger sendet ein ACK-Paket zurück, um den erfolgreichen Empfang des Datenpakets zu bestätigen.
+- ACK wird auch verwendet, um die Quittung von Steuerinformationen wie SYN/ACK oder FIN/ACK zu bestätigen.
+ENDE
+
+
