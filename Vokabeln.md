@@ -293,6 +293,12 @@ Rückseite:ist ein Steuerbit im TCP/IP-Protokoll.
 - Der Sender markiert ein Datenpaket als "erwartet eine Bestätigung" (ACK).
 - Der Empfänger sendet ein ACK-Paket zurück, um den erfolgreichen Empfang des Datenpakets zu bestätigen.
 - ACK wird auch verwendet, um die Quittung von Steuerinformationen wie SYN/ACK oder FIN/ACK zu bestätigen.
-ENDE
+END
+
+START
+Einfach
+Vorderseite:ADP
+Rückseite:Application Development and Programming
+END
 
 
