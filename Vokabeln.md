@@ -13,13 +13,11 @@ Vorderseite: Was versteht man unter einer demilitarisierte Zone (DMZ)?
 Rückseite: Ein spezielles Netzwerk das als eine Art Puffer zwischen dem externen Internet und dem internen Netz. Von außen erreichbare Dienste wie Webserver oder Mailserver werden darin betrieben.
 END
 
-
 START
 Einfach (beide Richtungen)
 Vorderseite: Was ist das OSI-Modell?
 Rückseite: Ein Modell zur Veranschaulichung von Netzwerkverkehr
 END
-
 
 START
 Einfach (beide Richtungen)
@@ -198,7 +196,6 @@ Vorderseite: Wofür steht IPS?
 Rückseite:  Intrusion Prevention System (Eindringlings Verhinderungssystem)
 END
 
-TARGET DECK: Cybersecurity
 START
 Einfach
 Vorderseite: Wofür steht EDR?
@@ -211,7 +208,6 @@ Vorderseite: Was ist ein Zero-Day-Angriff?
 Rückseite: Eine Schwachstelle wird aus genutzt, bevor diese öffentlich bekannt wird
 END
 
-TARGET DECK: Cybersecurity
 START
 Einfach
 Vorderseite: Welchen Zweck erfüllt ein Dockerfile?
@@ -242,7 +238,6 @@ Vorderseite: BSI Grundschutz
 Rückseite: Mit einem **umfassenden Katalog an Sicherheitsmaßnahmen** und **bewährten Vorgehensweisen** das **Informationssicherheitsniveau** in Unternehmen und Organisationen **systematisch erhöhen**.
 END
 
-TARGET DECK: Cybersecurity
 START
 Einfach (beide Richtungen)
 Vorderseite: Was versteht man unter der (EU) NIS2 Verordnung?
