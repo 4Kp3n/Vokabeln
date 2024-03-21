@@ -13,7 +13,7 @@ Rückseite: Das Security Operations Center/Centre beschreibt das Team, das das N
 END
 
 START
-Einfach (beide Richtungen)
+Einfach
 Vorderseite: Was bedeutet die Abkürzung IR?
 Rückseite: Incident Response (IR) ist der Oberbegriff für die Behandlung von Vorfällen in der Cybersecurity.
 END
