@@ -278,3 +278,9 @@ Einfach
 Vorderseite: Nenne die 3 Pfeiler der CIA-Triade?
 Rückseite: Confidentiality (Vertraulichkeit), Integrity (Inegrität/Korrektheit), Availability (Verfügbarkeit)  
 END
+
+START
+Einfach (beide Richtungen)
+Vorderseite: Was ist **Github**?
+Rückseite: Eine webbasierte Plattform, die für die Versionskontrolle und Zusammenarbeit bei der Softwareentwicklung verwendet wird.
+END
