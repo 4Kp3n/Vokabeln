@@ -278,3 +278,9 @@ Einfach
 Vorderseite: Nenne die 3 Pfeiler der CIA-Triade?
 Rückseite: Confidentiality (Vertraulichkeit), Integrity (Inegrität/Korrektheit), Availability (Verfügbarkeit)  
 END
+
+START
+Einfach
+Vorderseite: Was ist ein Zero-Day-Angriff?
+Rückseite: Eine Schwachstelle die solange genutzt wird bis der Hersteller das erfährt
+END
