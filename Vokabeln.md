@@ -278,3 +278,9 @@ Einfach
 Vorderseite: Nenne die 3 Pfeiler der CIA-Triade?
 Rückseite: Confidentiality (Vertraulichkeit), Integrity (Inegrität/Korrektheit), Availability (Verfügbarkeit)  
 END
+
+START
+Einfach
+Vorderseite: Was Bedeutet Salt bei einer Hashfunktion
+Rückseite: Mit Hilfe von Salts und dem Hashing werden Angriffe auf gehashte Passwörter beispielsweise über Rainbow-Tabellen verhindert
+END
