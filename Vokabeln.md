@@ -273,4 +273,8 @@ Vorderseite: Was definiert die ISO 22301?
 Rückseite: Die ISO 22301 ist eine internationale Norm, die Anforderungen an ein Business Continuity Management System (BCMS) festlegt.
 END
 
-
+START
+Einfach
+Vorderseite: Nenne die 3 Pfeiler der CIA-Triade?
+Rückseite: Confidentiality (Vertraulichkeit), Integrity (Inegrität/Korrektheit), Availability (Verfügbarkeit)  
+END
