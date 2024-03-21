@@ -13,6 +13,14 @@ Vorderseite: Was versteht man unter einer demilitarisierte Zone (DMZ)?
 Rückseite: Ein spezielles Netzwerk das als eine Art Puffer zwischen dem externen Internet und dem internen Netz. Von außen erreichbare Dienste wie Webserver oder Mailserver werden darin betrieben.
 END
 
+
+START
+Einfach (beide Richtungen)
+Vorderseite: Was ist das OSI-Modell?
+Rückseite: Ein Modell zur Veranschaulichung von Netzwerkverkehr
+END
+
+
 START
 Einfach (beide Richtungen)
 Vorderseite: VPN - Virtual Private Network
