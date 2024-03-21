@@ -278,3 +278,9 @@ Einfach
 Vorderseite: Nenne die 3 Pfeiler der CIA-Triade?
 Rückseite: Confidentiality (Vertraulichkeit), Integrity (Inegrität/Korrektheit), Availability (Verfügbarkeit)  
 END
+
+START
+Einfach
+Vorderseite: IGRP
+Rückseite:Interior Gateway Routing Protocol 
+END
