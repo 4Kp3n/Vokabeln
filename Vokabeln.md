@@ -275,6 +275,19 @@ Rückseite: Confidentiality (Vertraulichkeit), Integrity (Inegrität/Korrektheit
 END
 
 START
+Einfach
+Vorderseite: DSGVO Grundsätze
+Rückseite:
+- Treu und Glauben, Rechtmäßigkeit und Transparenz
+- Zweckbindung
+- Datenminimierung
+- Richtigkeit
+- Speicherbegrenzung
+- Integrität und Vertraulichkeit
+- Rechenschaftspflicht
+END
+
+START
 Einfach (beide Richtungen)
 Vorderseite: Was ist **Github**?
 Rückseite: Eine webbasierte Plattform, die für die Versionskontrolle und Zusammenarbeit bei der Softwareentwicklung verwendet wird.
