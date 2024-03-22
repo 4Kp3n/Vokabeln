@@ -275,7 +275,6 @@ END
 
 START
 Einfach
-<<<<<<< HEAD
 Vorderseite: DSGVO Grundsätze
 Rückseite:
 - Treu und Glauben, Rechtmäßigkeit und Transparenz
@@ -286,8 +285,6 @@ Rückseite:
 - Integrität und Vertraulichkeit
 - Rechenschaftspflicht
 END
-=======
 Vorderseite: Nenne die 3 Pfeiler der CIA-Triade?
 Rückseite: Confidentiality (Vertraulichkeit), Integrity (Inegrität/Korrektheit), Availability (Verfügbarkeit)  
 END
->>>>>>> cfb815ca2b092acb3c773f0a44c03f1c21e65950
