@@ -276,6 +276,18 @@ END
 
 START
 Einfach
+Vorderseite: Was Bedeutet Salt bei einer Hashfunktion
+Rückseite: Mit Hilfe von Salts und dem Hashing werden Angriffe auf gehashte Passwörter beispielsweise über Rainbow-Tabellen verhindert
+END
+
+START
+Einfach
+Vorderseite: Defense-in-Depth (DID)
+Rückseite: Es ist ein Sicherheitskonzept, das darauf abzielt, ein System oder Netzwerk durch mehrere Schutzebenen zu sichern.
+END
+
+START
+Einfach
 Vorderseite: DSGVO Grundsätze
 Rückseite:
 - Treu und Glauben, Rechtmäßigkeit und Transparenz
