@@ -292,3 +292,12 @@ Einfach (beide Richtungen)
 Vorderseite: Was ist **Github**?
 Rückseite: Eine webbasierte Plattform, die für die Versionskontrolle und Zusammenarbeit bei der Softwareentwicklung verwendet wird.
 END
+
+START
+Einfach (beide Richtungen)
+Vorderseite: Was sind Topologien in einem Netzwerk?
+Rückseite: Die Topologie eines Netzwerks beschreibt, in welcher physikalischen Grundform die einzelnen Geräte organisiert sind. Es werden im Wesentlichen folgende Grundformen unterschieden:
+• Bus-Topologie
+• Ring-Topologie
+• Stern-Topologie
+END
