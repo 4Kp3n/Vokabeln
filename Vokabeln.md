@@ -275,7 +275,41 @@ Rückseite: Confidentiality (Vertraulichkeit), Integrity (Inegrität/Korrektheit
 END
 
 START
+Einfach
+Vorderseite: Was Bedeutet Salt bei einer Hashfunktion
+Rückseite: Mit Hilfe von Salts und dem Hashing werden Angriffe auf gehashte Passwörter beispielsweise über Rainbow-Tabellen verhindert
+END
+
+START
+Einfach
+Vorderseite: Defense-in-Depth (DID)
+Rückseite: Es ist ein Sicherheitskonzept, das darauf abzielt, ein System oder Netzwerk durch mehrere Schutzebenen zu sichern.
+END
+
+START
+Einfach
+Vorderseite: DSGVO Grundsätze
+Rückseite:
+- Treu und Glauben, Rechtmäßigkeit und Transparenz
+- Zweckbindung
+- Datenminimierung
+- Richtigkeit
+- Speicherbegrenzung
+- Integrität und Vertraulichkeit
+- Rechenschaftspflicht
+END
+
+START
 Einfach (beide Richtungen)
 Vorderseite: Was ist **Github**?
 Rückseite: Eine webbasierte Plattform, die für die Versionskontrolle und Zusammenarbeit bei der Softwareentwicklung verwendet wird.
+END
+
+START
+Einfach (beide Richtungen)
+Vorderseite: Was sind Topologien in einem Netzwerk?
+Rückseite: Die Topologie eines Netzwerks beschreibt, in welcher physikalischen Grundform die einzelnen Geräte organisiert sind. Es werden im Wesentlichen folgende Grundformen unterschieden:
+• Bus-Topologie
+• Ring-Topologie
+• Stern-Topologie
 END
