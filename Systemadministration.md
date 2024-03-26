@@ -2,19 +2,19 @@ TARGET DECK: Systemadministration
 
 START
 Einfach 
-Vorderseite: Welche Betriebssysteme gibt es
-Rückseite: Windows, Linux, mscOS
+Vorderseite: Welche Betriebssysteme gibt es?
+Rückseite: Windows, Linux, macOS
 END
 
 START
 Einfach 
-Vorderseite: Welche Virtualisierungsumgebungen gibt es
-Rückseite: Hyper-V, Virtuel Box ...
+Vorderseite: Welche Virtualisierungsumgebungen gibt es? Nenne zwei Beispiele.
+Rückseite: Hyper-V, Virtual Box, ...
 END
 
 START
 Einfach 
-Vorderseite: Was sind die Aufgaben eines Systemadministrators
+Vorderseite: Was sind die Aufgaben eines Systemadministrators?
 Rückseite: Netzwerkadministration, Servermanagement, Benutzerverwaltung und Zugriffskontrollen, Überwachung und Fehlerbehebung, Cloud Computing
 END
 
@@ -27,14 +27,14 @@ END
 
 START
 Einfach 
-Vorderseite: Was beinhaltet AD
+Vorderseite: Was beinhaltet AD?
 Rückseite: Domäne, DC, OU, GPOs, DNS, DHCP
 END
 
 START
 Einfach 
-Vorderseite: Wozu gibt es Active Directory
-Rückseite:  zur Verwaltung von Benutzerkonten, Berechtigungen und Netzwerkressourcen bzw. einer vernünftigen Struktur
+Vorderseite: Wozu gibt es Active Directory?
+Rückseite: zur Verwaltung von Benutzerkonten, Berechtigungen und Netzwerkressourcen bzw. einer vernünftigen Struktur
 END
 
 START
@@ -45,18 +45,18 @@ END
 
 START
 Einfach 
-Vorderseite: Was macht man mit GPOs
-Rückseite:  wird verwendet um Sicherheits- und Konfigurationseinstellungen für Benutzer und Computer in einem Windows-Netzwerk zu steuern und durchzusetzen
+Vorderseite: Was macht man mit GPOs?
+Rückseite: GPOs werden verwendet um Sicherheits- und Konfigurationseinstellungen für Benutzer und Computer in einem Windows-Netzwerk zu steuern und durchzusetzen.
 END
 
 START
 Einfach 
-Vorderseite: Was sind OUs
+Vorderseite: Was sind OUs?
 Rückseite: Organisationseinheiten
 END
 
 START
 Einfach 
-Vorderseite: Wozu nutzt man einen DHCP-Relay-Agent
-Rückseite:  Ein DHCP-Relay-Agent wird genutzt, um DHCP-Nachrichten zwischen DHCP-Clients und DHCP-Servern über verschiedene IP-Subnetze hinweg zu vermitteln.
+Vorderseite: Wozu nutzt man einen DHCP-Relay-Agent?
+Rückseite: Ein DHCP-Relay-Agent wird genutzt, um DHCP-Nachrichten zwischen DHCP-Clients und DHCP-Servern über verschiedene IP-Subnetze hinweg zu vermitteln.
 END
