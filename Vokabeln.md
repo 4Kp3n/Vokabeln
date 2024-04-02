@@ -210,6 +210,12 @@ END
 
 START
 Einfach
+Vorderseite: Was ist Docker?
+Rückseite: Docker ist eine Plattform, mit der Entwickler Anwendungen in Containern erstellen, bereitstellen und ausführen können. Ein Container ist eine isolierte, portable Umgebung, die alle notwendigen Abhängigkeiten enthält, um eine Anwendung auszuführen
+END
+
+START
+Einfach
 Vorderseite: Welchen Zweck erfüllt ein Dockerfile?
 Rückseite:   
 In einem Dockerfile definiert man in einzelnen Schritten die Erstellung eines Images, beginnend mit einem Basisimage und endend mit einem lauffähigen Container.
@@ -270,8 +276,8 @@ END
 
 START
 Einfach
-Vorderseite: Nenne die 3 Pfeiler der CIA-Triade?
-Rückseite: Confidentiality (Vertraulichkeit), Integrity (Inegrität/Korrektheit), Availability (Verfügbarkeit)  
+Vorderseite: Nenne die 3 Pfeiler der CIA-Triade
+Rückseite: Confidentiality (Vertraulichkeit), Integrity (Integrität/Korrektheit), Availability (Verfügbarkeit)  
 END
 
 START

@@ -7,7 +7,7 @@ Rückseite: Ein Security Information and Event Management-System ist ein Tool zu
 END
 
 START
-Einfach (beide Richtungen)
+Einfach
 Vorderseite: Was ist ein SOC?
 Rückseite: Das Security Operations Center/Centre beschreibt das Team, das das Netzwerk eines Unternehmens überwacht und auf Auffälligkeiten überprüft. Es werden interne und externe Gefahren geprüft.
 END
