@@ -68,7 +68,7 @@ END
 
 START
 Einfach
-Vorderseite:  Backdoor
+Vorderseite: Backdoor
 Rückseite: Eine Backdoor ist eine verborgene oder unautorisierte Methode, um unbefugten Zugriff auf ein Computersystem, ein Netzwerk oder eine Softwareanwendung zu erhalten. Sie wird oft von Angreifern genutzt, um nachträglich Zugang zu einem kompromittierten System zu erhalten, ohne dass der Benutzer oder Administrator dies bemerkt. Backdoors können absichtlich in Software integriert werden oder durch Sicherheitslücken und Schwachstellen ausgenutzt werden, um heimlich Zugriff zu ermöglichen und bösartige Aktivitäten auszuführen.
 END
 
@@ -98,13 +98,13 @@ END
 
 START
 Einfach
-Vorderseite: ZeroDay Exploit
+Vorderseite: Zero-Day-Exploit
 Rückseite: Ein Zero-Day-Exploit ist eine Angriffstechnik, die eine bislang unbekannte Sicherheitslücke ausnutzt, für die noch kein Patch oder Sicherheitsupdate verfügbar ist, um ein Computersystem zu kompromittieren oder zu infiltrieren.
 END
 
 START
 Einfach
-Vorderseite: Rouge-Access-Point
+Vorderseite: Rogue-Access-Point
 Rückseite: Ein Rogue Access Point ist ein drahtloser Zugangspunkt, der in einem Netzwerk ohne Autorisierung oder Erlaubnis eingerichtet wurde und es einem Angreifer ermöglicht, den Datenverkehr abzufangen, zu überwachen oder zu manipulieren.
 END
 
@@ -122,7 +122,7 @@ END
 
 START
 Einfach
-Vorderseite: Denial-of-Service (DoS)
+Vorderseite: Denial of Service (DoS)
 Rückseite: DoS (Denial of Service) ist eine Angriffstechnik, bei der ein Angreifer versucht, die Verfügbarkeit eines Dienstes, einer Website oder eines Netzwerks zu beeinträchtigen, indem er es mit einer großen Anzahl von Anfragen oder Datenüberlastungen überflutet, was dazu führen kann, dass legitime Benutzer den Dienst nicht mehr nutzen können.
 END
 
@@ -194,7 +194,7 @@ END
 
 START
 Einfach
-Vorderseite:  Whaling
+Vorderseite: Whaling
 Rückseite: Whaling ist eine Form des gezielten Phishing-Angriffs, der sich auf hochrangige Personen oder Führungskräfte in Organisationen konzentriert. Die Angreifer zielen dabei auf Personen mit hohem Einfluss oder Zugang zu sensiblen Informationen ab, um gezielte Angriffe durchzuführen und vertrauliche Daten zu stehlen oder Systeme zu kompromittieren.
 END
 
@@ -219,5 +219,5 @@ END
 START
 Einfach
 Vorderseite: Identitätsdiebstahl
-Rückseite:  Identitätsdiebstahl bezeichnet den betrügerischen Gebrauch persönlicher Informationen einer anderen Person, um finanziellen Schaden anzurichten oder betrügerische Aktivitäten
+Rückseite: Identitätsdiebstahl bezeichnet den betrügerischen Gebrauch persönlicher Informationen einer anderen Person, um finanziellen Schaden anzurichten oder betrügerische Aktivitäten
 END
