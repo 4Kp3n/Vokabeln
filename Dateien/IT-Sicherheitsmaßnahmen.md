@@ -122,7 +122,7 @@ END
 
 START
 Einfach
-Vordereite: Was ist eine Denial-of-Service (DoS)-Attacke?
+Vorderseite: Was ist eine Denial-of-Service (DoS)-Attacke?
 Rückseite: Eine Denial-of-Service (DoS)-Attacke ist ein Angriff, bei dem ein Angreifer versucht, einen Dienst, eine Ressource oder eine Infrastruktur durch das Überfluten mit einer großen Menge von Anfragen lahmzulegen, um die Verfügbarkeit für legitime Benutzer zu beeinträchtigen
 END
 
