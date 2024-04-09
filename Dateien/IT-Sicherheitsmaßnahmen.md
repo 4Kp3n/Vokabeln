@@ -3,35 +3,35 @@ TARGET DECK: IT-Sicherheitsmaßnahmen
 START
 Einfach
 Vorderseite: Was versteht man unter dem Begriff Firewall?
-Rückseite:  Eine Firewall ist eine Sicherheitsvorrichtung, die den Datenverkehr zwischen einem internen Netzwerk und externen Netzwerken überwacht und steuert. Sie kann eingehenden und ausgehenden Datenverkehr filtern, um unerwünschte Zugriffe zu verhindern
+Rückseite: Eine Firewall ist eine Sicherheitsvorrichtung, die den Datenverkehr zwischen einem internen Netzwerk und externen Netzwerken überwacht und steuert. Sie kann eingehenden und ausgehenden Datenverkehr filtern, um unerwünschte Zugriffe zu verhindern
 END
 
 
 START
 Einfach
 Vorderseite: Was bedeutet Verschlüsselung?
-Rückseite:  Verschlüsselung ist der Prozess der Umwandlung von Daten in eine unleserliche Form, um sie vor unbefugtem Zugriff zu schützen. Nur autorisierte Parteien mit dem richtigen Schlüssel können die Daten entschlüsseln und lesen
+Rückseite: Verschlüsselung ist der Prozess der Umwandlung von Daten in eine unleserliche Form, um sie vor unbefugtem Zugriff zu schützen. Nur autorisierte Parteien mit dem richtigen Schlüssel können die Daten entschlüsseln und lesen
 END
 
 
 START
 Einfach
 Vorderseite: Was versteht man unter Antivirus-Software?
-Rückseite:  Antivirus-Software ist eine Anwendung, die entwickelt wurde, um Malware zu erkennen, zu blockieren und zu entfernen. Sie überwacht das System kontinuierlich auf verdächtige Aktivitäten und Dateien
+Rückseite: Antivirus-Software ist eine Anwendung, die entwickelt wurde, um Malware zu erkennen, zu blockieren und zu entfernen. Sie überwacht das System kontinuierlich auf verdächtige Aktivitäten und Dateien
 END
 
 
 START
 Einfach
 Vorderseite: was versteht man unter Zugriffskontrolle?
-Rückseite:  Zugriffskontrolle bezieht sich auf die Verwaltung und Kontrolle des Zugriffs auf Ressourcen in einem IT-System. Sie bestimmt, wer auf welche Daten oder Dienste zugreifen darf und in welchem Umfang
+Rückseite: Zugriffskontrolle bezieht sich auf die Verwaltung und Kontrolle des Zugriffs auf Ressourcen in einem IT-System. Sie bestimmt, wer auf welche Daten oder Dienste zugreifen darf und in welchem Umfang
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Sicherheitsrichtlinien?
-Rückseite:  Sicherheitsrichtlinien sind dokumentierte Regeln und Verfahren, die festlegen, wie Sicherheitsmaßnahmen in einem Unternehmen implementiert und durchgesetzt werden sollen
+Rückseite: Sicherheitsrichtlinien sind dokumentierte Regeln und Verfahren, die festlegen, wie Sicherheitsmaßnahmen in einem Unternehmen implementiert und durchgesetzt werden sollen
 END
 
 
