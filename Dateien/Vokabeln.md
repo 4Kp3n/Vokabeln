@@ -319,3 +319,52 @@ Rückseite: Die Topologie eines Netzwerks beschreibt, in welcher physikalischen 
 • Ring-Topologie
 • Stern-Topologie
 END
+
+START
+Einfach (beide Richtungen)
+Vorderseite: Was ist ein SIEM-System?
+Rückseite: Ein Security Information and Event Management-System ist ein Tool zur Überwachung von Netzwerken. Es wird oft vom SOC eingesetzt.
+END
+
+START
+Einfach
+Vorderseite: Was ist ein SOC?
+Rückseite: Das Security Operations Center/Centre beschreibt das Team, das das Netzwerk eines Unternehmens überwacht und auf Auffälligkeiten überprüft. Es werden interne und externe Gefahren geprüft.
+END
+
+START
+Einfach
+Vorderseite: Was bedeutet die Abkürzung IR?
+Rückseite: Incident Response (IR) ist der Oberbegriff für die Behandlung von Vorfällen in der Cybersecurity.
+END
+
+START
+Einfach
+Vorderseite: Was sind die Grundsätze der DSGVO?
+Rückseite:
+* Rechtmäßigkeit
+* Zweckbindung
+* Datenminimierung
+* Richtigkeit
+* Speicherbegrenzung
+* Integrität und Vetraulichkeit
+* Rechenschaftsplicht
+END
+
+START
+Einfach
+Vorderseite: Was sind die Rechte für Betroffene laut der DSGVO?
+Rückseite:
+* Das Recht der Berechtigung
+* Das Recht der Löschung
+* Das Recht auf Einschränkung der Verarbeitung 
+* Das Recht auf Widerspruch
+* Das Recht auf Datenübertragbarkeit
+END
+
+START
+Einfach (beide Richtungen)
+Vorderseite: Was ist der Layer 5 beim OSI-Modell?
+Rückseite: Session - Layer / Sitzungsschicht
+SIP, RTP, RCP-named pipes
+END

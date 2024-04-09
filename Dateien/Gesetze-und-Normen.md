@@ -1,6 +1,6 @@
 TARGET DECK: Gesetze und Normen
 
-START 
+START
 Einfach
 Vorderseite: Was sagt die ISO 22301 aus?
 Rückseite:
