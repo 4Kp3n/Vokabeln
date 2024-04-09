@@ -179,63 +179,63 @@ END
 START
 Einfach
 Vorderseite: Versteht man unter Sicherheitsüberwachung und -protokollierung?
-Implementierung von Überwachungsmechanismen und Protokollierung von Aktivitäten, um verdächtiges Verhalten zu erkennen und darauf zu reagieren
+Rückseite: Implementierung von Überwachungsmechanismen und Protokollierung von Aktivitäten, um verdächtiges Verhalten zu erkennen und darauf zu reagieren
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Zugriffskontrolle?
-Begrenzung des Zugriffs auf sensible Daten und Ressourcen durch Berechtigungsmanagement und Zugriffskontrollen
+Rückseite: Begrenzung des Zugriffs auf sensible Daten und Ressourcen durch Berechtigungsmanagement und Zugriffskontrollen
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Physische Sicherheit?
-Sicherstellung der physischen Sicherheit von Serverräumen, Rechenzentren und anderen IT-Infrastrukturen
+Rückseite: Sicherstellung der physischen Sicherheit von Serverräumen, Rechenzentren und anderen IT-Infrastrukturen
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Backup und Wiederherstellung?
-Regelmäßige Sicherung von Daten und Implementierung eines Wiederherstellungsplans, um im Falle eines Datenverlusts schnell wiederherstellen zu können
+Rückseite: Regelmäßige Sicherung von Daten und Implementierung eines Wiederherstellungsplans, um im Falle eines Datenverlusts schnell wiederherstellen zu können
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Mobile Gerätesicherheit?
-Implementierung von Sicherheitsrichtlinien für mobile Geräte, einschließlich Verschlüsselung, Remote-Wipe-Funktionen und sicheren Authentifizierungsmethoden
+Rückseite: Implementierung von Sicherheitsrichtlinien für mobile Geräte, einschließlich Verschlüsselung, Remote-Wipe-Funktionen und sicheren Authentifizierungsmethoden
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Netzwerksegmentierung?
-Unterteilung von Netzwerken in kleinere Segmente, um das Risiko von Angriffen zu minimieren und die Ausbreitung von Bedrohungen zu begrenzen
+Rückseite: Unterteilung von Netzwerken in kleinere Segmente, um das Risiko von Angriffen zu minimieren und die Ausbreitung von Bedrohungen zu begrenzen
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Penetrationstests und Schwachstellenbewertung?
-Durchführung regelmäßiger Penetrationstests und Schwachstellenbewertungen, um Sicherheitslücken zu identifizieren und zu beheben
+Rückseite: Durchführung regelmäßiger Penetrationstests und Schwachstellenbewertungen, um Sicherheitslücken zu identifizieren und zu beheben
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Notfallvorsorge und Reaktion?
-Entwicklung eines Notfallvorsorge- und Reaktionsplans, um auf Sicherheitsvorfälle angemessen zu reagieren und die Auswirkungen zu minimieren
+Rückseite: Entwicklung eines Notfallvorsorge- und Reaktionsplans, um auf Sicherheitsvorfälle angemessen zu reagieren und die Auswirkungen zu minimieren
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Lieferanten- und Drittanbietermanagement?
-Überprüfung der Sicherheitsmaßnahmen von Lieferanten und Drittanbietern, die auf geschäftskritische Dienste zugreifen, um Risiken zu minimieren
+Rückseite: Überprüfung der Sicherheitsmaßnahmen von Lieferanten und Drittanbietern, die auf geschäftskritische Dienste zugreifen, um Risiken zu minimieren
 END
 
 
