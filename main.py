@@ -4,7 +4,7 @@ import re
 
 REPO_PATH = "./Dateien"  
 # Pfad anpassen!
-OBSIDIAN_PATH = "C:/Users/User/Kioku/Anki" # Change this to the path of your folder
+OBSIDIAN_PATH = "C:/Users/arima/Documents/Atamagaii/Anki" # Change this to the path of your folder
 
 # summary: Takes a path to a .md file and parses all contained vocabulary cards (Anki format required!)
 # filepath: Path to the .md file to parse

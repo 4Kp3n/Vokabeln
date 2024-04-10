@@ -3,35 +3,35 @@ TARGET DECK: IT-Sicherheitsmaßnahmen
 START
 Einfach
 Vorderseite: Was versteht man unter dem Begriff Firewall?
-Rückseite:  Eine Firewall ist eine Sicherheitsvorrichtung, die den Datenverkehr zwischen einem internen Netzwerk und externen Netzwerken überwacht und steuert. Sie kann eingehenden und ausgehenden Datenverkehr filtern, um unerwünschte Zugriffe zu verhindern
+Rückseite: Eine Firewall ist eine Sicherheitsvorrichtung, die den Datenverkehr zwischen einem internen Netzwerk und externen Netzwerken überwacht und steuert. Sie kann eingehenden und ausgehenden Datenverkehr filtern, um unerwünschte Zugriffe zu verhindern
 END
 
 
 START
 Einfach
 Vorderseite: Was bedeutet Verschlüsselung?
-Rückseite:  Verschlüsselung ist der Prozess der Umwandlung von Daten in eine unleserliche Form, um sie vor unbefugtem Zugriff zu schützen. Nur autorisierte Parteien mit dem richtigen Schlüssel können die Daten entschlüsseln und lesen
+Rückseite: Verschlüsselung ist der Prozess der Umwandlung von Daten in eine unleserliche Form, um sie vor unbefugtem Zugriff zu schützen. Nur autorisierte Parteien mit dem richtigen Schlüssel können die Daten entschlüsseln und lesen
 END
 
 
 START
 Einfach
 Vorderseite: Was versteht man unter Antivirus-Software?
-Rückseite:  Antivirus-Software ist eine Anwendung, die entwickelt wurde, um Malware zu erkennen, zu blockieren und zu entfernen. Sie überwacht das System kontinuierlich auf verdächtige Aktivitäten und Dateien
+Rückseite: Antivirus-Software ist eine Anwendung, die entwickelt wurde, um Malware zu erkennen, zu blockieren und zu entfernen. Sie überwacht das System kontinuierlich auf verdächtige Aktivitäten und Dateien
 END
 
 
 START
 Einfach
 Vorderseite: was versteht man unter Zugriffskontrolle?
-Rückseite:  Zugriffskontrolle bezieht sich auf die Verwaltung und Kontrolle des Zugriffs auf Ressourcen in einem IT-System. Sie bestimmt, wer auf welche Daten oder Dienste zugreifen darf und in welchem Umfang
+Rückseite: Zugriffskontrolle bezieht sich auf die Verwaltung und Kontrolle des Zugriffs auf Ressourcen in einem IT-System. Sie bestimmt, wer auf welche Daten oder Dienste zugreifen darf und in welchem Umfang
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Sicherheitsrichtlinien?
-Rückseite:  Sicherheitsrichtlinien sind dokumentierte Regeln und Verfahren, die festlegen, wie Sicherheitsmaßnahmen in einem Unternehmen implementiert und durchgesetzt werden sollen
+Rückseite: Sicherheitsrichtlinien sind dokumentierte Regeln und Verfahren, die festlegen, wie Sicherheitsmaßnahmen in einem Unternehmen implementiert und durchgesetzt werden sollen
 END
 
 
@@ -122,7 +122,7 @@ END
 
 START
 Einfach
-Vordereite: Was ist eine Denial-of-Service (DoS)-Attacke?
+Vorderseite: Was ist eine Denial-of-Service (DoS)-Attacke?
 Rückseite: Eine Denial-of-Service (DoS)-Attacke ist ein Angriff, bei dem ein Angreifer versucht, einen Dienst, eine Ressource oder eine Infrastruktur durch das Überfluten mit einer großen Menge von Anfragen lahmzulegen, um die Verfügbarkeit für legitime Benutzer zu beeinträchtigen
 END
 
@@ -179,63 +179,63 @@ END
 START
 Einfach
 Vorderseite: Versteht man unter Sicherheitsüberwachung und -protokollierung?
-Implementierung von Überwachungsmechanismen und Protokollierung von Aktivitäten, um verdächtiges Verhalten zu erkennen und darauf zu reagieren
+Rückseite: Implementierung von Überwachungsmechanismen und Protokollierung von Aktivitäten, um verdächtiges Verhalten zu erkennen und darauf zu reagieren
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Zugriffskontrolle?
-Begrenzung des Zugriffs auf sensible Daten und Ressourcen durch Berechtigungsmanagement und Zugriffskontrollen
+Rückseite: Begrenzung des Zugriffs auf sensible Daten und Ressourcen durch Berechtigungsmanagement und Zugriffskontrollen
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Physische Sicherheit?
-Sicherstellung der physischen Sicherheit von Serverräumen, Rechenzentren und anderen IT-Infrastrukturen
+Rückseite: Sicherstellung der physischen Sicherheit von Serverräumen, Rechenzentren und anderen IT-Infrastrukturen
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Backup und Wiederherstellung?
-Regelmäßige Sicherung von Daten und Implementierung eines Wiederherstellungsplans, um im Falle eines Datenverlusts schnell wiederherstellen zu können
+Rückseite: Regelmäßige Sicherung von Daten und Implementierung eines Wiederherstellungsplans, um im Falle eines Datenverlusts schnell wiederherstellen zu können
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Mobile Gerätesicherheit?
-Implementierung von Sicherheitsrichtlinien für mobile Geräte, einschließlich Verschlüsselung, Remote-Wipe-Funktionen und sicheren Authentifizierungsmethoden
+Rückseite: Implementierung von Sicherheitsrichtlinien für mobile Geräte, einschließlich Verschlüsselung, Remote-Wipe-Funktionen und sicheren Authentifizierungsmethoden
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Netzwerksegmentierung?
-Unterteilung von Netzwerken in kleinere Segmente, um das Risiko von Angriffen zu minimieren und die Ausbreitung von Bedrohungen zu begrenzen
+Rückseite: Unterteilung von Netzwerken in kleinere Segmente, um das Risiko von Angriffen zu minimieren und die Ausbreitung von Bedrohungen zu begrenzen
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Penetrationstests und Schwachstellenbewertung?
-Durchführung regelmäßiger Penetrationstests und Schwachstellenbewertungen, um Sicherheitslücken zu identifizieren und zu beheben
+Rückseite: Durchführung regelmäßiger Penetrationstests und Schwachstellenbewertungen, um Sicherheitslücken zu identifizieren und zu beheben
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Notfallvorsorge und Reaktion?
-Entwicklung eines Notfallvorsorge- und Reaktionsplans, um auf Sicherheitsvorfälle angemessen zu reagieren und die Auswirkungen zu minimieren
+Rückseite: Entwicklung eines Notfallvorsorge- und Reaktionsplans, um auf Sicherheitsvorfälle angemessen zu reagieren und die Auswirkungen zu minimieren
 END
 
 
 START
 Einfach
 Vorderseite: Versteht man unter Lieferanten- und Drittanbietermanagement?
-Überprüfung der Sicherheitsmaßnahmen von Lieferanten und Drittanbietern, die auf geschäftskritische Dienste zugreifen, um Risiken zu minimieren
+Rückseite: Überprüfung der Sicherheitsmaßnahmen von Lieferanten und Drittanbietern, die auf geschäftskritische Dienste zugreifen, um Risiken zu minimieren
 END
 
 
