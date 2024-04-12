@@ -82,8 +82,7 @@ END
 START
 Einfach
 Vorderseite: Was bedeutet DSGVO?
-Rückseite:
-Datenschutz-Grundverordnung
+Rückseite: Datenschutz-Grundverordnung
 END
 
 START
@@ -97,8 +96,7 @@ END
 START
 Einfach
 Vorderseite: Was ist die GDPR?
-Rückseite:
-General Data Pretection Regulation
+Rückseite: General Data Pretection Regulation
 END
 
 START
@@ -113,8 +111,7 @@ END
 START
 Einfach
 Vorderseite: Was bedeutet UNBÖFI?
-Rückseite:
-* Unternehmen im besonderen öffentlichen Interesse
+Rückseite: Unternehmen im besonderen öffentlichen Interesse
 END
 
 START
@@ -136,10 +133,9 @@ Rückseite:
 END
 
 START
-Einfach 
+Einfach
 Vorderseite: Was ist das BSI?
-Rückseite:
-* Bundesamt für Sicherheit in der Informationstechnik
+Rückseite: Bundesamt für Sicherheit in der Informationstechnik
 END
 
 START
