@@ -4,7 +4,7 @@ import re
 
 REPO_PATH = "./Dateien"  
 # Pfad anpassen!
-OBSIDIAN_PATH = "C:/Users/arima/Documents/Atamagaii/Anki" # Change this to the path of your folder
+OBSIDIAN_PATH = "C:/Users/User/Kioku/Anki" # Change this to the path of your folder
 
 # summary: Takes a path to a .md file and parses all contained vocabulary cards (Anki format required!)
 # filepath: Path to the .md file to parse
@@ -111,10 +111,16 @@ def main():
                         # Find the front to know where the back starts
                         front_lines = ocard[1].strip().split('\n')
                         back_lines = ocard[2].strip().split('\n')
-                        for index, line in enumerate(data):
-                            line = line.strip()
-                            if (line == front_lines[0].strip()):
-                                data[index+len(front_lines):index+len(front_lines)+len(back_lines)] = [rcard[2]]
+                        n = len(front_lines)
+                        for i in range(len(data)-len(back_lines)-len(front_lines)):
+                            if (data[i].strip() == front_lines[0].strip()):
+                                all_match = True
+                                for j in range (1, n):
+                                    if data[i+j].strip() != front_lines[j].strip():
+                                        all_match = False
+                                        break
+                                if all_match:
+                                    data[i+len(front_lines):i+len(front_lines)+len(back_lines)] = [rcard[2]]
                         with open(obsidian_fp, 'w', encoding='utf-8') as fp:
                             fp.write(''.join(data))
                         found = True
@@ -128,10 +134,16 @@ def main():
                             data = fp.readlines()
                         front_lines = ocard[1].strip().split('\n')
                         back_lines = ocard[2].strip().split('\n')
-                        for index, line in enumerate(data):
-                            line = line.strip()
-                            if (line == back_lines[0].strip()):
-                                data[index-len(front_lines):index] = [rcard[1]]
+                        n = len(back_lines)
+                        for i in range(len(data)-len(back_lines)):
+                            if (data[i].strip() == back_lines[0].strip()):
+                                all_match = True
+                                for j in range(1, n):
+                                    if data[i+j].strip() != back_lines[j].strip():
+                                        all_match = False 
+                                        break
+                                if all_match:
+                                    data[i-len(front_lines):i] = [rcard[1]]
                         with open(obsidian_fp, 'w', encoding='utf-8') as fp:
                             fp.write(''.join(data))
 
