@@ -10,7 +10,7 @@ END
 START
 Einfach (beide Richtungen)
 Vorderseite: Was versteht man unter einer demilitarisierte Zone (DMZ)?
-Rückseite: Ein spezielles Netzwerk das als eine Art Puffer zwischen dem externen Internet und dem internen Netz. Von außen erreichbare Dienste wie Webserver oder Mailserver werden darin betrieben.
+Rückseite: Ein spezielles Netzwerk das als eine Art Puffer zwischen dem externen Internet und dem internen Netz darstellt. Von außen erreichbare Dienste wie Webserver oder Mailserver werden üblicherweise darin betrieben.
 END
 
 START

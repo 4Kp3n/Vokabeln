@@ -98,12 +98,12 @@ START
 Einfach
 Vorderseite: Was ist die GDPR?
 Rückseite:
-General Data Pretection Regulation
+General Data Protection Regulation
 END
 
 START
 Einfach
-Vorderseite: Was definiert das IT-Schutzgesetz 2.0?
+Vorderseite: Was definiert das IT-Sicherheitsgesetz 2.0?
 Rückseite:
 * Betrifft KRITIS und UNBÖFI
 * Unter Kontrolle der BSI
@@ -130,9 +130,9 @@ START
 Einfach
 Vorderseite: Was definiert BDSG?
 Rückseite:
+Bundesdatenschutzgesetz
 * Deutsche Ergänzung der DSGVO
 * Konkretisierung der DSGVO
-* Bundesdatenschutzgesetz 
 END
 
 START
