@@ -99,30 +99,19 @@ def main():
                         break
 
                     # Only front is equal - update the back
-                    # 1. Find index of first line of front
-                    # 2. Calculate start and end ob back based on index
-                    # 3. Exchange section and write to file
                     if (rcard[1] == ocard[1]):
                         print("The back is different - overwrite it")
-                        # Read in the file
                         with open(obsidian_fp, 'r', encoding='utf-8') as fp:
-                            data = fp.readlines()
+                            data = fp.read()
 
-                        # Find the front to know where the back starts
-                        front_lines = ocard[1].strip().split('\n')
-                        back_lines = ocard[2].strip().split('\n')
-                        n = len(front_lines)
-                        for i in range(len(data)-len(back_lines)-len(front_lines)):
-                            if (data[i].strip() == front_lines[0].strip()):
-                                all_match = True
-                                for j in range (1, n):
-                                    if data[i+j].strip() != front_lines[j].strip():
-                                        all_match = False
-                                        break
-                                if all_match:
-                                    data[i+len(front_lines):i+len(front_lines)+len(back_lines)] = [rcard[2]]
+                        # Regex pattern using lookahead to keep delimiters and exclude rcard[1] from the match
+                        pattern = re.compile(rf"{re.escape(rcard[1])}(.*?)(?=Tags:|END|<!--ID|$)", re.DOTALL)
+                        # Replacement operation - also overwrites the unchanged front
+                        replacement = rf"{rcard[1]}{rcard[2]}" 
+                        data = re.sub(pattern, replacement, data)
+
                         with open(obsidian_fp, 'w', encoding='utf-8') as fp:
-                            fp.write(''.join(data))
+                            fp.write(data)
                         found = True
                         break
 
@@ -131,21 +120,22 @@ def main():
                         print("The front is different - overwrite it")
                         # Read in the file
                         with open(obsidian_fp, 'r', encoding='utf-8') as fp:
-                            data = fp.readlines()
-                        front_lines = ocard[1].strip().split('\n')
-                        back_lines = ocard[2].strip().split('\n')
-                        n = len(back_lines)
-                        for i in range(len(data)-len(back_lines)):
-                            if (data[i].strip() == back_lines[0].strip()):
-                                all_match = True
-                                for j in range(1, n):
-                                    if data[i+j].strip() != back_lines[j].strip():
-                                        all_match = False 
-                                        break
-                                if all_match:
-                                    data[i-len(front_lines):i] = [rcard[1]]
+                            data = fp.read()
+
+                        # Best solution I found is to revert the string before matching -> PURE MADNESS
+                        reverse_data = data[::-1]
+                        match = rcard[2][::-1]
+                        replacement = rf"{match}{rcard[1][::-1]}"
+                        pattern = re.compile(rf"{re.escape(match)}(.*?:etiesredroV)", re.DOTALL)
+
+                        # Replace the corresponding pattern
+                        reverse_data = re.sub(pattern, replacement, reverse_data)
+
+                        # Reverse back..
+                        data = reverse_data[::-1]
+
                         with open(obsidian_fp, 'w', encoding='utf-8') as fp:
-                            fp.write(''.join(data))
+                            fp.write(data)
 
                         found = True
                         break
