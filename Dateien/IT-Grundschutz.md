@@ -3,7 +3,7 @@ TARGET DECK: IT-Grundschutz
 START
 Einfach
 Vorderseite:
-## Frage 1 (Sicherheitsmanagement):
+## Frage 1:
 
 Welches Modell liegt dem in BSI-Standard 200-1 beschriebenen Sicherheitsprozess zugrunde?
 
@@ -23,7 +23,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 2 (Sicherheitsmanagement):
+## Frage 2:
 
 Was sollte eine Leitlinie zur Informationssicherheit enthalten?
 
@@ -43,7 +43,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 3 (Sicherheitsmanagement):
+## Frage 3:
 
 Welche Aufgaben haben üblicherweise Informationssicherheitsbeauftragte?
 
@@ -63,7 +63,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 4 (Sicherheitsmanagement):
+## Frage 4:
 
 Wie setzt sich ein IS-Management-Team geeignet zusammen?
 
@@ -83,7 +83,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 5 (Sicherheitsmanagement):
+## Frage 5:
 
 Wer ist für die Freigabe der Leitlinie zur Informationssicherheit verantwortlich?
 
@@ -103,7 +103,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 6 (Sicherheitsmanagement):
+## Frage 6:
 
 Warum kann es sinnvoll sein, sich für eine Sicherheitskonzeption gemäß der Basis-Absicherung zu entscheiden?
 
@@ -122,7 +122,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 1 (Strukturanalyse):
+## Frage 7:
 
 Welche Ziele verfolgt die Strukturanalyse im Rahmen der IT-Grundschutz-Methodik?
 
@@ -142,7 +142,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 2 (Strukturanalyse):
+## Frage 8:
 
 Welche Informationen sollten Netzpläne enthalten, die für die Strukturanalyse benötigt werden?
 
@@ -162,7 +162,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 3 (Strukturanalyse):
+## Frage 9:
 
 Wann bietet es sich an, IT-Systeme bei der Strukturanalyse zu gruppieren?
 
@@ -182,7 +182,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 4 (Strukturanalyse):
+## Frage 10:
 
 Welche der folgenden Aufgaben gehören gemäß BSI-Standard 200-2 zur Strukturanalyse?
 
@@ -202,7 +202,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 5 (Strukturanalyse):
+## Frage 11:
 
 Welche Angaben sind für IT-Systeme bei der Strukturanalyse zu erfassen?
 
@@ -222,7 +222,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 6 (Strukturanalyse):
+## Frage 12:
 
 Welche Anwendungen sind in der Strukturanalyse zu erfassen?
 
@@ -242,7 +242,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 1 (Schutzbedarfsfeststellung):
+## Frage 13:
 
 Welche klassischen Schutzziele werden bei der Schutzbedarfsfeststellung gemäß IT-Grundschutz empfohlen?
 
@@ -262,7 +262,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 2 (Schutzbedarfsfeststellung):
+## Frage 14:
 
 In welchen Fällen können Sie gemäß IT-Grundschutz-Methodik auf die Schutzbedarfsfeststellung für ein IT-System verzichten?
 
@@ -282,7 +282,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 3 (Schutzbedarfsfeststellung):
+## Frage 15:
 
 Welche Kriterien berücksichtigen Sie bei der Bestimmung des Bedarfs an Verfügbarkeit eines IT-Systems?
 
@@ -302,7 +302,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 4 (Schutzbedarfsfeststellung):
+## Frage 16:
 
 Was berücksichtigen Sie, wenn Sie den Schutzbedarf einer Anwendung bestimmen?
 
@@ -322,7 +322,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 5 (Schutzbedarfsfeststellung):
+## Frage 17:
 
 Unter welchen Bedingungen kann der Schutzbedarf eines IT-Systems bezüglich Verfügbarkeit geringer sein als derjenige der Anwendungen, für die es eingesetzt wird?
 
@@ -342,7 +342,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 6 (Schutzbedarfsfeststellung):
+## Frage 18:
 
 Wenn bei der Schutzbedarfsfeststellung für ein IT-System Kumulationseffekte berücksichtigt werden, bedeutet dies, dass …
 
@@ -362,7 +362,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 1 (Modellierung):
+## Frage 19:
 
 Welche Aufgaben stellen sich Ihnen bei der Modellierung gemäß IT-Grundschutz?
 
@@ -382,7 +382,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 2 (Modellierung):
+## Frage 20:
 
 Welche Informationen sind Bestandteil eines IT-Grundschutz-Bausteins?
 
@@ -402,7 +402,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 3 (Modellierung):
+## Frage 21:
 
 Welche Aufgaben stellen sich Ihnen, nachdem Sie bei der Modellierung festgelegt haben, welche Bausteine für den Informationsverbund und seine einzelnen Zielobjekte anzuwenden sind?
 
@@ -422,7 +422,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 4 (Modellierung):
+## Frage 22:
 
 Worauf sollten Sie bei der Auswahl und Anpassung der Sicherheitsmaßnahmen auf Basis der Anforderungen achten?
 
@@ -442,7 +442,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 5 (Modellierung):
+## Frage 23:
 
 Welche Aussagen zur Anwendung von Bausteinen auf Server sind korrekt?
 
@@ -462,7 +462,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 6 (Modellierung):
+## Frage 24:
 
 Auf welche Zielobjekte ist bei der Modellierung der Baustein ISMS.1 _Sicherheitsmanagement_ anzuwenden?
 
@@ -482,7 +482,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 1 (Grundschutz-Check):
+## Frage 25:
 
 Welche Aussagen zum IT-Grundschutz-Check sind zutreffend?
 
@@ -502,7 +502,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 2 (Grundschutz-Check):
+## Frage 26:
 
 Welche Vorarbeiten erfordert der IT-Grundschutz-Check?
 
@@ -522,7 +522,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 3 (Grundschutz-Check):
+## Frage 27:
 
 Welche Verfahren verwenden Sie, um in einem IT-Grundschutz-Check zu prüfen, wie gut eine Gruppe von Clients geschützt ist?
 
@@ -542,7 +542,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 4 (Grundschutz-Check):
+## Frage 28:
 
 Wann bewerten Sie beim IT-Grundschutz-Check eine Anforderung eines IT-Grundschutz-Bausteins als erfüllt?
 
@@ -562,7 +562,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 5 (Grundschutz-Check):
+## Frage 29:
 
 Wie verfahren Sie beim ersten IT-Grundschutz-Check, also vor der Durchführung von Risikoanalysen, mit Anforderungen für den erhöhten Schutzbedarf?
 
@@ -582,7 +582,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 6 (Grundschutz-Check):
+## Frage 30:
 
 Sie stellen fest, dass eine Standard-Anforderung für ein IT-System nicht umgesetzt ist, das nur noch kurze Zeit in Betrieb ist. Wie behandeln Sie diese Anforderung beim IT-Grundschutz-Check?
 
@@ -602,7 +602,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 1 (Risikoanalyse):
+## Frage 31:
 
 Wer trägt die Verantwortung für die bei einer Risikoanalyse getroffenen Entscheidungen zu einem IT-System?
 
@@ -622,7 +622,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 2 (Risikoanalyse):
+## Frage 32:
 
 Welche Gefährdungen werden bei der Erstellung der Gefährdungsübersicht im ersten Schritt betrachtet?
 
@@ -642,7 +642,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 3 (Risikoanalyse):
+## Frage 33:
 
 Was bewerten Sie bei der Risikoeinschätzung?
 
@@ -662,7 +662,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 4 (Risikoanalyse):
+## Frage 34:
 
 Wodurch verlagern Sie ein Risiko?
 
@@ -682,7 +682,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 5 (Risikoanalyse):
+## Frage 35:
 
 Aus welchen Gründen kann es gerechtfertigt sein, auch ein hohes Risiko zu akzeptieren?
 
@@ -702,7 +702,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 6 (Risikoanalyse):
+## Frage 36:
 
 Wann ist die Risikoakzeptanz grundsätzlich unzulässig?
 
@@ -722,7 +722,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 1 (Umsetzungsplanung):
+## Frage 37:
 
 Was müssen Sie prüfen, wenn Sie die Umsetzung von Sicherheitsmaßnahmen planen?
 
@@ -742,7 +742,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 2 (Umsetzungsplanung):
+## Frage 38:
 
 Welche Informationen aus dem IT-Grundschutz-Kompendium unterstützen Sie bei der Festlegung einer sinnvollen Umsetzungsreihenfolge der geplanten Maßnahmen?
 
@@ -762,7 +762,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 3 (Umsetzungsplanung):
+## Frage 39:
 
 Was unternehmen Sie als Informationssicherheitsbeauftragter, wenn die Leitung Ihrer Institution nicht bereit ist, den Aufwand für eine bestimmte Sicherheitsmaßnahme zu tragen?
 
@@ -782,7 +782,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 4 (Umsetzungsplanung):
+## Frage 40:
 
 Wer sollte in der Regel technische Maßnahmen zur Absicherung eines bestimmten IT-Systems umsetzen?
 
@@ -802,7 +802,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 5 (Umsetzungsplanung):
+## Frage 41:
 
 Wer sollte üblicherweise prüfen, ob eine Sicherheitsmaßnahme wie geplant umgesetzt ist?
 
@@ -822,7 +822,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 6 (Umsetzungsplanung):
+## Frage 42:
 
 Welches Hilfsmittel im IT-Grundschutz-Kompendium können Sie verwenden, um Ihrer Leitung zu verdeutlichen, welche Risiken die Nichterfüllung von Anforderungen mit sich bringt?
 
@@ -842,7 +842,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 1 (Aufrechterhaltung):
+## Frage 43:
 
 Warum sollten Sie Ihr Sicherheitskonzept regelmäßig überprüfen?
 
@@ -862,7 +862,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 2 (Aufrechterhaltung):
+## Frage 44:
 
 Welche Kriterien sollten Sie bei der Überprüfung Ihres Sicherheitskonzepts berücksichtigen?
 
@@ -882,7 +882,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 3 (Aufrechterhaltung):
+## Frage 45:
 
 Welche Vorteile bieten Reifegradmodelle für die Bewertung eines ISMS?
 
@@ -902,7 +902,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 4 (Aufrechterhaltung):
+## Frage 46:
 
 Welche Voraussetzungen müssen für den Erwerb eines ISO 27001-Zertifikats auf der Basis von IT-Grundschutz erfüllt sein?
 
@@ -922,7 +922,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 5 (Aufrechterhaltung):
+## Frage 47:
 
 Welche der folgenden Untersuchungen haben die systematische Überprüfung der Informationssicherheit in einer Institution zum Ziel?
 
@@ -942,7 +942,7 @@ END
 START
 Einfach
 Vorderseite:
-## Frage 6 (Aufrechterhaltung):
+## Frage 48:
 
 Was sollte vor der Einführung einer Kennzahl zur Informationssicherheit unbedingt festgelegt werden?
 
