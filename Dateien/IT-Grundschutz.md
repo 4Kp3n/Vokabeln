@@ -3,7 +3,7 @@ TARGET DECK: IT-Grundschutz
 START
 Einfach
 Vorderseite:
-## Frage 1 (Sicherheitsmanagement):
+## Frage 100 (Sicherheitsmanagement):
 
 Welches Modell liegt dem in BSI-Standard 200-1 beschriebenen Sicherheitsprozess zugrunde?
 
