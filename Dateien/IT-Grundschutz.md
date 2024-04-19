@@ -958,3 +958,86 @@ Was sollte vor der Einführung einer Kennzahl zur Informationssicherheit unbedin
 3. mit welchem Verfahren die Werte eine Kennzahl erhoben werden **[richtig]**
 4. wie die Ergebnisse vor der Leitung der Institution verborgen werden können
 END
+
+START
+Einfach
+Vorderseite: Welche Informationen beinhaltet die IT-Grundschutz-Methodik (BSI-Standard 200-2)?
+A: besonders schutzwürdigen Komponenten
+B: methodische Hilfestellungen zur schrittweisen Einführung eines ISMS
+C: wie die Informationssicherheit im laufenden Betrieb aufrechterhalten und kontinuierlich verbessert werden kann
+D: effiziente Verfahren, um die allgemeinen Anforderungen des BSI-Standards 200-1 zu konkretisiere
+Rückseite: B,C & D sind korrekt
+END
+
+  
+
+START
+Einfach
+Vorderseite: Welche Schichten gehören zu den Prozess-Bausteinen im IT-Grundschutz-Kompendium?
+A: ISMS
+B: APP
+C: OPS
+D: DER
+Rückseite: A,C & D sind korrekt
+END
+
+  
+
+START
+Einfach
+Vorderseite: Welche Schichten gehören zu den System-Bausteinen im IT-Grundschutz-Kompendium?
+A:IND
+B:APP
+C:NET
+D:INF
+Rückseite: alle sind korrekt
+END
+
+  
+
+START
+Einfach
+Vorderseite: Welche Art von Schutz hat Informationssicherheit zum Ziel?
+A: Informationen jeglicher Art und Herkunft zu schützen
+B: Den Schutz elektronisch gespeicherter Informationen und deren Verarbeitung
+C: Den Schutz von Informationen in den Köpfen der Mitarbeiter
+D: Den Schutz von Informationen auf Papier
+Rückseite: alle sind korrekt
+END
+
+  
+
+START
+Einfach
+Vorderseite: Was zeichnet einen Informationsverbund im Sinne des BSI-Grundschutz aus?
+A: eine Mindestgröße von 20 Elementen
+B: ein festgelegter Geltungsbereich
+C: eine sinnvolle Mindestgröße
+D: Teilbereiche sollten gut abgrenzbar sein
+Rückseite: B, C & D sind korrekt
+END
+
+  
+
+START
+Einfach
+Vorderseite: Was sind Zielobjekte des Sicherheitskonzepts?
+A: Alle IT-Systeme einer Institution
+B: Alle in der Erstaufnahme ermittelten Komponenten
+C: Ausschließlich die Mitarbeiter auf Ebene der Geschäftsführung
+D: Die angemieteten Gebäude einer Institution
+Rückseite: B ist korrekt
+END
+
+  
+
+START
+Einfach
+Vorderseite: Was sind geeignete technische und organisatorische Maßnahmen in einem Sicherheitskonzept?
+A: Maßnahmen zur physischen Absicherung von Gebäuden und Räumlichkeiten
+B: ausreichende Datensicherungsverfahren
+C: Verfahren zur Messung der Mitarbeiterzufriedenheit
+D: Sicherstellen der pünktlichen Zahlung von Abgaben und Gehältern
+Rückseite: A & B sind korrekt
+
+END
