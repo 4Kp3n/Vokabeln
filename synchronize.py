@@ -49,6 +49,8 @@ def parse_md_file(filepath):
         if card_tags: 
             card_tags = card_tags.group(1) + '\n'
             tmp.append(card_tags)
+        else:
+            tmp.append('')
 
         # (card_id might be empty)
         if card_id:
@@ -142,7 +144,12 @@ def main():
 
                 if not found:
                     print('New card "{}" will be added'.format(rcard[1]))
-                    # TODO add new card to end of file
+                    if rcard[3]:
+                        content = f"\n\nSTART\n{rcard[0]}\n{rcard[1]}{rcard[2]}{rcard[3]}END\n"
+                    else:
+                        content = f"\n\nSTART\n{rcard[0]}\n{rcard[1]}{rcard[2]}END\n"
+                    with open(obsidian_fp, 'a', encoding='utf-8') as fp:
+                        fp.write(content)
 
 # Run main function
 if __name__ == '__main__':
