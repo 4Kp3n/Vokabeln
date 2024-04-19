@@ -1,4 +1,4 @@
-TARGET DECK: IT-Grundschutz
+TARGET DECK: Gesetze-und-Normen
 
 START
 Einfach
