@@ -14,3 +14,9 @@ Risikobehandlung durch:
 - die **Risikoakzeptanz** beispielsweise, weil die mit dem Risiko verbundenen Chancen genutzt werden sollen und zusätzliche Maßnahmen zur Reduktion oder Verlagerung des Risikos für nicht erforderlich angesehen werden. 
 
 END
+
+Start
+Einfach
+Vorderseite: Nenne zwei Methoden die wir kennen gelernt haben zur Risikobewertung.
+Rückseite: FMEA-Methode und Bowtie-Methode
+END
