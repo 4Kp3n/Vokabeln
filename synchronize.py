@@ -2,9 +2,9 @@ import os
 import shutil
 import re
 
-REPO_PATH = "./Dateien"  
+REPO_PATH = "C:\Users\arsch\.vscode\Vokabeln\Vokabeln"  
 # Pfad anpassen!
-OBSIDIAN_PATH = "C:/Users/User/Kioku/Anki" # Change this to the path of your folder
+OBSIDIAN_PATH = "C:\Users\arsch\OneDrive\Dokumente\Obsidian Vault\Vokabeln" # Change this to the path of your folder
 
 # summary: Takes a path to a .md file and parses all contained vocabulary cards (Anki format required!)
 # filepath: Path to the .md file to parse
