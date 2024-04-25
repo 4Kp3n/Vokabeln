@@ -4,7 +4,7 @@ START
 Einfach
 Vorderseite: Was sagt die ISO 22301 aus?
 Rückseite:
-* Internationale Norm für BCM
+* Internationale Norm für BCM, Business Continuity Management
 * Definiert Anforderungen an BCM-Systeme
 * Ziel: Organisation bei der Bewältigung von Geschäftsunterbrechung unterstützen
 END
@@ -51,6 +51,8 @@ Vorderseite: Was sagt die ISO 27005?
 Rückseite:
 * Internationale Norm, bietet Leitlinien für das Informationssicherheits-Risikomanagement
 * Ergänzt ISO 27001 durch detaillierte Anleitungen zur Identifizierung
+* siehe auch ISO 31000 Grundsätze und Leitlinien für das Risikomanagement
+* siehe auch ISO 31010 Sammlung von Risikobewertungstechniken
 * Ziel: Unterstützung bei der Implementierung eines effektiven Risikomanagementsystems 
 END
 
@@ -103,9 +105,11 @@ START
 Einfach
 Vorderseite: Was definiert das IT-Sicherheitsgesetz 2.0?
 Rückseite:
-* Betrifft KRITIS und UNBÖFI
-* Unter Kontrolle der BSI
-* Kompetenzerweiterung des BSI (Verbraucherschutz und Detektion und Abwehr)
+* Stärkt das BSI in den folgenden Punkten
+  - Detektion und Abwehr
+  - Cybersicherheit in den Mobilfunknetzen
+  - Verbraucherschutz
+  - Sicherheit für Unternehmen, betrifft KRITIS und UNBÖFI
 END
 
 START
@@ -118,9 +122,14 @@ START
 Einfach
 Vorderseite: Was definiert NIS 2?
 Rückseite:
-* Europäische Richtlinie 
+* Europäische Richtlinie, verschärft die besiherige Regelung sehr!
 * nationale Umsetzung bis Ende 2024
 * Umsetzungsgesetz: NIS2UmsuCG
+* Mehr Unternehmen sind betroffen
+  - Selbsteinstufung: KRITIS, besonders wichtig oder wichtig
+  - technische und organisatorische Maßnahmen (TOM) treffen, um angemessene IT Sicherheit zu gewährleisten
+  - Risikomanagement, ISMS einführen
+  - Ausweitung der Anforderung auch auf die Lieferkette 
 END
 
 START
