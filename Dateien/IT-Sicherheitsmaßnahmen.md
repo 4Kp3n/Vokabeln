@@ -315,3 +315,36 @@ Vorderseite: Was ist Multi-Faktor-Authentifizierung (MFA)?
 Rückseite: MFA erhöht die Sicherheit durch mindestens zwei Authentifizierungsmethoden
 END
 
+
+START
+Einfach
+Vorderseite: Was ist ein NAC?
+Rückseite: Network Access Control
+END
+
+START
+Einfach
+Vorderseite: Wozu wird ein NAC genutzt?
+Rückseite: Ein NAC überwacht und kontrolliert den Zugriff von Geräten in ein Netzwerk, indem es sicherstellt, dass nur autorisierte und sichere Geräte Zugriff erhalten
+END
+
+
+START
+Einfach
+Vorderseite: Was ist ein HIPS?
+Rückseite: Host-Intrusion-Prevention-System
+END
+
+
+START
+Einfach
+Vorderseite: Wofür wird ein HIPS genutzt?
+Rückseite: HIPS überwachen das Verhalten von Anwendungen und Prozessen auf Endpunkten, um ungewöhnliche Aktivitäten zu erkennen und potenzielle Angriffe zu blockieren.
+END
+
+
+START
+Einfach
+Vorderseite: Was macht eine End-to-End-Verschlüsselung?
+Rückseite: Diese Technologie verschlüsselt Daten von ihrem Ursprung bis zu ihrem Ziel, um sicherzustellen das diese bei der gesamten Übertragung geschützt sind.
+END
