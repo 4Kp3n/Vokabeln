@@ -22,7 +22,8 @@ END
 START
 Einfach (beide Richtungen)
 Vorderseite: VPN - Virtual Private Network
-Rückseite: Tunnel-Verbindung zwischen dem Client und dem Unternehmensnetzwerk (Client-to-Server) oder zwischen Standorten von Unternehmen
+Rückseite: Verschlüsselt Daten und leitet sie über einen sicheren Tunnel.
+Vorteile: Anonymität, Datenschutz und Sicherheit beim Surfen im Internet.
 END
 
 START
