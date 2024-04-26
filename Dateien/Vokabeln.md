@@ -22,7 +22,7 @@ END
 START
 Einfach (beide Richtungen)
 Vorderseite: VPN - Virtual Private Network
-Rückseite: Tunnel-Verbindung zwischen dem Client und dem Unternehmensnetzwerk (Client-to-Server) oder zwischen Standorten von Unternehmen
+Rückseite: Ein  (Virtual Private Network) ist ein sicherer Tunnel, der eine verschlüsselte Verbindung zwischen einem Benutzer und (z.B.) einem entfernten Server herstellt, um den Datenschutz und die Sicherheit im Internet zu verbessern, insbesondere beim Surfen in öffentlichen Netzwerken. 
 END
 
 START
