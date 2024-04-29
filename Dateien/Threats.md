@@ -38,6 +38,12 @@ END
 
 START
 Einfach
+Vorderseite: Base64 encoded
+Rückseite: WW91IGZvdW5kIGEgd2VpcmQgY2FyZCBhbmQgZGVjb2RlZCBpdCwgbmljZSEKVGhpcyBpcyBqdXN0IHRoZSBiZWdpbm5pbmcgdGhvdWdoLi4uClRoZSBjb2RlIGlzOiBpZHRkYmZJaTAwOHl0eU9pdU5McQ==
+END
+
+START
+Einfach
 Vorderseite: Virus
 Rückseite: Ein Virus ist eine Art von Schadprogramm, das sich durch Anhängen an andere Dateien oder Programme verbreitet und sich selbst reproduziert, indem es seinen bösartigen Code in andere Dateien einfügt. Wenn infizierte Dateien ausgeführt werden, kann ein Virus schädliche Aktivitäten ausführen, wie das Beschädigen von Dateien, das Ausspionieren von Informationen oder das Übernehmen der Kontrolle über das System.
 END
