@@ -122,7 +122,7 @@ START
 Einfach
 Vorderseite: Was definiert NIS 2?
 Rückseite:
-* Europäische Richtlinie, verschärft die besiherige Regelung sehr!
+* Europäische Richtlinie, verschärft die bisherige Regelung sehr!
 * nationale Umsetzung bis Ende 2024
 * Umsetzungsgesetz: NIS2UmsuCG
 * Mehr Unternehmen sind betroffen
