@@ -60,6 +60,7 @@ Einfach
 Vorderseite: Was versteht man unter Autorisierung?
 Rückseite: Das **Erlauben** von gewissen Zugriffen.
 Beispiel: Ich **autorisiere** den Benutzer Neo das Steuer der Nebukadnezar
+
 END
 
 START
