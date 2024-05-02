@@ -249,7 +249,6 @@ Rückseite:
 -Anmerkung Übergang zum PDCA w/
 -weil sich der Standard der Technik immer ändert
 -Ausrichtung und Ziele unseres Unternehmens ändern sich ebenfalls
-
 END
 
 START
@@ -266,7 +265,6 @@ Rückseite:
 -Prozessbausteine JA
 -elementare Gefährdungen JA
 -Kreuzreferenztabelle NEIN,   (ist jetzt Datei)
-
 END
 
 START
