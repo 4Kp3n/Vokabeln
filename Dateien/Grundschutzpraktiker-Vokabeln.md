@@ -249,7 +249,6 @@ Rückseite:
 -Anmerkung Übergang zum PDCA w/
 -weil sich der Standard der Technik immer ändert
 -Ausrichtung und Ziele unseres Unternehmens ändern sich ebenfalls
-
 END
 
 START
@@ -266,7 +265,6 @@ Rückseite:
 -Prozessbausteine JA
 -elementare Gefährdungen JA
 -Kreuzreferenztabelle NEIN,   (ist jetzt Datei)
-
 END
 
 START
@@ -532,10 +530,19 @@ END
 
 START
 Einfach
-Vorderseite: 
+Vorderseite:
 ### IT-Grundschutz Vorgehensweise **Schritt 1**
+Rückseite:
+Sicherheitsmanagement
+END
+
+
+START
+Einfach
+Vorderseite: 
+### IT-Grundschutz Vorgehensweise **Schritt 2**
 Rückseite: 
-### Strukturanalyse (IST-Zustand)
+ Strukturanalyse (IST-Zustand)
 
 Zu berücksichtigen sind: 
 - Abläufe
@@ -544,16 +551,6 @@ Zu berücksichtigen sind:
 - Systeme 
 - Räume
 - Gebäude
-
-END
-
-START
-Einfach (beide Richtungen)
-Vorderseite: 
-### IT-Grundschutz Vorgehensweise **Schritt 2**
-Rückseite: 
-Schutzbedarfsfeststellung 
-
 END
 
 START
@@ -561,8 +558,7 @@ Einfach (beide Richtungen)
 Vorderseite: 
 ### IT-Grundschutz Vorgehensweise **Schritt 3**
 Rückseite: 
-Modellierung (Auswahl der Sicherheitsanforderungen)
-
+Schutzbedarfsfeststellung 
 END
 
 START
@@ -570,8 +566,7 @@ Einfach (beide Richtungen)
 Vorderseite: 
 ### IT-Grundschutz Vorgehensweise **Schritt 4**
 Rückseite: 
-IT-Grundschutz-Check-Teil 1 (Soll-Ist-Vergleich)
-
+Modellierung (Auswahl der Sicherheitsanforderungen)
 END
 
 START
@@ -579,8 +574,7 @@ Einfach (beide Richtungen)
 Vorderseite: 
 ### IT-Grundschutz Vorgehensweise **Schritt 5**
 Rückseite: 
-Risikoanalyse
-
+IT-Grundschutz-Check-Teil 1 (Soll-Ist-Vergleich)
 END
 
 START
@@ -588,8 +582,16 @@ Einfach (beide Richtungen)
 Vorderseite: 
 ### IT-Grundschutz Vorgehensweise **Schritt 6**
 Rückseite: 
-Konsolidierung 
+Risikoanalyse
+END
 
+START
+Einfach (beide Richtungen)
+Vorderseite: 
+### IT-Grundschutz Vorgehensweise **Schritt 7**
+Rückseite: 
+Konsolidierung + IT-Grunschutz-Check Teil 2
+Die Ergebnisse aus der Risikoanalyse werden mit den Maßnahmen abgeglichen und ggf. angepasst
 END
 
 START
@@ -598,17 +600,8 @@ Vorderseite:
 ### Was bedeutet Konsolidierung
 Rückseite: 
 Der Begriff „Konsolidierung der IT-Infrastruktur“ bezeichnet den Prozess der Vereinheitlichung und Zusammenführung im Sinne von Umwandeln und Zusammenlegen
-
 END
 
-START
-Einfach (beide Richtungen)
-Vorderseite: 
-### IT-Grundschutz Vorgehensweise **Schritt 7**
-Rückseite: 
-IT-Grundschutz-Check-Teil 2
-
-END
 
 START
 Einfach (beide Richtungen)
@@ -616,7 +609,6 @@ Vorderseite:
 ### IT-Grundschutz Vorgehensweise **Schritt 8**
 Rückseite: 
 Realisierung der Maßnahmen
-
 END
 
 START
@@ -625,7 +617,6 @@ Vorderseite:
 ### IT-Grundschutz Vorgehensweise **Schritt 9**
 Rückseite: 
 Aufrechterhaltung und kontinuierliche Verbesserung 
-
 END
 
 START
@@ -742,3 +733,336 @@ MTA=max. tolerierbare Ausfallzeit
 Wiederherstellungszeit = Wiederanlaufzeit + Notbetriebszeit 
 
 END
+
+
+START
+Einfach
+Vorderseite:
+### Was sind Erfolgsfaktoren für eine erfolgreiche Zertifizierung?
+**RICHTIG / FALSCH**
+
+- Unterstützung durch die Geschäftsführung
+- Verständnis, Kooperationsbereitschaft und aktive Unterstützung durch die IT
+- Eine für den Auditor nachvollziehbare Dokumentation
+- Bereitschaft zur Überschreitung des Budgets
+
+Rückseite:
+Unterstützung durch die Geschäftsführung **RICHTIG**
+Verständnis, Kooperationsbereitschaft und aktive Unterstützung durch die IT **RICHTIG**
+Eine für den Auditor nachvollziehbare Dokumentation **RICHTIG**
+Bereitschaft zur Überschreitung des Budgets **FALSCH**
+END 
+
+START
+Einfach
+Vorderseite:
+### Warum ist eine Zertifizierung nach IT-Grundschutz auf Basis von ISO 27001 sinnvoll?
+**RICHTIG / FALSCH**
+
+- Nur mit Zertifizierung ist der Schutz von Informationen im Unternehmen gewährleistet.
+- Optimierung interner Prozesse 
+- Mittelfristige Kosteneinsparung 
+- Erhöhung der Attraktivität für Geschäftspartner mit hohen Sicherheitsanforderungen
+
+Rückseite:
+Nur mit Zertifizierung ist der Schutz von Informationen im Unternehmen gewährleistet. **FALSCH**
+Optimierung interner Prozesse **RICHTIG**
+Mittelfristige Kosteneinsparung **RICHTIG**
+Erhöhung der Attraktivität für Geschäftspartner mit hohen Sicherheitsanforderungen **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite:
+### Welche Punkte treffen auf IT-Grundschutz-Profile zu?
+**RICHTIG / FALSCH**
+- Es gibt eine öffentliche Datenbank, wo Unternehmen IT-Grundschutz-Profile hoch- und runterladen können. 
+- Anwender, die ähnliche Sicherheitsanforderungen haben, können mit einem entsprechenden IT-Grundschutz-Profil das Sicherheitsniveau ressourcenschonend überprüfen oder damit beginnen, ein ISMS nach IT-Grundschutz aufzubauen 
+- IT-Grundschutz-Profile können durch Behörden und Unternehmen für bestimmte Anwendungsfälle selbst erstellt werden 
+- IT-Grundschutz-Anwendern werden Musterszenarien für unterschiedliche Anwendungsfelder zur Verfügung gestellt. 
+
+Rückseite:
+
+- Es gibt eine öffentliche Datenbank, wo Unternehmen IT-Grundschutz-Profile hoch- und runterladen können. **FALSCH**
+- Anwender, die ähnliche Sicherheitsanforderungen haben, können mit einem entsprechenden IT-Grundschutz-Profil das Sicherheitsniveau ressourcenschonend überprüfen oder damit beginnen, ein ISMS nach IT-Grundschutz aufzubauen **RICHTIG**
+- IT-Grundschutz-Profile können durch Behörden und Unternehmen für bestimmte Anwendungsfälle selbst erstellt werden **RICHTIG**
+- IT-Grundschutz-Anwendern werden Musterszenarien für unterschiedliche Anwendungsfelder zur Verfügung gestellt. **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite:
+### Welche „Instrumente“ können als Messwert für die Güte eines Sicherheitsprozesses dienen?
+**RICHTIG / FALSCH**
+- Reifegradmodelle
+- Kennzahlen
+- Eine Risikoanalyse
+- Der IT-Grundschutz-Check
+
+Rückseite:
+- Reifegradmodelle **RICHTIG**
+- Kennzahlen **RICHTIG**
+- Eine Risikoanalyse **FALSCH**
+- Der IT-Grundschutz-Check **FALSCH**
+END
+
+
+START
+Einfach
+Vorderseite:
+### Welche der folgenden Aussagen sind **nicht** richtig?
+
+**RICHTIG / FALSCH**
+
+- Das BSI schreibt für alle Unternehmen, welche auf die Bausteine des IT-Grundschutzes zurückgreifen, eine Zertifizierung vor. 
+- Informationssicherheit ist kein einmalig herzustellender und anschließend stabiler Zustand, sondern ein stetiger Prozess, der immer wieder an sich wandelnde und neue Herausforderungen angepasst werden muss. 
+- Der ISB ist haftbar für die Informationssicherheit im Unternehmen. 
+- Durch die Einhaltung des Datenschutzes im Unternehmen ist auch die Informationssicherheit gewährleistet. 
+Rückseite:
+- Das BSI schreibt für alle Unternehmen, welche auf die Bausteine des IT-Grundschutzes zurückgreifen, eine Zertifizierung vor. **RICHTIG**
+- Informationssicherheit ist kein einmalig herzustellender und anschließend stabiler Zustand, sondern ein stetiger Prozess, der immer wieder an sich wandelnde und neue Herausforderungen angepasst werden muss. **FALSCH**
+- Der ISB ist haftbar für die Informationssicherheit im Unternehmen. **RICHTIG**
+- Durch die Einhaltung des Datenschutzes im Unternehmen ist auch die Informationssicherheit gewährleistet. **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite:
+### Ihre Organisation strebt die Standard-Absicherung an, stimmt die folgende Aussage: Lediglich die Basis-Anforderungen muss erfüllt sein 
+
+RICHTIG / FALSCH
+Rückseite:
+
+**FALSCH**
+END
+
+START
+Einfach
+Vorderseite:
+### Ihre Organisation strebt die Standard-Absicherung an, stimmt die folgende Aussage: Zusätzlich zu den Standard-Anforderungen sind gegebenenfalls auch die Anforderungen für erhöhten Schutzbedarf zu berücksichtigen 
+
+RICHTIG / FALSCH
+Rückseite:
+
+**RICHTIG**
+END
+
+START
+Einfach
+Vorderseite:
+### Ihre Organisation strebt die Standard-Absicherung an, stimmt die folgende Aussage: Lediglich die Standard-Anforderungen muss erfüllt sein 
+
+RICHTIG / FALSCH
+Rückseite:
+
+**FALSCH**
+END
+
+START
+Einfach
+Vorderseite:
+### Ihre Organisation strebt die Standard-Absicherung an, stimmt die folgende Aussage: Es müssen sowohl Basis-Anforderungen als auch Standard-Anforderungen berücksichtigt werden 
+
+RICHTIG / FALSCH
+Rückseite:
+
+**RICHTIG**
+END
+
+START
+Einfach
+Vorderseite:
+### Was sind Erfolgsfaktoren für eine erfolgreiche Zertifizierung?
+
+- Eine für den Auditor nachvollziebare Dokumentation 
+- Kooperationsbereitschaft und aktive Unterstützung durch die IT
+- Bereitschaft zur Überschreitung des Budgets 
+- Unterstützung durch die Geschäftsführung 
+Rückseite:
+
+- Eine für den Auditor nachvollziehbare Dokumentation **RICHTIG**
+- Verständnis, Kooperationsbereitschaft und aktive Unterstützung durch die IT  **RICHTIG**
+- Bereitschaft zur Überschreitung des Budgets **FALSCH**
+- Unterstützung durch die Geschäftsführung **RICHTIG**
+END
+
+
+START
+Einfach
+Vorderseite:
+### **Eine Risikoanalyse muss welche Schritte umfassen?**
+
+**RICHTIG / FALSCH**
+
+- Mögliche Schäden durch Verlust von Vertraulichkeit, Integrität oder Verfügbarkeit müssen identifiziert und eingeschätzt werden
+- Schwachstellen, durch welche identifizierte Bedrohungen wirken könnten, müssen ebenfalls behandelt werden
+- Alle möglichen Bedrohungen sind zu betrachten, unabhängig davon ob auch entsprechende Schwachstellen vorhanden sind
+- Zu schützende Informationen und Geschäftsprozesse müssen identifiziert werden
+
+Rückseite:
+- Mögliche Schäden durch Verlust von Vertraulichkeit, Integrität oder Verfügbarkeit müssen identifiziert und eingeschätzt werden **RICHTIG**
+- Schwachstellen, durch welche identifizierte Bedrohungen wirken könnten, müssen ebenfalls behandelt werden **RICHTIG**
+- Alle möglichen Bedrohungen sind zu betrachten, unabhängig davon ob auch entsprechende Schwachstellen vorhanden sind **FALSCH**
+- Zu schützende Informationen und Geschäftsprozesse müssen identifiziert werden **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite:
+
+### **Welche Faktoren sollten Sie bei der Auswahl eines geeigneten Auditors berücksichtigen?**
+
+**RICHTIG / FALSCH**
+
+- Berufserfahrung
+- Die Durchfallquote bei Audits
+- Keine der genannten Antworten
+- Schulungen und Aufrechterhaltung der Qualifikationen
+**Richtig/Falsch**
+Rückseite:
+- Berufserfahrung **RICHTIG**
+- Die Durchfallquote bei Audits **FALSCH**
+- Keine der genannten Antworten **FALSCH**
+- Schulungen und Aufrechterhaltung der Qualifikationen **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite:
+### **Welcher BSI-Standard hat den Standard 100-4 abgelöst?**
+
+**RICHTIG / FALSCH**
+
+- BSI-Standard 200-3
+- BSI-Standard 200-4
+- BSI-Standard 200-5
+- BSI-Standard 200-2 
+**Richtig/Falsch**
+Rückseite:
+- BSI-Standard 200-3 **FALSCH**
+- BSI-Standard 200-4 **RICHTIG**
+- BSI-Standard 200-5 **FALSCH**
+- BSI-Standard 200-2 **FALSCH**
+END
+
+START
+Einfach
+Vorderseite:
+### **Wie lange ist das BSI IT-Grundschutz-Zertifikat gültig?**
+
+**RICHTIG / FALSCH**
+
+- 5 Jahre
+- 1 Jahr
+- 3 Jahre
+- 2 Jahre
+**Richtig/Falsch**
+Rückseite:
+- 5 Jahre FALSCHFalsch**
+- 1 Jahr **FALSCH**
+- 3 Jahre **RICHTIG**
+- 2 Jahre **FALSCH**
+END
+
+START
+Einfach
+Vorderseite:
+### **Für die Aufrechterhaltung und die kontinuierliche Verbesserung der Informationssicherheit sind Kontrollen erforderlich. Welche Aussagen sind diesbezüglich zutreffend?**
+
+**RICHTIG / FALSCH**
+
+- Kontrollen dürfen ausschließlich vom ISB durchgeführt werden.
+- Für die Akzeptanz ist es wichtig, dass für alle Beteiligten das Ziel der Kontrolle klar erkennbar ist. 
+- Kontrollen sind einmal im Jahr durchzuführen.
+- Kontrollen sollten primär darauf ausgerichtet sein, Mängel abzustellen.
+**Richtig/Falsch**
+Rückseite:
+- Kontrollen dürfen ausschließlich vom ISB durchgeführt werden. **FALSCH**
+- Für die Akzeptanz ist es wichtig, dass für alle Beteiligten das Ziel der Kontrolle klar erkennbar ist. **RICHTIG**
+- Kontrollen sind einmal im Jahr durchzuführen. **FALSCH**
+- Kontrollen sollten primär darauf ausgerichtet sein, Mängel abzustellen. **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite:
+### **Für den ISB ist es wichtig, bei Kontrollen im Unternehmen ein möglichst genaues und realistisches Bild zu erhalten. Was kann dabei helfen?**
+
+**RICHTIG / FALSCH**
+
+- Mitarbeiter der Führungsebene melden, wenn Fehlverhalten festgestellt wird
+- Anpassung der Kennzahlen aufgrund des Ergebnisses der Kontrolle
+- Den Beteiligten die Ziele der Kontrollen klar kommunizieren
+- Überprüfung der konkreten Umsetzung der beschlossenen Maßnahmen
+**Richtig/Falsch**
+Rückseite:
+- Mitarbeiter der Führungsebene melden, wenn Fehlverhalten festgestellt wird **FALSCH**
+- Anpassung der Kennzahlen aufgrund des Ergebnisses der Kontrolle **FALSCH**
+- Den Beteiligten die Ziele der Kontrollen klar kommunizieren **RICHTIG**
+- Überprüfung der konkreten Umsetzung der beschlossenen Maßnahmen **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite:
+### **Welche Aussage zur Risikoanalyse auf Basis von IT-Grundschutz trifft zu?**
+
+**RICHTIG / FALSCH**
+
+- In der Risikoanalyse auf Basis von IT-Grundschutz wird eine Risikomatrix vorgegeben
+- Die Risikoanalyse wird im BSI Standard 200-2 beschrieben
+- Die Risikoanalyse auf Basis von IT-Grundschutz bündelt alle risikobezogenen Arbeitsschritte in einem Standard
+- Die Eintrittswahrscheinlichkeit eines Ereignisses kann exakt beziffert werde
+**Richtig/Falsch**
+Rückseite:
+- In der Risikoanalyse auf Basis von IT-Grundschutz wird eine Risikomatrix vorgegeben **FALSCH**
+- Die Risikoanalyse wird im BSI Standard 200-2 beschrieben **FALSCH**
+- Die Risikoanalyse auf Basis von IT-Grundschutz bündelt alle risikobezogenen Arbeitsschritte in einem Standard **RICHTIG**
+- Die Eintrittswahrscheinlichkeit eines Ereignisses kann exakt beziffert werde **FALSCH**
+END
+
+START
+Einfach
+Vorderseite:
+### **Welche Möglichkeiten der Risikobehandlung gibt es bei der Risikoanalyse auf Basis von IT-Grundschutz?**
+
+**RICHTIG / FALSCH**
+
+- Vermeidung
+- Realisierung
+- Akzeptanz
+- Transformation
+**Richtig/Falsch**
+Rückseite:
+- Vermeidung **RICHTIG**
+- Realisierung **FALSCH**
+- Akzeptanz **RICHTIG**
+- Transformation **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite:
+
+### **Welche Aussagen über das Bewertungsverfahren in der Risikoanalyse auf Basis von IT-Grundschutz treffen zu?**
+
+**RICHTIG / FALSCH**
+
+- Wenn ein Risiko nicht akzeptabel ist, können Maßnahmen zur Senkung, Vermeidung oder Übertragung zum Tragen kommen 
+- Mit der „Was-Wäre-Wenn-Analyse“ wird eingeschätzt, wie sich ein Risiko nach der Umsetzung von Maßnahmen ändert
+- Die Geschäftsführung kann dem ISB die Verantwortung für das Restrisiko übertragen
+- Die Einordnung eines Risikos kann anhand einer Risikomatrix vorgenommen werden
+**Richtig/Falsch**
+Rückseite:
+- Wenn ein Risiko nicht akzeptabel ist, können Maßnahmen zur Senkung, Vermeidung oder Übertragung zum Tragen kommen **RICHTIG**
+- Mit der „Was-Wäre-Wenn-Analyse“ wird eingeschätzt, wie sich ein Risiko nach der Umsetzung von Maßnahmen ändert **RICHTIG**
+- Die Geschäftsführung kann dem ISB die Verantwortung für das Restrisiko übertragen **FALSCH**
+- Die Einordnung eines Risikos kann anhand einer Risikomatrix vorgenommen werden **RICHTIG**
+END
+
+
+
+
+
+
+
