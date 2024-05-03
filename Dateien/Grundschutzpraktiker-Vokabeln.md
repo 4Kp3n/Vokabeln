@@ -715,7 +715,7 @@ START
 Einfach
 Vorderseite:
 ### Thema: Notfallmanagement 
-Nenne 6 Phasen nach Eintritt eines Notfalls 
+Nenne 5 Phasen nach Eintritt eines Notfalls 
 Rückseite:
 
 Phasen nach einem Notfall
@@ -1060,9 +1060,185 @@ Rückseite:
 - Die Einordnung eines Risikos kann anhand einer Risikomatrix vorgenommen werden **RICHTIG**
 END
 
+START
+Einfach
+Vorderseite:
+### Zertifizierungen Audit - Vorgehensweise
+
+Liste die Reihenfolge der 10 relevanten Punkte auf.
+ 
+Rückseite:
+1. Audit initiieren 
+2. Auditteam bestellen 
+3. Zertifizierungsantrag stellen (Akkreditierungsmodell) 
+4. Unabhängigkeitserklärung der Auditoren
+5. Dokumentenprüfung (Referenzdokumente, Konzepte) 
+6. Prüfplanerstellung 
+7. Prüfung (Dokumentenprüfung, körperliche Prüfung, Interviews) 
+8. Erstellung des Auditberichts (Empfehlung durch Auditor) 
+9. Nachbesserung umsetzen 
+10. Zertifikatserteilung (durch Zertifizierungsstelle)
+END
+
+START
+Einfach
+Vorderseite: 
+### Welche Aussagen zur Risikoanalyse nach BSI-Standard 200-3 sind zutreffend?
+**RICHTIG / FALSCH**
+- Risiken müssen folgenden Kategorien zugeordnet werden: sehr wichtig, wichtig, normal, unwichtig.
+- Das BSI schreibt eine 9-Stufen- Risikomatrix vor.
+- Die Risikobetrachtung darf auch auf die Assets heruntergebrochen werden.
+- Risikoakzeptanz bei Basisanforderungen ist nicht zulässig
+Rückseite:
+- Risiken müssen folgenden Kategorien zugeordnet werden: sehr wichtig, wichtig, normal, unwichtig. **FALSCH**
+- Das BSI schreibt eine 9-Stufen- Risikomatrix vor. **FALSCH**
+- Die Risikobetrachtung darf auch auf die Assets heruntergebrochen werden. **RICHTIG**
+- Risikoakzeptanz bei Basisanforderungen ist nicht zulässig **RICHTIG**
+END
 
 
+START
+Einfach
+Vorderseite: 
+### Folgende Punkte sollten laut BSI in der Leitlinie zur Informationssicherheit enthalten sein:
+**RICHTIG / FALSCH**
+- Festlegung des Geltungsbereiches
+- Festlegung des Maßnahmenplans
+- Nennung der kritischen, sicherheitsbedürftigen Prozesse
+- Mitarbeiterverpflichtung und Sanktionen
+Rückseite:
+- Festlegung des Geltungsbereiches **RICHTIG**
+- Festlegung des Maßnahmenplans **FALSCH**
+- Nennung der kritischen, sicherheitsbedürftigen Prozesse **RICHTIG**
+- Mitarbeiterverpflichtung und Sanktionen **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite: 
+### Was zeichnet speziell die Vorgehensweise nach IT-Grundschutz aus?
+**RICHTIG / FALSCH**
+- Die Vorgehensweise nach IT-Grundschutz zeichnet sich durch einen ganzheitlichen Ansatz aus.
+- Der IT-Grundschutz interpretiert die allgemein gehaltenen Anforderungen der ISO-Standards und hilft den Anwendern in der Praxis bei der Umsetzung.
+- Die IT-Grundschutz-Vorgehensweise geht sehr ausführlich darauf ein, wie ein Sicherheitskonzept in der Praxis erstellt werden kann.
+- Keine der genannten Antworten ist richtig
+Rückseite:
+- Die Vorgehensweise nach IT-Grundschutz zeichnet sich durch einen ganzheitlichen Ansatz aus. **RICHTIG**
+- Der IT-Grundschutz interpretiert die allgemein gehaltenen Anforderungen der ISO-Standards und hilft den Anwendern in der Praxis bei der Umsetzung. **RICHTIG**
+- Die IT-Grundschutz-Vorgehensweise geht sehr ausführlich darauf ein, wie ein Sicherheitskonzept in der Praxis erstellt werden kann. **RICHTIG**
+- Keine der genannten Antworten ist richtig **FALSCH**
+END
+
+START
+Einfach
+Vorderseite: 
+### Was trifft auf Informationssicherheit zu?
+**RICHTIG / FALSCH**
+- Die Informationssicherheit hat den Schutz von Informationen zum Ziel.
+- Hauptziel der Informationssicherheit ist der Schutz von personenbezogenen Daten.
+- Grundwerte der Informationssicherheit sind die Verfügbarkeit, Vertraulichkeit und Integrität von Informationen.
+- Die Informationssicherheit schützt die jeweilige Organisation.
+Rückseite:
+- Die Informationssicherheit hat den Schutz von Informationen zum Ziel. **RICHTIG**
+- Hauptziel der Informationssicherheit ist der Schutz von personenbezogenen Daten. **FALSCH**
+- Grundwerte der Informationssicherheit sind die Verfügbarkeit, Vertraulichkeit und Integrität von Informationen. **RICHTIG**
+- Die Informationssicherheit schützt die jeweilige Organisation. **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite: 
+### Welche Arbeitsschritte sind bei der Initialisierung eines BSI Zertifizierungsprozesses zu erledigen?
+**RICHTIG / FALSCH**
+- Übergabe der Referenzdokumente an das BSI
+- Voraudit durchführen
+- Zertifizierungsantrag stellen
+- Beauftragung eines Auditors
+Rückseite:
+- Übergabe der Referenzdokumente an das BSI **FALSCH**
+- Voraudit durchführen **FALSCH**
+- Zertifizierungsantrag stellen **RICHTIG**
+- Beauftragung eines Auditors **RICHTIG**
+END
+
+START
+Einfach
+Vorderseite: 
+### In der Regel besteht für die Informationssicherheit in Organisationen ein begrenztes Budget. Welche Punkte sollten beachtet werden, um einen Überblick über die Kosten zu behalten?
+**RICHTIG / FALSCH**
+- Erarbeitung eines Vorschlags für die Verteilung des Budgets
+- Vorherige Erstellung einer Risikoanalyse
+- Erwägung kostengünstiger Ersatzmaßnahmen, falls der Aufwand das Budget übersteigt
+- Regelmäßige Abstimmung mit dem IT-Grundschutz-Auditor
+Rückseite:
+- Erarbeitung eines Vorschlags für die Verteilung des Budgets **RICHTIG**
+- Vorherige Erstellung einer Risikoanalyse **FALSCH**
+- Erwägung kostengünstiger Ersatzmaßnahmen, falls der Aufwand das Budget übersteigt **RICHTIG**
+- Regelmäßige Abstimmung mit dem IT-Grundschutz-Auditor **FALSCH**
+END
+
+START
+Einfach
+Vorderseite: 
+### Welche Institution/Person ist befugt, ein Audit nach BSI IT-Grundschutz durchzuführen?
+**RICHTIG / FALSCH**
+- Ein nach BSI zertifizierter IT-Grundschutz-Auditor
+- Auditoren der Aufsichtsbehörden für Informationssicherheit
+- Da die Basis für den IT-Grundschutz die ISO 27001 ist, alle ISO 27001-Auditoren
+- Nur Mitarbeiter des BSI. Hierzu werden Auditoren zur Verfügung gestellt.
+Rückseite:
+- Ein nach BSI zertifizierter IT-Grundschutz-Auditor **RICHTIG**
+- Auditoren der Aufsichtsbehörden für Informationssicherheit **FALSCH**
+- Da die Basis für den IT-Grundschutz die ISO 27001 ist, alle ISO 27001-Auditoren **FALSCH**
+- Nur Mitarbeiter des BSI. Hierzu werden Auditoren zur Verfügung gestellt. **FALSCH**
+END
+
+START
+Einfach
+Vorderseite: 
+### Im Rahmen der Umsetzungsplanung wurde festgestellt, dass Maßnahmen zum Zutrittsschutz zu treffen sind. Jedoch würden einzelne Maßnahmen unter Umständen im Brandfall Fluchtwege behindern. Wie verfahren Sie?
+**RICHTIG / FALSCH**
+- Sie beschließen, die Maßnahmen zum Zutrittsschutz nicht umzusetzen und stattdessen den Brandschutz zu gewährleisten.
+- Sie halten ggf. Rücksprache mit einem Brandschutzexperten, um sowohl dem Zutrittsschutz- als auch dem Brandschutz gleichermaßen gerecht zu werden.
+- Sie lassen den Brandschutzexperten neue Fluchtwege entwickeln.
+- Sie beachten dies nicht weiter. Fluchtwege haben nichts mit Ihrer Tätigkeit als ISB zu tun.
+Rückseite:
+- Sie beschließen, die Maßnahmen zum Zutrittsschutz nicht umzusetzen und stattdessen den Brandschutz zu gewährleisten. **FALSCH**
+- Sie halten ggf. Rücksprache mit einem Brandschutzexperten, um sowohl dem Zutrittsschutz- als auch dem Brandschutz gleichermaßen gerecht zu werden. **RICHTIG**
+- Sie lassen den Brandschutzexperten neue Fluchtwege entwickeln. **FALSCH**
+- Sie beachten dies nicht weiter. Fluchtwege haben nichts mit Ihrer Tätigkeit als ISB zu tun. **FALSCH**
+END
+
+START
+Einfach
+Vorderseite: 
+### Der Ablauf der Notfallbewältigung ist in fünf Phasen unterteilt. Welches ist der richtige Ablauf?
+**RICHTIG / FALSCH**
+- Sofortmaßnahmen ergreifen – Notfall melden - Wiederanlauf und Wiederherstellung – Rückführung und Nacharbeiten – Notfallbewältigung analysieren
+- Notfall melden – Rückführung und Nacharbeiten – Sofortmaßnahmen ergreifen – Notfallbewältigung analysieren - Wiederanlauf und Wiederherstellung
+- Sofortmaßnahmen ergreifen – Notfall melden –Rückführung und Nacharbeiten – Wiederanlauf und Wiederherstellung – Notfallbewältigung analysieren
+- Notfall melden – Sofortmaßnahmen ergreifen – Wiederanlauf und Wiederherstellung – Rückführung und Nacharbeiten – Notfallbewältigung analysieren
+Rückseite:
+ - Sofortmaßnahmen ergreifen – Notfall melden - Wiederanlauf und Wiederherstellung – Rückführung und Nacharbeiten – Notfallbewältigung analysieren **FALSCH**
+- Notfall melden – Rückführung und Nacharbeiten – Sofortmaßnahmen ergreifen – Notfallbewältigung analysieren - Wiederanlauf und Wiederherstellung **FALSCH**
+- Sofortmaßnahmen ergreifen – Notfall melden –Rückführung und Nacharbeiten – Wiederanlauf und Wiederherstellung – Notfallbewältigung analysieren **FALSCH**
+- Notfall melden – Sofortmaßnahmen ergreifen – Wiederanlauf und Wiederherstellung – Rückführung und Nacharbeiten – Notfallbewältigung analysieren **RICHTIG**
+END
 
 
-
-
+START
+Einfach
+Vorderseite: 
+### Sie sind Informationssicherheitsbeauftragter in Ihrem Unternehmen. Die von Ihnen vorgeschlagenen  
+Sicherheitsmaßnahmen werden von der Unternehmensleitung nicht genehmigt. Was sind ihre nächsten Schritte?
+**RICHTIG / FALSCH**
+- Sie teilen der Unternehmensleitung mit, welche Risiken durch das Nicht-Umsetzen der Maßnahme entstehen können
+- Sie setzen die Maßnahmen im Sinne der Sicherheit auf einem anderen Weg um
+- Sie leiten das Nicht-Umsetzen der Maßnahme an den Auditor weiter
+- Sie lassen sich per Unterschrift bestätigen, dass der Unternehmensleitung die Risiken bekannt sind und diese getragen werden
+Rückseite:
+- Sie teilen der Unternehmensleitung mit, welche Risiken durch das Nicht-Umsetzen der Maßnahme entstehen können **RICHTIG**
+- Sie setzen die Maßnahmen im Sinne der Sicherheit auf einem anderen Weg um **FALSCH**
+- Sie leiten das Nicht-Umsetzen der Maßnahme an den Auditor weiter **FALSCH**
+- Sie lassen sich per Unterschrift bestätigen, dass der Unternehmensleitung die Risiken bekannt sind und diese getragen werden **RICHTIG**
+END
