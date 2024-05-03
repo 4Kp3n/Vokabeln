@@ -1242,3 +1242,93 @@ Rückseite:
 - Sie leiten das Nicht-Umsetzen der Maßnahme an den Auditor weiter **FALSCH**
 - Sie lassen sich per Unterschrift bestätigen, dass der Unternehmensleitung die Risiken bekannt sind und diese getragen werden **RICHTIG**
 END
+
+
+START
+Einfach
+Vorderseite:
+### Wofür steht BIA?
+Rückseite:
+- Buisness Impact Analysis (wird im BSI-Standard 200-4 angewandt)
+END
+
+
+START
+Einfach
+Vorderseite:
+### Was fällt in der BIA unter Vorarbeit?
+Rückseite:
+- Idealerweise liegt eine Zusammenstellung von aktuellen Informationen zu den Stammdaten und Geschäftsprozessen der- betrachteten Institution bereits vor. Ansonsten ist eine solche Dokumentation anzufertigen.
+END
+
+
+START
+Einfach
+Vorderseite:
+### Was sind die Schritte einer BIA und was gehört in die Vorarbeit?
+Rückseite:
+- **Vorarbeit:**
+	- Stammdaten und Geschäftsprozesse ermitteln
+- **Schritte der BIA:**
+	- Geschäftsprozesse und Organisationseinheit auswählen
+	- Mögliche Schäden analysieren
+	- Wiederanlaufparameter festlegen
+	- Abhängigkeiten berücksichtigen
+	- Geschäftsprozesse anhand ihrer Kritikalität priorisieren
+	- Ressourcen für Normal- und Notbetrieb erheben
+	- Kritikalität und Wiederanlaufzeiten für Ressourcen bestimmen
+END
+
+
+START
+Einfach
+Vorderseite:
+### Was ist der Schritt 1 bei der BIA?
+Rückseite:
+- Identifikation der Geschäftsprozesse, die für die Ziele der Institution wesentlich sind.
+END
+
+
+START
+Einfach
+Vorderseite:
+### Was ist der Schritt 2 bei der BIA?
+Rückseite:
+- Bei der Schadensanalyse wird untersucht, welchen Schaden der Ausfall einzelner Geschäftsprozesse verursachen kann.
+END
+
+
+START
+Einfach
+Vorderseite:
+### Was ist der Schritt 3 bei der BIA?
+Rückseite:
+- Anhand des zeitlichen Schadensverlaufs und der zu erwartenden Schadenshöhe werden Wiederanlaufparameter (maximal tolerierbare Ausfallzeit, Wiederanlaufzeit und –niveau) für jeden Geschäftsprozess festgelegt.
+END
+
+
+START
+Einfach
+Vorderseite:
+### Was ist der Schritt 4 bei der BIA?
+Rückseite:
+- Wenn Abhängigkeiten zwischen Geschäftsprozessen oder strategische Geschäftsziele dies erfordern, werden die Wiederanlaufparameter entsprechend geändert.
+END
+
+
+START
+Einfach
+Vorderseite:
+### Was ist der Schritt 5 bei der BIA?
+Rückseite:
+- Mit Hilfe der Ergebnisse aus Schadensanalyse und den ermittelten Parametern werden die Kritikalität der Prozesse und Prioritäten für deren Wiederanlauf festgelegt.
+END
+
+
+START
+Einfach
+Vorderseite:
+### Was ist der Schritt 6 bei der BIA?
+Rückseite:
+- Es wird ermittelt, welche Ressourcen (Räumlichkeiten, technische Systeme, Informationen usw.) die als kritisch bewerteten
+END
