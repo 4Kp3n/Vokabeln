@@ -334,7 +334,7 @@ JA/NEIN?
 
 -Basisanforderung  
 -Kernanforderung
--Standardabforderung 
+-Standardanforderung 
 -erhöhte Anforderungen 
 Rückseite:
 -Basisanforderung  **JA**
@@ -958,7 +958,7 @@ Vorderseite:
 - 2 Jahre
 **Richtig/Falsch**
 Rückseite:
-- 5 Jahre FALSCHFalsch**
+- 5 Jahre **FALSCH**
 - 1 Jahr **FALSCH**
 - 3 Jahre **RICHTIG**
 - 2 Jahre **FALSCH**
