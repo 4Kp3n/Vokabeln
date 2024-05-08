@@ -1716,7 +1716,7 @@ Einfach
 Vorderseite:
 Welche Aussagen zum Datenschutz gibt es in Bezug auf Daten?
 
-Rückseite
+Rückseite:
 [x ] Datenschutz beschäftigt sich ausschließlich mit personenbezogenen oder personenbeziehbaren Daten.  
 [ ] Der Datenschutz beschäftigt sich mit allen Daten im Unternehmen
 
@@ -1740,7 +1740,7 @@ Einfach
 Vorderseite:
 Was muss bei Awarenesskampagnen bedacht werden?
 
-  Rückseite:
+Rückseite:
 [ ] Marketingleitung muss eingebunden werden  
 [ x] zielgruppenorientiert sein.  
 [ x] gut geplant werden.  
@@ -1905,8 +1905,10 @@ START
 Einfach
 Vorderseite:
 Was ist die Notfallbewältigung von Ihrem Grundsatz her?
-[ ] Löschen  
-[ x] Archivieren  
+
+Rückseite:
+[ ] Löschen
+[ x] Archivieren
 [x ] Verschlüsseln
 
 END
