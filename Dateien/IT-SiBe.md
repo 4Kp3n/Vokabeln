@@ -13,10 +13,6 @@ Antwortmöglichkeiten:
 3. Risiko ignorieren 
 4. Risiko akzeptieren 
 5. Risiko versichern
-[ ]  1, 2, 3 und 4
-[ ]  1, 2, 4 und 5
-[ ]  1 und 2
-[ ]  2 und 5
 
 Rückseite:
 [ ]  1, 2, 3 und 4
@@ -35,10 +31,6 @@ Wobei handelt es sich um physische Maßnahmen, die in ISO/IEC 27001, Anhang A, b
 1. Sicherheit der Verkabelung 
 2. Instandhaltung von Gerätschaften 
 3. Zutrittskontrolle
-[ ] Nur 1 und 2
-[ ] Nur 2 und 3
-[ ] Nur 1 und 3
-[ ] Alle drei
 
 Rückseite:
 [x ] Nur 1 und 2
@@ -56,10 +48,10 @@ Frage 3
 
 ISO/IEC 27001 fordert im Zusammenhang mit Verfahren und Verantwortlichkeiten: Pflichten und Verantwortungsbereiche müssen aufgeteilt werden, um…
 
-[ ] die Möglichkeiten für unbefugte oder vorsätzliche Veränderung oder Missbrauch von Assets zu reduzieren.
-[ ] die geforderte Systemleistung sicherzustellen.
-[ ] unvollständig Übertragungen   von Informationen, Fehlleitungen, unbefugten Veränderungen der Inhalte, Veröffentlichung, Verdopplung und Wiederanspielen zu verhindern.
-[ ] eine schnelle effektive und planmäßige Reaktion auf Informationssicherheitsvorfälle sicherzustellen.
+- die Möglichkeiten für unbefugte oder vorsätzliche Veränderung oder Missbrauch von Assets zu reduzieren.
+- die geforderte Systemleistung sicherzustellen.
+- unvollständig Übertragungen   von Informationen, Fehlleitungen, unbefugten Veränderungen der Inhalte, Veröffentlichung, Verdopplung und Wiederanspielen zu verhindern.
+- eine schnelle effektive und planmäßige Reaktion auf Informationssicherheitsvorfälle sicherzustellen.
 
 Rückseite:
 [x ] die Möglichkeiten für unbefugte oder vorsätzliche Veränderung oder Missbrauch von Assets zu reduzieren.
@@ -74,10 +66,10 @@ Vorderseite:
 Frage 4
 
 Unter welchen Umständen kann eine Organisation, die Konformität mit ISO/IEC 27001 beansprucht, Anforderungen aus dem Kapitel 4 des Standards ISO/IEC 27001 ausschließen und für nicht anwendbar erklären?
-[ ] Wenn sie dies schlüssig begründen kann
-[ ] Wenn es sich um eine Organisation des Gesundheitswesens handelt, für die der branchenspezifische Leitfaden ISO/IEC 27799 gilt
-[ ] Wenn die Organisation bereits nach ISO 9001 oder ISO/IEC 20000-1 zertifiziert ist
-[ ] unter keinen Umständen
+- Wenn sie dies schlüssig begründen kann
+- Wenn es sich um eine Organisation des Gesundheitswesens handelt, für die der branchenspezifische Leitfaden ISO/IEC 27799 gilt
+- Wenn die Organisation bereits nach ISO 9001 oder ISO/IEC 20000-1 zertifiziert ist
+- unter keinen Umständen
 
 Rückseite:
 [ ] Wenn sie dies schlüssig begründen kann
@@ -94,10 +86,10 @@ Frage 5
 
 Warum ist ein Inventar aller Assets aus Sicht des Informationssicherheits-Managements wichtig?
 
-[ ] Es ermöglicht eine effektive Kostenkontrolle.
-[ ] Es stellt den zentralen Input die regelmäßigen Managementbewertungen, um sicherzustellen dar.
-[ ] Es dient als Checkliste für interne Audits, dass keine Anforderungen vergessen werden.
-[ ] Es unterstützt die Identifikation von Risiken und die Zuordnung von Risiken zu Assets
+- Es ermöglicht eine effektive Kostenkontrolle.
+- Es stellt den zentralen Input die regelmäßigen Managementbewertungen, um sicherzustellen dar.
+- Es dient als Checkliste für interne Audits, dass keine Anforderungen vergessen werden.
+- Es unterstützt die Identifikation von Risiken und die Zuordnung von Risiken zu Assets
 
 Rückseite:
 [ ] Es ermöglicht eine effektive Kostenkontrolle.
@@ -115,10 +107,10 @@ Frage6
 
 Was beschreibt am besten den Begriff Vertraulichkeit?
 
-[ ] Informationen sind vor unberechtigter Offenlegung geschützt
-[ ] Informationen sind vor Verlust geschützt
-[ ] Informationen sind vor unberechtigten Modifikationen geschützt
-[ ] Informationen sind verschlüsselt
+- Informationen sind vor unberechtigter Offenlegung geschützt
+- Informationen sind vor Verlust geschützt
+- Informationen sind vor unberechtigten Modifikationen geschützt
+- Informationen sind verschlüsselt
 
 Rückseite:
 [x ] Informationen sind vor unberechtigter Offenlegung geschützt
@@ -136,10 +128,10 @@ Frage 7
 
 Was beschreibt der Standard ISO/IEC 27002 hauptsächlich?
 
-[ ] Anleitung zur Umsetzung von Maßnahmen zur Betriebs- und Kommunikationssicherheit
-[ ] Anleitung zur Umsetzung von Maßnahmen zur physischen und umgebungsbezogenen Sicherheit
-[ ] Anleitung zur Umsetzung von Maßnahmen zur personellen Sicherheit
-[ ] Anleitung zur Umsetzung von Maßnahmen zur ISO/IEC 27001. Anhang A
+- Anleitung zur Umsetzung von Maßnahmen zur Betriebs- und Kommunikationssicherheit
+- Anleitung zur Umsetzung von Maßnahmen zur physischen und umgebungsbezogenen Sicherheit
+- Anleitung zur Umsetzung von Maßnahmen zur personellen Sicherheit
+- Anleitung zur Umsetzung von Maßnahmen zur ISO/IEC 27001. Anhang A
 
 Rückseite:
 [ ] Anleitung zur Umsetzung von Maßnahmen zur Betriebs- und Kommunikationssicherheit
@@ -156,10 +148,10 @@ Frage 8
 
 Welche der folgenden Aussagen zu Managementbewertungen (Management-Reviews) im Rahmen des ISMS ist falsch?
 
-[ ] Managementbewertungen werden von einer akkreditierten Zertifizierungsstelle durchgeführt.
-[ ] Managementbewertungen berücksichtigen Ergebnisse interner Audits.
-[ ] Managementbewertungen müssen regelmäßig stattfinden.
-[ ] Managementbewertungen sollen die Konformität und Effektivität des ISMS beurteilen.
+- Managementbewertungen werden von einer akkreditierten Zertifizierungsstelle durchgeführt.
+- Managementbewertungen berücksichtigen Ergebnisse interner Audits.
+- Managementbewertungen müssen regelmäßig stattfinden.
+- Managementbewertungen sollen die Konformität und Effektivität des ISMS beurteilen.
 
 Rückseite:
 [x ] Managementbewertungen werden von einer akkreditierten Zertifizierungsstelle durchgeführt.
@@ -175,6 +167,7 @@ Vorderseite:
 Frage 9
 
 Welche der folgenden Kriterien tragen gemäß ISO/IEC 27002 zur Sicherheit eines Benutzerpasswortes bei? 
+
 1. Es besitzt eine ausreichende Länge. 
 2. Es ist leicht zu merken. 
 3. Es besteht nicht aus Begriffen aus einem Wörterbuch. 
@@ -197,10 +190,10 @@ Frage 10
 Welche der folgenden Maßnahmen leistet den größten Beitrag zur Sicherstellung der 
 erforderlichen Verfügbarkeit von Informationen?
 
-[ ] Verschlüsselung
-[ ] Authentifizierung
-[ ] Backups
-[ ] Session Time-Out
+- Verschlüsselung
+- Authentifizierung
+- Backups
+- Session Time-Out
 
 Rückseite:
 [ ] Verschlüsselung
@@ -217,10 +210,10 @@ Frage 11
 
 Welche der folgenden Standards bzw. Normenreihen enthalten Anforderungen im Zusammenhang mit dem Management der Informationssicherheit (Security Management)?
 
-[ ] ISO/IEC 27000 und ISO 9000
-[ ] ISO/IEC 20000 und ISO/IEC 27000
-[ ] Nur ISO/IEC 27000
-[ ] ISO/IEC 9000 und ISO 19011
+- ISO/IEC 27000 und ISO 9000
+- ISO/IEC 20000 und ISO/IEC 27000
+- Nur ISO/IEC 27000
+- ISO/IEC 9000 und ISO 19011
 
 Rückseite:
 [ ] ISO/IEC 27000 und ISO 9000
@@ -236,6 +229,7 @@ Vorderseite:
 Frage 12
 
 Welche der folgenden Standards sind normativ? 
+
 1. ISO/IEC 27001 
 2. ISO/IEC 27002 3
 3. . ISO/IEC 27006
@@ -256,10 +250,10 @@ Frage 13
 
 Welcher Schritt erfolgt im Rahmen der Festlegung des ISMS unmittelbar nach der Definition von Anwendungsbereich und Grenzen des ISMS?
 
-[ ] Definition der ISMS-Leitlinie
-[ ] Definition der Vorgehensweise zur Risikoeinschätzung
-[ ] Genehmigung des Managements zur Umsetzung und Durchführung des ISMS
-[ ] Erstellung einer Erklärung zur Anwendbarkeit
+- Definition der ISMS-Leitlinie
+- Definition der Vorgehensweise zur Risikoeinschätzung
+- Genehmigung des Managements zur Umsetzung und Durchführung des ISMS
+- Erstellung einer Erklärung zur Anwendbarkeit
 
 Rückseite:
 [ x] Definition der ISMS-Leitlinie
@@ -277,10 +271,10 @@ Frage 14
 
 Wie heißt das Dokument, in dem spezifiziert wird, welche Maßnahmen aus dem Maßnahmenkatalog (Anhang A) aus ISO/IEC 27001 im Rahmen des ISMS ausgeschlossen werden?
 
-[ ] Erklärung zum Anwendungsbereich (scoping Statement)
-[ ] Ausschlusserklärung (Statement of Exklusion)
-[ ] Sicherheitsleitlinie (security policy)
-[ ] Anwendbarkeitserklärung (Statement of applicalibility)
+- Erklärung zum Anwendungsbereich (scoping Statement)
+- Ausschlusserklärung (Statement of Exklusion)
+- Sicherheitsleitlinie (security policy)
+- Anwendbarkeitserklärung (Statement of applicalibility)
 
 Rückseite:
 [ ] Erklärung zum Anwendungsbereich (scoping Statement)
@@ -297,10 +291,11 @@ Vorderseite:
 Frage 15
 
 Wie nennt man ein Dokument, in dem allgemeine Absichten, Ziele, Vorgaben und Regeln beschrieben werden?
-[ ] Prozess
-[ ] Leitlinie
-[ ] Verfahren
-[ ] Managementsystem
+
+- Prozess
+- Leitlinie
+- Verfahren
+- Managementsystem
 
 Rückseite:
 [ ] Prozess
@@ -317,10 +312,11 @@ Vorderseite:
 Frage 16
 
 Bei welcher der folgenden Optionen handelt es sich um einen der Hauptaspekte der Informationssicherheit gemäß ISO/IEC 27001?
-[ ] Integrität
-[ ] Verlässlichkeit
-[ ] Verschlüsselung
-[ ] Verwendung digitaler Signaturen
+
+- Integrität
+- Verlässlichkeit
+- Verschlüsselung
+- Verwendung digitaler Signaturen
 
 Rückseite:
 [ x] Integrität
@@ -338,10 +334,11 @@ Frage 17
 
 
 Durch wen wird die ISMS-Leitlinie eines Unternehmens offiziell in Kraft gesetzt?
-[ ] Durch den Sicherheitsbeauftragten
-[ ] Durch das leitende Management
-[ ] Durch den zertifizierenden Auditor 
-[ ] Durch einen Beschluss der Hauptlieferanten und Schlüsselkunden (key accounts)
+
+- Durch den Sicherheitsbeauftragten
+- Durch das leitende Management
+- Durch den zertifizierenden Auditor 
+- Durch einen Beschluss der Hauptlieferanten und Schlüsselkunden (key accounts)
 
 Rückseite:
 [ ] Durch den Sicherheitsbeauftragten
@@ -360,10 +357,10 @@ Frage 18
 
 Für welche Arten von Systemen kommt die Sicherheitsmaßnahme Isolation in in Betracht?
 
-[ ] Für unkritische Systeme
-[ ] Für besonders sensible Syteme
-[ ] Für ausgelagerte Systeme
-[ ] Für Systeme, die nicht mehr benötigt werden
+- Für unkritische Systeme
+- Für besonders sensible Syteme
+- Für ausgelagerte Systeme
+- Für Systeme, die nicht mehr benötigt werden
 
 Rückseite:
 [ ] Für unkritische Systeme
@@ -381,10 +378,10 @@ Frage 19
 
 Informationen auf einer öffentlichen Webseite wurden von einem Angreifer manipuliert und durch falsche Informationen ersetzt. Welcher Aspekt der Informationssicherheit wurde verletzt?
 
-[ ] Vertraulichkeit der Informationen auf der Website
-[ x] Integrität der Informationen auf der Webseite
-[ ] Nicht-Abstreitbarkeit der Informationen auf der Webseite
-[ ] Erreichbarkeit der Webseite
+- Vertraulichkeit der Informationen auf der Website
+- Integrität der Informationen auf der Webseite
+- Nicht-Abstreitbarkeit der Informationen auf der Webseite
+- Erreichbarkeit der Webseite
 
 Rückseite:
 [ ] Vertraulichkeit der Informationen auf der Website
@@ -421,10 +418,11 @@ Einfach
 Vorderseite:
 Frage 20
 Was ist beim Anfertigen eines Backups zu beachten?
-[ ] Grober Sicherheitsverstoß, wenn keines gemacht wird  
-[ ] Backup-Recovery-Übungen sind durchzuführen  
-[ ] Verschlüsseln, um die Daten vor dem Zugriff dritter zu schützen  
-[ ] Aufbewahrung an einem anderen Ort/Brandschutzsektor
+
+- Grober Sicherheitsverstoß, wenn keines gemacht wird  
+- Backup-Recovery-Übungen sind durchzuführen  
+- Verschlüsseln, um die Daten vor dem Zugriff dritter zu schützen  
+- Aufbewahrung an einem anderen Ort/Brandschutzsektor
 
 Rückseite:
 [ x] Grober Sicherheitsverstoß, wenn keines gemacht wird  
@@ -441,9 +439,9 @@ Vorderseite:
 Frage 21
 Was ist in Bezug auf Zugänge in einer Organisation zu beachten
 
-[ ] Bei Beendigung der Beschäftigung sollen die Zugangsrechte wieder entzogen werden.  
-[ ] Benutzerzugangsrechte sollen regelmäßig überprüft werden  
-[ ] Für die Zugangsteuerung sollte es eine Richtlinie geben
+- Bei Beendigung der Beschäftigung sollen die Zugangsrechte wieder entzogen werden.  
+- Benutzerzugangsrechte sollen regelmäßig überprüft werden  
+- Für die Zugangsteuerung sollte es eine Richtlinie geben
 
 Rückseite:
 [ x] Bei Beendigung der Beschäftigung sollen die Zugangsrechte wieder entzogen werden.  
@@ -459,9 +457,9 @@ Vorderseite:
 Frage 22
 Was ist die Aufgabe einer Firewall?
 
-[ ] Programme aktualisieren  
-[ ] Alle Daten kontrollieren, die in das eigene Netzwerk hineinkommen oder es verlassen  
-[ ] vor Spam-Mail schützen
+- Programme aktualisieren  
+- Alle Daten kontrollieren, die in das eigene Netzwerk hineinkommen oder es verlassen  
+- vor Spam-Mail schützen
 
 Rückseite:
 [ ] Programme aktualisieren  
@@ -477,10 +475,10 @@ Vorderseite:
 Frage 23
 Welcher der vier Standards des BSI beschäftigt sich mit dem Notfallmanagement?
 
-[ ] BSI Risikoanalyse (200-3)  
-[ ] BSI Notfallmanagement (100-4)  
-[ ] BSI ISMS (200-1)  
-[ ] BSI Vorgehen (200-2)
+- BSI Risikoanalyse (200-3)  
+- BSI Notfallmanagement (100-4)  
+- BSI ISMS (200-1)  
+- BSI Vorgehen (200-2)
 
 Rückseite:
 [ ] BSI Risikoanalyse (200-3)  
@@ -496,10 +494,11 @@ Vorderseite:
 Frage 24
 
 Wie kann eine Risikobehandlung durchgeführt werden?
- [ ] Risiko minimieren  
- [ ] Risiko transferieren  
- [ ] Risiko reduzieren  
- [ ] Risiko akzeptieren
+
+ - Risiko minimieren  
+ - Risiko transferieren  
+ - Risiko reduzieren  
+ - Risiko akzeptieren
 
 Rückseite:
  [ x] Risiko minimieren  
@@ -514,10 +513,11 @@ Vorderseite:
 
 Frage 25
 Wodurch können Informationssicherheitsvorfälle hervorgerufen bzw. begünstigt werden?
-[ ] Ungesteuerte Systemänderungen  
-[ ] Äußere Einwirkungen wie z.B. Wetterereignisse  
-[ ] Verstöße gegen Sicherheitsvorschriften 
-[ ] Fehlfunktionen von Systemen
+
+- Ungesteuerte Systemänderungen  
+- Äußere Einwirkungen wie z.B. Wetterereignisse  
+- Verstöße gegen Sicherheitsvorschriften 
+- Fehlfunktionen von Systemen
 
 Rückseite:
 [ x] Ungesteuerte Systemänderungen  
@@ -533,9 +533,10 @@ Vorderseite:
 
 Frage 26
 Für was steht die Abkürzung BCM?
-[ ] business continiuous management  
-[ ] busy continiuty management  
-[ ] Business Continuity Management
+
+- business continiuous management  
+- busy continiuty management  
+- Business Continuity Management
 
 Rückseite:
 [ ] business continiuous management  
@@ -550,10 +551,11 @@ Vorderseite:
 
 Frage 27
 Welche sind Bereiche, die eine besondere Aufmerksamkeit in Bezug auf Zugang und Zugriff benötigen?
-[ ] Geschäftsführer  
-[ ] Privilegierte Benutzer, wie Tool, Systemadministratoren  
-[ ] Bereiche, wo Werkzeuge mit privilegierten Rechten zum Einsatz kommen (Datenbanktools, Netzwerk-Sniffer, …)  
-[ ] Abteilungschef
+
+- Geschäftsführer  
+- Privilegierte Benutzer, wie Tool, Systemadministratoren  
+- Bereiche, wo Werkzeuge mit privilegierten Rechten zum Einsatz kommen (Datenbanktools, Netzwerk-Sniffer, …)  
+- Abteilungschef
 
 Rückseite:
 [ ] Geschäftsführer  
@@ -569,8 +571,9 @@ Vorderseite:
 
 Frage 28
 Wen umfasst das BSI-Gesetz zu den kritischen Infrastukturen?
-[ ] Alle Unternehmen der im Gesetz aufgeführten Sektoren (Ernährung, Wasser, Energie, Transport und Verkehr, Gesundheit, Finanz und Versicherungswesen, Information und Telekommunikation), die die in der jeweiligen Rechtsverordnung genannten Schwellenwerte überschreiten.  
-[ ] alle Unternehmen
+
+- Alle Unternehmen der im Gesetz aufgeführten Sektoren (Ernährung, Wasser, Energie, Transport und Verkehr, Gesundheit, Finanz und Versicherungswesen, Information und Telekommunikation), die die in der jeweiligen Rechtsverordnung genannten Schwellenwerte überschreiten.  
+- alle Unternehmen
 
 Rückseite:
 [x ] Alle Unternehmen der im Gesetz aufgeführten Sektoren (Ernährung, Wasser, Energie, Transport und Verkehr, Gesundheit, Finanz und Versicherungswesen, Information und Telekommunikation), die die in der jeweiligen Rechtsverordnung genannten Schwellenwerte überschreiten.  
@@ -584,13 +587,14 @@ Vorderseite:
 
 Frage 29
 Ein Code oder Stück Software gewährt Zugriff auf ein System. Wie nennt man das?
-[x ] Backdoor  
-[ ] Social Engineering  
-[ ] logic bomb  
-[ ] Betriebssystem
+
+- Backdoor  
+- Social Engineering  
+- logic bomb  
+- Betriebssystem
 
 Rückseite:
-[x ] Backdoor  
+[x] Backdoor  
 [ ] Social Engineering  
 [ ] logic bomb  
 [ ] Betriebssystem
@@ -603,9 +607,10 @@ Vorderseite:
 
 Frage 30
 Wie lange ist eine ISO 27001 Zertifizierung gültig?
-[ ] 3 Jahre  
-[ ] sie gilt solange das Unternehmen existiert  
-[ ] solange 2x Überwachungsaudit im 3-Jahreszeitraum (jährlich 1x) erfolgen
+
+- 3 Jahre  
+- sie gilt solange das Unternehmen existiert  
+- solange 2x Überwachungsaudit im 3-Jahreszeitraum (jährlich 1x) erfolgen
 
 Rückseite:
 [ x] 3 Jahre  
@@ -619,6 +624,7 @@ START
 Einfach
 Vorderseite:
 Was sollten dokumentierte Bedienabläufe enthalten?
+
 **RICHTIG/FALSCH**
 - Dokumentation des gesamten ISMS
 - Dokumentation der ISO 27001
@@ -636,6 +642,7 @@ START
 Einfach
 Vorderseite:
 Was betrachtet die Informationssicherheit außer technische IT-Sicherheit?
+
 **RICHTIG/FALSCH**
 - Grundsätzlich alle Informationen im Unternehmen, unabhängig des Speichermediums
 - Information in den Köpfen der Mitarbeiter
@@ -651,6 +658,7 @@ START
 Einfach
 Vorderseite:
 Unter welchen Umständen kann eine Organisation Anforderungen aus dem Kapitel 4 der ISO-27001 für nicht anwendbar erklären?
+
 **RICHTIG/FALSCH**
 - man kann über die SOA gewisse Teile ausschließen
 - wenn nach BSI Grundschutz zertifiziert wurde 200-2 etc.
@@ -668,6 +676,7 @@ START
 Einfach
 Vorderseite: 
 Was ist die Aufgabe des Notfallmanagements nach BSI 100-4
+
 **RICHTIG/FALSCH**
 - Der BSI-Standard 100-4 stellt einen systematischen Weg auf, ein Notfallmanagement in deiner Behörde oder in einem Unternehmen aufzubauen, um die Kontinuität des Geschäftsbetriebs sicherzustellen
 - BCM Business continuity Management
@@ -681,6 +690,7 @@ START
 Einfach
 Vorderseite:
 Welche Aussagen sind in Bezug auf den Datenschutz zu machen?
+
 **RICHTIG/FALSCH**
 - Daten dürfen nur unter Berücksichtigung der gesetzlichen Vorgaben verarbeitet werden
 - Einwilligung zur Datenverarbeitung können nachträglich widerrufen werden
@@ -698,6 +708,7 @@ START
 Einfach
 Vorderseite:
 Welche Personen sind am IT Security Prozess beteiligt?
+
 **RICHTIG/FALSCH**
 - Die Organisationsleitung
 - alle übrigen Mitarbeiter
@@ -719,6 +730,7 @@ START
 Einfach
 Vorderseite:
 Was muss bei einer Ereignisprotokollierung gemacht werden?
+
 **RICHTIG/FALSCH**
 - Ereignisprotokolle regelmäßig überprüfen
 - Vorsicht!: Unter Umständen lassen sich Rückschlüsse auf das Arbeitsverhalten von Mitarbeitern  machen. Hier sollte der Betriebsrat mit eingeschaltet werden.
@@ -735,7 +747,8 @@ END
 START
 Einfach
 Vorderseite:
-Im Bereich Zugang und Zugriff benötigen welche Bereiche besondere Achtsamkeit/Aufmerksamkeit)?
+Im Bereich Zugang und Zugriff benötigen welche Bereiche besondere Achtsamkeit/Aufmerksamkeit?
+
 **RICHTIG/FALSCH**
 - Privilegierte Benutzer; wie System- oder Tool-Administratoren
 - alle
@@ -751,6 +764,7 @@ START
 Einfach
 Vorderseite:
 Die ISO 27001 fordert alles Stakeholder zu bestimmen. Wer kann dazu gehören?
+
 **RICHTIG/FALSCH**
 - Kunden
 - Mitarbeiter/Personal
@@ -768,6 +782,7 @@ START
 Einfach
 Vorderseite:
 Was sollte beim Umgang mit mobilen Geräten aus der Sicht der IT Sicherheit beachtet werden?
+
 **RICHTIG/FALSCH**
 - Bei Einsatz von Mobilgeräten an öffentlichen Plätzen (z.B. am Flughafen oder in der Bahn) ist besonders auf die Vertraulichkeit zu achten
 - Mobilgeräte sollten vor Diebstahl geschützt werden
@@ -785,6 +800,7 @@ START
 Einfach
 Vorderseite:
 Was ist beim Anfertigen eines Backups zu beachten?
+
 **RICHTIG/FALSCH**
 - Grober Sicherheitsverstoß, wenn keines gemacht wird
 - Backup Recovery Übungen sind durchzuführen
@@ -802,6 +818,7 @@ START
 Einfach
 Vorderseite:
 Nach ISO 27001 haben IT-Sicherheitsziele welche Eigenschaften?
+
 **RICHTIG/FALSCH**
 - sie müssen deutsch formuliert sein
 - sie sind allen bekannt
@@ -819,6 +836,7 @@ START
 Einfach
 Vorderseite:
 Wie ist die Verbreitung von Werkzeugen für Cyberangriffe?
+
 **RICHTIG/FALSCH**
 - Gibt es nicht, Fake-News
 - Es sind auch Baukästen im DarkNet, die man kaufen kann
@@ -836,6 +854,7 @@ START
 Einfach
 Vorderseite:
 Wie wird der Begriff Verfügbarkeit am besten beschrieben?
+
 **RICHTIG/FALSCH**
 - Es ist genug Geld für IT-Sicherheit verfügbar. [FALSCH]
 - Ich kann auf alles zugreifen, was ich brauche [FALSCH]
@@ -853,6 +872,7 @@ START
 Einfach
 Vorderseite:
 Wo sollte der IT-Sicherheitsbeauftragte am besten innerhalb einer Organisation angesiedelt sein?
+
 **RICHTIG/FALSCH**
 - Als Stabstelle bei der Organisationsleitung
 - in der IT-Abteilung
@@ -868,6 +888,7 @@ START
 Einfach
 Vorderseite:
 Welche Tätigkeiten sind beim Risikomanagement nach ISO 27001 zwingend zu machen
+
 **RICHTIG/FALSCH**
 - Risiken bestimmen
 - die Zertifizierung muss im 4then Jahr wiederholt werden
@@ -884,7 +905,8 @@ END
 START
 Einfach
 Vorderseite:
-Welches sind für Sie die am häufigsten vorkommenden Sicherheitsmängel in der IT
+Welches sind für Sie die am häufigsten vorkommenden Sicherheitsmängel in der IT?
+
 **RICHTIG/FALSCH**
 - unzureichendes Bewusstsein für Informationssicherheit bei den Mitarbeitern einer Institution
 - fehlendes oder unzureichendes Patch-Management
@@ -902,6 +924,7 @@ START
 Einfach
 Vorderseite:
 Welche Maßnahmen zum Schutz vor Schadsoftware müssen ergriffen werden?
+
 **RICHTIG/FALSCH**
 - Mitarbeiter sollten für das Problem von Schadsoftware angemessen sensibilisiert werden
 - Schadsoftware soll jeder Mitarbeiter beseitigen können
@@ -919,6 +942,7 @@ START
 Einfach
 Vorderseite:
 Was umfasst bzw. grenzt die IT-Sicherheit von der Informationssicherheit ab?
+
 **RICHTIG/FALSCH**
 - IT-Security betrachtet technische Aspekte der Informationssicherheit
 - Informationssicherheit umfasst die IT-Security
@@ -936,10 +960,10 @@ Einfach
 Vorderseite:
 Welche Haftung hat ein IT Security Beauftragter in der Praxis?
 
-[ ] Eine Haftung kommt auch bei unterlassenen Tätigkeiten/mangelhafter Aufgabenerfüllung in Frage  
-[ ] Sowohl ein interner als auch ein externer Informationssicherheitsbeauftragter haftet dem Unternehmen gegenüber grundsätzlich für Schäden, die er schuldhaft verursacht hat  
-[ ] er haftet für den Bilanzverlust  
-[ ] er haftet für Stromausfall
+- Eine Haftung kommt auch bei unterlassenen Tätigkeiten/mangelhafter Aufgabenerfüllung in Frage  
+- Sowohl ein interner als auch ein externer Informationssicherheitsbeauftragter haftet dem Unternehmen gegenüber grundsätzlich für Schäden, die er schuldhaft verursacht hat  
+- er haftet für den Bilanzverlust  
+- er haftet für Stromausfall
 Rückseite:
 [ x] Eine Haftung kommt auch bei unterlassenen Tätigkeiten/mangelhafter Aufgabenerfüllung in Frage  
 [x ] Sowohl ein interner als auch ein externer Informationssicherheitsbeauftragter haftet dem Unternehmen gegenüber grundsätzlich für Schäden, die er schuldhaft verursacht hat  
@@ -954,10 +978,10 @@ Vorderseite:
 Sie haben ein IDS-System, das nur auf einem Computer in Ihrem Netzwerk ausgeführt wird.
 Um welche Art von IDS-System handelt es sich?
 
-[ ] Aktives System  
-[ ] Netzwerk System  
-[ ] Host-System  
-[ ] Ungewöhnliches System
+- Aktives System  
+- Netzwerk System  
+- Host-System  
+- Ungewöhnliches System
 Rückseite:
 [ ] Aktives System  
 [ ] Netzwerk System  
@@ -971,10 +995,10 @@ Einfach
 Vorderseite:
 Welche Rollen gehören zur Notfallvorsorge?
 
-[ ] Notfallbeauftragter  
-[ ] Notfallkoordinator (Folie 08.01S07)  
-[ ] Unternehmensleitung  
-[ ] Notfallvorsorgeteam
+-Notfallbeauftragter  
+- Notfallkoordinator (Folie 08.01S07)  
+- Unternehmensleitung  
+- Notfallvorsorgeteam
 Rückseite:
 [ x] Notfallbeauftragter  
 [ ] Notfallkoordinator (Folie 08.01S07)  
@@ -988,10 +1012,10 @@ Einfach
 Vorderseite:
 Welche Voraussetzungen sind zur Behandlung von Informationssicherheitsvorfällen wichtig?
 
-[ ] Mitarbeiter in der Lage sind, Informationssicherheitsvorfälle zu erkennen und wissen, wo sie diese melden müssen  
-[ ] Anlaufstellen für die Informationssicherheitsvorfälle eingerichtet und im Unternehmen bekannt sind
-[ ] Prozesse für die Reaktion der Organisation definiert sind  
-[ ] Verfahren für den Umgang mit forensischen Beweismitteln festgelegt sind
+- Mitarbeiter in der Lage sind, Informationssicherheitsvorfälle zu erkennen und wissen, wo sie diese melden müssen  
+- Anlaufstellen für die Informationssicherheitsvorfälle eingerichtet und im Unternehmen bekannt sind
+- Prozesse für die Reaktion der Organisation definiert sind  
+- Verfahren für den Umgang mit forensischen Beweismitteln festgelegt sind
 Rückseite:
 [ x] Mitarbeiter in der Lage sind, Informationssicherheitsvorfälle zu erkennen und wissen, wo sie diese melden müssen  
 [x ] Anlaufstellen für die Informationssicherheitsvorfälle eingerichtet und im Unternehmen bekannt sind  
@@ -1005,9 +1029,9 @@ Einfach
 Vorderseite:
 Was bezeichnet die „MTA“ im Rahmen des Notfallmanagements?
 
-[ ] Medizinisch technische Assistentin  
-[ ] minimum technical accountabie  
-[ ] Dieser Wert gibt an, wann ein Prozess spätestens wieder anlaufen muss, damit die Überlebensfähigkeit einer Institution kurz oder langfristig nicht gefährdet ist.
+- Medizinisch technische Assistentin  
+- minimum technical accountabie  
+- Dieser Wert gibt an, wann ein Prozess spätestens wieder anlaufen muss, damit die Überlebensfähigkeit einer Institution kurz oder langfristig nicht gefährdet ist.
 Rückseite:
 [ ] Medizinisch technische Assistentin  
 [ ] minimum technical accountabie  
@@ -1020,10 +1044,10 @@ Einfach
 Vorderseite:
 Für wen gilt das am 25.07.2015 in Kraft getretene IT-Sicherheitsgesetz?
 
-[ ] Betreiber kritischer Infrastrukturen  
-[ ] Betreiber von Webangeboten  
-[ ] BSI  
-[ ] Telekommunkationsunternehmen
+- Betreiber kritischer Infrastrukturen  
+- Betreiber von Webangeboten  
+- BSI  
+- Telekommunkationsunternehmen
 Rückseite:
 [ x] Betreiber kritischer Infrastrukturen  
 [ x] Betreiber von Webangeboten  
@@ -1037,20 +1061,18 @@ Einfach
 Vorderseite:
 Welche Personen sind am IT Security Prozess beteiligt? (Die Frage kommt nach Thomas nicht)
 
-[ ] Die Organisationsleitung  
-[ ] nach ITIL Info-Sec Manager, Service Owner, etc.  
-[ ] die übrigen Inhaber von Rollen der Informationssicherheit  
-[ ] alle übrigen Mitarbeiter  
-[ ] IT-Security Beauftragte/Informationssicherheitsbeauftragte  
-
-[ ] Chef
+-Die Organisationsleitung  
+- nach ITIL Info-Sec Manager, Service Owner, etc.  
+- die übrigen Inhaber von Rollen der Informationssicherheit  
+- alle übrigen Mitarbeiter  
+- IT-Security Beauftragte/Informationssicherheitsbeauftragte  
+- Chef
 Rückseite:
 [x ] Die Organisationsleitung  
 [ ] nach ITIL Info-Sec Manager, Service Owner, etc.  
 [x ] die übrigen Inhaber von Rollen der Informationssicherheit  
 [x ] alle übrigen Mitarbeiter  
 [ x] IT-Security Beauftragte/Informationssicherheitsbeauftragte  
-
 [ x] Chef
 END
 
@@ -1060,9 +1082,9 @@ Einfach
 Vorderseite:
 Die Verkabelung des Netzwerkes muss durch einen Raum geführt werden, indem es zu starken Interferenzstörungen kommen kann. Welche der folgenden Kabeltypen bietet den größten Schutz gegen diese Strahlungen?
 
-[ ] Abgeschirmte Kabel (S/STP) (Screened Shield-Twisted-Pair)-Kabel  
-[ ] coaxial  
-[ ] UTP unshielded twisted pair
+- Abgeschirmte Kabel (S/STP) (Screened Shield-Twisted-Pair)-Kabel  
+- coaxial  
+- UTP unshielded twisted pair
 Rückseite:
 [x ] Abgeschirmte Kabel (S/STP) (Screened Shield-Twisted-Pair)-Kabel  
 [ ] coaxial  
@@ -1075,10 +1097,10 @@ Einfach
 Vorderseite:
 Welche Aussagen können Sie zum Cybercrime machen?
 
-[ ] Gruppen der organisierten Kriminalität (OK) betätigen sich zunehmen im Internet  
-[ ] mit Cybercrime verdient man Geld  
-[ ] Zur Cyberkriminalität im weiteren Sinne zählen die Delikte, in denen das Tatmittel Internet eingesetz wird.  
-[ ] Im Bereich Cybercrime ist das Dunkelfeld sehr groß.
+- Gruppen der organisierten Kriminalität (OK) betätigen sich zunehmen im Internet  
+- mit Cybercrime verdient man Geld  
+- Zur Cyberkriminalität im weiteren Sinne zählen die Delikte, in denen das Tatmittel Internet eingesetz wird.  
+- Im Bereich Cybercrime ist das Dunkelfeld sehr groß.
 Rückseite:
 [x ] Gruppen der organisierten Kriminalität (OK) betätigen sich zunehmen im Internet  
 [ ] mit Cybercrime verdient man Geld  
@@ -1093,11 +1115,9 @@ Vorderseite:
 Welche wichtigen Aufgaben hat ein Auditor durchzuführen?
 
 [ ] Vorortkontrolle/-begehung  
-
 [ ] Zuhören
 Rückseite:
 [x ] Vorortkontrolle/-begehung  
-
 [ x] Zuhören
 END
 
@@ -1107,9 +1127,9 @@ Einfach
 Vorderseite:
 Welche Kabelart (Kupferbasis) ist am besten abgesichert/abgeschirmt?
 
-[ ] coaxial
-[ ] UTP unshhielded twisted pair  
-[ ] S/STP Screened shielded twisted pair
+- coaxial
+- UTP unshhielded twisted pair  
+- S/STP Screened shielded twisted pair
 Rückseite:
 [ ] coaxial
 [ ] UTP unshhielded twisted pair  
@@ -1139,10 +1159,10 @@ Einfach
 Vorderseite:
 Nennen Sie die Norman, die sich im Kern mit der IT-Sicherheit beschäftigen:
 
-[ ] NIS Richtlinie  
-[ ] ISO 27000 Serie  
-[ ] ISO 27001  
-[ ] BSI 200-2
+- NIS Richtlinie  
+- ISO 27000 Serie  
+- ISO 27001  
+- BSI 200-2
 
 Rückseite:
 [ ] NIS Richtlinie  
@@ -1157,9 +1177,9 @@ Einfach
 Vorderseite:
 Welche Themen zum Verstehen des externen Kontextes einer Organisation nach ISO 27001 können dazugehören?
 
-[ ] Die natürliche Umwelt  
-[ ] Soziale und kulturelle Themen  
-[ ] Technische Trends und Entwicklungen, die sich auf die Zielerreichung der Organisation auswirken können
+- Die natürliche Umwelt  
+- Soziale und kulturelle Themen  
+- Technische Trends und Entwicklungen, die sich auf die Zielerreichung der Organisation auswirken können
 Rückseite:
 [x ] Die natürliche Umwelt  
 [ x] Soziale und kulturelle Themen  
@@ -1172,11 +1192,11 @@ Einfach
 Vorderseite:
 Welche Aufgaben schreibt ein ISMS der Führung eines Unternehmens/Organisation vor?
 
-[ ] Die fortlaufende Verbesserung des ISMS zu fördern  
-[ ] Strafen festlegen  
-[ ] Sanktionsmechanismen bei Verstößen etablieren  
-[ ] Sicherzustellen, das die Informationssicherheitspolitik mit den strategischen Zielen der Organisation vereinbar ist  
-[ ] Personen anzuleiten und zu unterstützen, damit diese positive Beiträge zum ISMS leisten können
+- Die fortlaufende Verbesserung des ISMS zu fördern  
+- Strafen festlegen  
+- Sanktionsmechanismen bei Verstößen etablieren  
+- Sicherzustellen, das die Informationssicherheitspolitik mit den strategischen Zielen der Organisation vereinbar ist  
+- Personen anzuleiten und zu unterstützen, damit diese positive Beiträge zum ISMS leisten können
 Rückseite:
 
 [x ] Die fortlaufende Verbesserung des ISMS zu fördern  
@@ -1192,8 +1212,8 @@ Einfach
 Vorderseite:
 Was bedeutet der Begriff Zutritt?
 
-[ ] Nur der Zutritt zum Serverraum  
-[ ] Die Möglichkeit einen begrenzten Bereich/Sektor/Raum zu betreten
+- Nur der Zutritt zum Serverraum  
+- Die Möglichkeit einen begrenzten Bereich/Sektor/Raum zu betreten
 Rückseite:
 [ ] Nur der Zutritt zum Serverraum  
 [ x] Die Möglichkeit einen begrenzten Bereich/Sektor/Raum zu betreten
@@ -1205,10 +1225,10 @@ Einfach
 Vorderseite:
 Wie ist die richtige Reihenfolge?
 
-[ ] Identitätsprüfung – Autorisierung – Rechtezuweisung  
-[ ] Autorisierung – Rechtezuweisung - Identitätsprüfung  
-[ ] Rechtezuweisung – Identitätsprüfung - Autorisierung  
-[ ] Identitätsprüfung – Rechtezuweisung – Autorisierung
+- Identitätsprüfung – Autorisierung – Rechtezuweisung  
+- Autorisierung – Rechtezuweisung - Identitätsprüfung  
+- Rechtezuweisung – Identitätsprüfung - Autorisierung  
+- Identitätsprüfung – Rechtezuweisung – Autorisierung
 Rückseite:
 [x ] Identitätsprüfung – Autorisierung – Rechtezuweisung  
 [ ] Autorisierung – Rechtezuweisung - Identitätsprüfung  
@@ -1222,9 +1242,9 @@ Einfach
 Vorderseite:
 Was ist bei der Installation von Software aus Sicht der IT Sicherheit zu beachten?
 
-[ ] Vor dem Aufspielen neuer oder geänderter Software sollte eine Rollback Strategie existieren  
-[ ] Software sollte nur bei vorliegender Genehmigung installiert werden  
-[ ] Nutzen und Risiko einer Software Installation sollten gegeneinander abgewogen werden
+- Vor dem Aufspielen neuer oder geänderter Software sollte eine Rollback Strategie existieren  
+- Software sollte nur bei vorliegender Genehmigung installiert werden  
+- Nutzen und Risiko einer Software Installation sollten gegeneinander abgewogen werden
 Rückseite:
 [x ] Vor dem Aufspielen neuer oder geänderter Software sollte eine Rollback Strategie existieren  
 [ x] Software sollte nur bei vorliegender Genehmigung installiert werden  
@@ -1237,10 +1257,10 @@ Einfach
 Vorderseite:
 Mit welchem Effekt bzw. Prinzip wird das Risiko bei redundanten Systemen reduziert
 
-[ ] Verteilungseffekt  
-[ ] Kumulativer Effekt  
-[ ] Maximum Prinzip  
-[ ] Subtraktionseffekt
+- Verteilungseffekt  
+- Kumulativer Effekt  
+- Maximum Prinzip  
+- Subtraktionseffekt
 Rückseite:
 [x ] Verteilungseffekt  
 [ ] Kumulativer Effekt  
@@ -1254,10 +1274,10 @@ Einfach
 Vorderseite:
 Welche „Normen“ beschäftigen sich mit dem Risikomanagement? (soll wohl "A25j" sein)
 
-[ ] ISO 9001  
-[ ] ISO 27005  
-[ ] BSI Grundschutz 200-3  
-[ ] ISO 31000
+- ISO 9001  
+- ISO 27005  
+- BSI Grundschutz 200-3  
+- ISO 31000
 Rückseite:
 [ ] ISO 9001  
 [ x] ISO 27005  
@@ -1379,9 +1399,9 @@ START
 Einfach
 Vorderseite: Was stellt ein Audit dar?
 
-[ ] eine lückenlose Prüfung aller möglichen Notfallszenarien  
-[ ] Eine Vorschrift im ISO27001  
-[x ] der Vergleich zwischen einem IST-Zustand und einem SOLL-Zustand.
+- eine lückenlose Prüfung aller möglichen Notfallszenarien  
+- Eine Vorschrift im ISO27001  
+- der Vergleich zwischen einem IST-Zustand und einem SOLL-Zustand.
 Rückseite:
 
 [ ] eine lückenlose Prüfung aller möglichen Notfallszenarien  
@@ -1619,7 +1639,11 @@ START
 Einfach
 Vorderseite:
 Es gibt drei Elemente der Mehr-Faktor-Authentifizierung. Welche sind das?
-  
+
+- Etwas, das der Benutzer gelernt hat  
+- Etwas, das der Benutzer ist, wie ein Fingerabdruck optische Merkmale oder Stimme  
+- Etwas, das der Benutzer kennt, wie ein Passwort oder eine PIN Nummer  
+- Etwas, das der Benutzer hat, wie ein mobiles Gerät oder Token
 Rückseite:
 [x ] Etwas, das der Benutzer gelernt hat  
 [ x] Etwas, das der Benutzer ist, wie ein Fingerabdruck optische Merkmale oder Stimme  
@@ -1634,6 +1658,9 @@ Einfach
 Vorderseite:
 Was versteht man unter Cross-Site-Scripting-Angriffe?
 
+- Infizierte Webseiten übertragen Viren  
+- Infizierte Webseiten nützen Sicherheitslücken aus  
+- Infizierte Webseiten blenden Werbung ein
 Rückseite:
 [ ] Infizierte Webseiten übertragen Viren  
 [ x] Infizierte Webseiten nützen Sicherheitslücken aus  
@@ -1646,6 +1673,13 @@ START
 Einfach
 Vorderseite:
 Was gehört in eine strategische Sicherheitsleitlinie?
+
+- Ausrichtung der IT-Sicheriet nach Unternehmenszielen  
+- Verantwortlichkeiten und Kompetenzen zuweisen: es wurde ein IT-Sicherheitsbeauftragter ernannt.  
+- IT-Sicherheit ist Chefsache  
+- Informationssicherheitsziele oder einen Rahmen, um diese festzulegen  
+- Selbstverpflichtung auf IT-Sicherheit und deren kontinuierliche Verbesserung  
+- Aufbauorganisation und (grobe) Ablaufprozesse
 
 Rückseite:
 [x ] Ausrichtung der IT-Sicheriet nach Unternehmenszielen  
@@ -1663,6 +1697,9 @@ Einfach
 Vorderseite:
 Was beinhaltet eine Informationssicherheitsrichtlinie?
 
+- Unter anderem die Strategie  
+- Unter anderem: Konzepte zur Umsetzung  
+- Unter anderem: Sicherheitsziele
 Rückseite:
 [ x] Unter anderem die Strategie  
 [ x] Unter anderem: Konzepte zur Umsetzung  
@@ -1675,6 +1712,10 @@ Einfach
 Vorderseite:
 Was ist eine Katastrophe nach BSI 100-4
 
+- Ein Großschadensereignis, zum Beispiel als Folge von Überschwemmungen oder Erdbeben  
+- Katastrophen können nur durch Mitarbeiter ausgelöst werden  
+- Eine Katastrophe ist nicht auf das eigene Unternehmen beschränkt  
+- Eine Katastrophe verhält sich aus Sicht des betroffenen Unternehmens wie eine Krise
 Rückseite:
 [x ] Ein Großschadensereignis, zum Beispiel als Folge von Überschwemmungen oder Erdbeben  
 [ ] Katastrophen können nur durch Mitarbeiter ausgelöst werden  
@@ -1688,7 +1729,10 @@ START
 Einfach
 Vorderseite:
 Welche möglichen Konsequenzen sollten Sie bedenken, bevor Sie sich ein Profil in einem sozialen Netzwerk einrichten?
-  
+
+- Preisgabe privater Informationen, Beziehungskrisen, identitätsdiebstahl, Phishing.  
+- Preisgabe privater Informationen, Verbreitung von Schadsoftware, Identitätsdiebstahl, Phishing.  
+- Preisgabe privater Informationen, Beziehungskrisen, Verbreitung von Schadsoftware, Phishing.
 Rückseite:
 [ ] Preisgabe privater Informationen, Beziehungskrisen, identitätsdiebstahl, Phishing.  
 [ x] Preisgabe privater Informationen, Verbreitung von Schadsoftware, Identitätsdiebstahl, Phishing.  
@@ -1702,7 +1746,10 @@ Einfach
 Vorderseite:
 Welche Eigenschaften muß die IT-Sicherheitspolitik aufweisen?
 
-  
+- sie muss unabhängig von der GF definiert werden  
+- Informationssicherheitsziele ODER ein Rahmen, wie sie sich aus den Unternehmenszielen ableiten lassen (nur Buch)  
+- Eignung für den Zweck der Organisation  
+- Einbeziehung einer Verpflichtung zur laufenden Verbesserung des Informationssicherheitsmanagement (ISMS)
 Rückseite:
 [ ] sie muss unabhängig von der GF definiert werden  
 [ ] Informationssicherheitsziele ODER ein Rahmen, wie sie sich aus den Unternehmenszielen ableiten lassen (nur Buch)  
@@ -1716,7 +1763,7 @@ Einfach
 Vorderseite:
 Welche Aussagen zum Datenschutz gibt es in Bezug auf Daten?
 
-Rückseite
+Rückseite:
 [x ] Datenschutz beschäftigt sich ausschließlich mit personenbezogenen oder personenbeziehbaren Daten.  
 [ ] Der Datenschutz beschäftigt sich mit allen Daten im Unternehmen
 
@@ -1727,6 +1774,9 @@ Einfach
 Vorderseite:
 Welche Aussage/n zum Umgang mit technischen Schwachstellen der in der Organisation eingesetzten Software ist/sind wichtig?
 
+- Informationen zu technischen Schwachstellen sollte rechtzeitig eingeholt werden  
+- Die Organisation sollte Aufgaben und Verantwortlichkeiten zum Einholen von Informationen über und zum Umgang mit technischen Schwachstellen festlegen  
+- Ein Patch sollte vor der Installation getestet und beurteilt werden
 Rückseite:
 
 [x ] Informationen zu technischen Schwachstellen sollte rechtzeitig eingeholt werden  
@@ -1753,6 +1803,10 @@ Einfach
 Vorderseite:
 Was ist bei der Ereignisprotokollierung zu beachten?
 
+- Da Ereignisprotokolle möglicherweise Rückschlüsse auf das Arbeitsverhalten von Mitarbeitern erlauben, ist ggf. der Betriebsrat zu beteiligen  
+- Es sollte definiert werden, was protokolliert wird  
+- Ereignisprotokolle sollten regelmäßig überprüft werden  
+- Da Ereignisprotokolle oftmals personenbezogene Daten enthalten, müssen sie besonders geschützt werden
 Rückseite:
 [x ] Da Ereignisprotokolle möglicherweise Rückschlüsse auf das Arbeitsverhalten von Mitarbeitern erlauben, ist ggf. der Betriebsrat zu beteiligen  
 [ x] Es sollte definiert werden, was protokolliert wird  
@@ -1765,7 +1819,11 @@ START
 Einfach
 Vorderseite:
 In welchen Bereichen sollte die Informationssicherheit zusätzlich zur IT-Abteilung berücksichtigt werden?
-  
+
+- Spielt auch im Personalbereich eine wichtige Rolle  
+- Im Organigramm  
+- in jeder Art von Projekt (nur im Buch richtig)  
+- Sollte auch im Projektmanagement, in jeder Art von Projekt berücksichtigt werden
 Rückseite:
 [x ] Spielt auch im Personalbereich eine wichtige Rolle  
 [ ] Im Organigramm  
@@ -1780,6 +1838,10 @@ Einfach
 Vorderseite:
 Welche Aussagen zum Umgang mit technischen Schwachstellen der in der Organisation eingesetzten Software sind wichtig?
 
+- alle möglichen technischen Schwachstellen müssen im Rahmen von IT-Risikomanagement vorweg dokumentiert werden.  
+- Patches testen und beurteilen bevor sie eingespielt werden  
+- Aufgaben und Verantwortlichkeiten zum Umgang mit technischen Schwachstellen sollten festgelegt werden  
+- Informationen zu Schwachstellen sollten rechtzeitig eingeholt werden
 Rückseite:
 [ ] alle möglichen technischen Schwachstellen müssen im Rahmen von IT-Risikomanagement vorweg dokumentiert werden.  
 [x ] Patches testen und beurteilen bevor sie eingespielt werden  
@@ -1794,6 +1856,9 @@ Einfach
 Vorderseite:
 Welche Natur sind Sicherheitslücken?
 
+- können auch organisatorische Ursachen haben  
+- können auch technische Ursachen haben  
+- können auch Folge individuellen Fehlverhaltens sein
 Rückseite:  
 [ x] können auch organisatorische Ursachen haben  
 [ x] können auch technische Ursachen haben  
@@ -1807,6 +1872,9 @@ Einfach
 Vorderseite:
 Was soll zum Thema Ereignisprotokollierung umgesetzt sein?
 
+- Administratoren sollten nicht in der Lage sein, die Protokolle ihrer eigenen Aktivitäten zu ändern  
+- Auch Aktivitäten von Administratoren sollten protokolliert werden  
+- Nicht synchron laufende Uhren in den Systemen erschweren die Auswertung von -Protokollinformationen deutlich
 Rückseite:
 [ x] Administratoren sollten nicht in der Lage sein, die Protokolle ihrer eigenen Aktivitäten zu ändern  
 [x ] Auch Aktivitäten von Administratoren sollten protokolliert werden  
@@ -1819,6 +1887,10 @@ Einfach
 Vorderseite:
 Was haben Sie im Kontakt mit Behörden zu beachten?
 
+- Ein angemessener Kontakt zu relevanten Behörden sollte auch präventiv gepflegt werden  
+- Die Telefonnummern mit dem Landes-Sicherheitsbeauftragten austauschen  
+- Unternehmen sollten über Regeln, Verfahren und Zuständigkeiten zur Kontaktpflege mit relevanten Behörden verfügen  
+- Blumen zum Geburtstag schicken
 Rückseite:
 [x ] Ein angemessener Kontakt zu relevanten Behörden sollte auch präventiv gepflegt werden  
 [ ] Die Telefonnummern mit dem Landes-Sicherheitsbeauftragten austauschen  
@@ -1832,7 +1904,10 @@ START
 Einfach
 Vorderseite:
 Was bedeutet der Begriff Zugang?
-  
+
+- Die Möglichkeit der Nutzung eines IT Systems, eventuell mit vorheriger Anmeldung  
+- Fingerabdruck-Einlass-System  
+- Login+Passwort
 Rückseite:
 [x ] Die Möglichkeit der Nutzung eines IT Systems, eventuell mit vorheriger Anmeldung  
 [ ] Fingerabdruck-Einlass-System  
@@ -1844,7 +1919,11 @@ START
 Einfach
 Vorderseite:
 Was sollten sich die Mitarbeiter einer Organisation nach ISO 27001 bewusst sein?
-  
+
+- Ihres Beitrags zum ISMS  
+- Der Informationssicherheitspolitik  
+- Der Folgen einer Nichterfüllung der Anforderungen des ISMS  
+- Mögliche Sanktionen bei Nichterfüllung.
 Rückseite:
 [ x] Ihres Beitrags zum ISMS  
 [ x] Der Informationssicherheitspolitik  
@@ -1858,6 +1937,9 @@ Einfach
 Vorderseite:
 Was versteht man unter einem Bot-Netz?
 
+- Bots sind dazu da, den PC zu zerstören  
+- Bots sind E-Mail-Spam  
+- Zusammengeschaltete PCs, die zum Aussenden vom SPAM verwendet werden
 Rückseite:
 [ ] Bots sind dazu da, den PC zu zerstören  
 [ ] Bots sind E-Mail-Spam  
@@ -1870,6 +1952,10 @@ Einfach
 Vorderseite:
 Welche Aussagen sind in Bezug auf Veränderungen an Systemen zu machen?
 
+- Es sollte Regeln und Prozesse für eine Änderungssteuerung geben (Change-Management)  
+- Die Änderungssteuerung sollte ein formales Genehmigungsverfahren beinhalten  
+- Es sollte sichergestellt werden, daß auch bei und nach Veränderungen alle Vorgaben der Informationssicherheit eingehalten werden  
+- Veränderungen sind immer beim IT-Sicherheitsbeauftragten zu beantragen
 Rückseite:
 [x ] Es sollte Regeln und Prozesse für eine Änderungssteuerung geben (Change-Management)  
 [ x] Die Änderungssteuerung sollte ein formales Genehmigungsverfahren beinhalten  
@@ -1882,16 +1968,12 @@ END
 START
 Einfach
 Vorderseite:
-
-Rückseite:
-
-END
-
-
-START
-Einfach
-Vorderseite:
 Welche Aussagen auf Daten treffen zu?
+
+- Aus Daten können Informationen gewonnen werden  
+- Daten sind Informationen  
+- Daten können gespeichert werden  
+- Daten können verarbeitet werden
 
 Rückseite:
 [x ] Aus Daten können Informationen gewonnen werden  
@@ -1916,6 +1998,9 @@ Einfach
 Vorderseite: 
 Um ISO-27001 konform zu sein, muss das ISMS wie verwirklicht sein?
 
+- Kontinuierlich verbessert werden  
+- Aufgebaut und realisiert  
+- Fortgeführt bzw. aufrechterhalten werden
 Rückseite:
 [x ] Kontinuierlich verbessert werden  
 [ x] Aufgebaut und realisiert  
@@ -1928,6 +2013,10 @@ Einfach
 Vorderseite: 
 Was könnten die Gründe sein, Kontakt zu speziellen Interessenverbänden, Expertenforen, Fachverbänden wegen der IT-Sicherheit zu halten?
 
+- Um sich über aktuelle Entwicklungen bei neuen Technologien und damit im Zusammenhang stehenden Fragen der Informationssicherhit austauschen zu können  
+- Um sicherzustellen, dass das eigene Verständnis zum Thema Informationssicherheit vollständig und zeitgemäß ist.  
+- Um über aktuelle Entwicklungen der Informationssicherheit auf dem Laufenden zu bleiben  
+- Um rechtzeitig Warnungen vor akuten Informationssicherheitsbedrohungen zu erhalten
 Rückseite:
 [ x] Um sich über aktuelle Entwicklungen bei neuen Technologien und damit im Zusammenhang stehenden Fragen der Informationssicherhit austauschen zu können  
 [x ] Um sicherzustellen, dass das eigene Verständnis zum Thema Informationssicherheit vollständig und zeitgemäß ist.  
@@ -1941,6 +2030,9 @@ Einfach
 Vorderseite:
 Um ein Ad-hoc-Drahtlosnetzwerk einzurichten, müssen drei Elemente zwischen den Teilnehmern vereinbart werden. Dies sind:
 
+- Wenn ein WEP aktiviert ist, WEP-Schlüssel, SSID und zu verwendende IP Adressen  
+- Wenn ein WEP aktiviert ist, WEP-Schlüssel, SSID und zu verwendende Frequenz  
+- Wenn ein WEP aktiviert ist, WEP-Schlüssel, SSID und zu verwendender Kanal
 Rückseite:
 [ x] Wenn ein WEP aktiviert ist, WEP-Schlüssel, SSID und zu verwendende IP Adressen  
 [ ] Wenn ein WEP aktiviert ist, WEP-Schlüssel, SSID und zu verwendende Frequenz  
@@ -1953,6 +2045,10 @@ Einfach
 Vorderseite:
 Was ist bei Rollen, die im Konflikt stehen, in der Informationssicherheit zu beachten?
 
+- Sind Rollenkonflikte nicht zu vermeiden, sollen andere Maßnahmen wie eine zusätzliche Überwachung in Betragt gezogen werden  
+- Miteinander in Konflikt stehende Rollen sind unbedingt zu vermeiden.  
+- Miteinander in Konflikt stehende Rollen sollen nicht vom selben Rolleninhaber besetzt werden  
+- Miteinander in Konflikt stehende Aufgabenfelder sollen nicht in einer Rolle zusammenfallen
 Rückseite:
 [x ] Sind Rollenkonflikte nicht zu vermeiden, sollen andere Maßnahmen wie eine zusätzliche Überwachung in Betragt gezogen werden  
 [ ] Miteinander in Konflikt stehende Rollen sind unbedingt zu vermeiden.  
@@ -1966,6 +2062,9 @@ Einfach
 Vorderseite:
 Sie besuchen eine Internetseite. Woran erkennen Sie, dass die Daten sicher übertragen werden?
 
+- Es muß eine Authentifizierung stattfinden  
+- Die URL der aufgerufenen Internetseite beginnt mit https://  
+- Die aufgerufene Internetseite zeigt ein Schloss
 Rückseite:
 [ ] Es muß eine Authentifizierung stattfinden  
 [x ] Die URL der aufgerufenen Internetseite beginnt mit https://  
@@ -1978,6 +2077,10 @@ Einfach
 Vorderseite:
 Was muss die Führung bzgl. Der Informationssicherheitsziele beachten?
 
+- sie müssen im Unternehmen bekanntgemacht werden  
+- sie müssen im Einklang mit der Informationssicherheitspolitik stehen  
+- jeder muss sie beachten  
+- sie müssen messbar sein
 Rückseite:
 [x ] sie müssen im Unternehmen bekanntgemacht werden  
 [x ] sie müssen im Einklang mit der Informationssicherheitspolitik stehen  
@@ -1991,6 +2094,10 @@ Einfach
 Vorderseite:
 Wie wird in der ISO 27001 die Bereitstellung der Ressourcen beschrieben? Welches Kapitel?
 
+- nur in Anhang A.12  
+- in 5.1 Abschnitt c Die Führung ist verpflichtet sicherzustellen, dass die für das Informationssicherheitsmanagementsystem erforderlichen Ressourcen zur Verfügung stehen  
+- (in 7.1) Die Organisation muss die zur Einrichtung, Implementierung, Aufrechterhaltung und laufenden Verbesserung des ISMS erforderlichen Ressourcen ermitteln und bereitstellen
+
 Rückseite:
 [ ] nur in Anhang A.12  
 [ ] in 5.1 Abschnitt c Die Führung ist verpflichtet sicherzustellen, dass die für das Informationssicherheitsmanagementsystem erforderlichen Ressourcen zur Verfügung stehen  
@@ -2003,6 +2110,12 @@ Einfach
 Vorderseite:
 Welche Maßnahmen der Zugangskontrolle gibt es? (Die Frage kommt nach Thomas nicht)
 
+- technische/bauliche Sicherung der Netzgeräte (W/LAN)  
+- Zugriffssperre bei mobilen Geräten  
+- Verschlüsselung wichtiger Datenübertragungen  
+- Weitere Zugangskontrollen durch Zwei-Faktor-Authentifizierung (USB-Dongles, SmartCards,Hardware-Token, biometrische Erkennungsverfahren)  
+- Schutz des IT-Systems durch Virenscanner vor Malware  
+- Einschränkung des Systemzugangs durch Firewall
 Rückseite:
 [ x] technische/bauliche Sicherung der Netzgeräte (W/LAN)  
 [ ] Zugriffssperre bei mobilen Geräten  
@@ -2018,6 +2131,9 @@ Einfach
 Vorderseite: 
 Was verpflichtet die ISO 27001 Unternehmen in Bezug auf Mitarbeiter auszuführen?
 
+- Maßnahmen zu ergreifen, damit die Mitarbeiter den bestimmten Kompetenzlevel in Bezug auf Informationssicherheit erreichen  
+- auf für Personen, die keine Mitarbeiter der Organisation sind, aber unter der Aufsicht der Organisation arbeiten und durchihre Tätigkeiten die Leistung des ISMS beeinflussen können, die erforderlichen Kompetenzen zu bestimmen  
+- die erforderlichen Kompetenzen der Mitarbeiter zu bestimmen, die durch ihre Tätigkeit die Leistung des ISMS beeinflussen können
 Rückseite:
 [x ] Maßnahmen zu ergreifen, damit die Mitarbeiter den bestimmten Kompetenzlevel in Bezug auf Informationssicherheit erreichen  
 [x ] auf für Personen, die keine Mitarbeiter der Organisation sind, aber unter der Aufsicht der Organisation arbeiten und durchihre Tätigkeiten die Leistung des ISMS beeinflussen können, die erforderlichen Kompetenzen zu bestimmen  
@@ -2030,6 +2146,9 @@ Einfach
 Vorderseite:  
 Welche Aussagen gibt es zum IT-Sicherheitsgesetz? (maximal 3 Aussagen)
 
+- Für Betreiber von Webangeboten wie zum Beispiel Online Shops gelten seit Inkrafttreten des Gesetzes erhöhte Anforderungen an die technischen und organisatorischen Maßnahmen zum Schutz ihrer Kundendaten und der von ihnen genutzten IT Systeme  
+- Das Gesetz trat am 25.07.2015 in Kraft  
+- Die Unternehmen der sogenannten kritischen Infrastrukturen müssen 2 Jahre nach dem Inkrafttreten der für ihren Sektor relevanten Rechtsverordnung ein dem Stand der Technik entsprechendes Sicherheitsniveau aufweisen
 Rückseite:
 [ x] Für Betreiber von Webangeboten wie zum Beispiel Online Shops gelten seit Inkrafttreten des Gesetzes erhöhte Anforderungen an die technischen und organisatorischen Maßnahmen zum Schutz ihrer Kundendaten und der von ihnen genutzten IT Systeme  
 [x ] Das Gesetz trat am 25.07.2015 in Kraft  
@@ -2042,6 +2161,10 @@ Einfach
 Vorderseite:
 Welche Aussage zum Datenschutz gibt es in Bezug auf Personen? (In einem Satz)
 
+- Datenschutz betrifft alle Informationen, die sich auf eine Person beziehen  
+- Die EU-Datenschutzgrundverordnung (EU-DSGVO) ist für die Bürger und Unternehmen der Europäischen Union seit dem 25.05.2018 unmittelbar geltendes Recht.  
+- alle Daten über Personen  
+- alle Informationen, die elektronische oder anders gespeichert sind.
 Rückseite:
 [ ] Datenschutz betrifft alle Informationen, die sich auf eine Person beziehen  
 [x ] Die EU-Datenschutzgrundverordnung (EU-DSGVO) ist für die Bürger und Unternehmen der Europäischen Union seit dem 25.05.2018 unmittelbar geltendes Recht.  
@@ -2055,6 +2178,9 @@ Einfach
 Vorderseite:
 Wo werden die Awareness-Maßnahmen für die Informationssicherheit geregelt?
 
+- Zu den Aufgaben des Datenschutzbeauftragten gehört auch die Beratung und Unterrichtung der Mitarbeiter hinsichtlich ihrer Pflichten in Bezug auf den Datenschutz (Art 39)  
+- Das BSI IT-Grundschutzkompendium fordert und beschreibt Awareness Maßnahmen  
+- Die ISO 27001 fordert Awareness Maßnahmen
 Rückseite:
 [x ] Zu den Aufgaben des Datenschutzbeauftragten gehört auch die Beratung und Unterrichtung der Mitarbeiter hinsichtlich ihrer Pflichten in Bezug auf den Datenschutz (Art 39)  
 [x ] Das BSI IT-Grundschutzkompendium fordert und beschreibt Awareness Maßnahmen  
@@ -2067,6 +2193,10 @@ Einfach
 Vorderseite:
 Nach der ISO 27001 muss für das ISMS ein Anwendungsbereich festgelegt werden. Dazu kann/können gehören?
 
+- Die Themen des bestimmten internen und externen Kontextes  
+- Schnittstellen und Abhängigkeiten zwischen Tätigkeiten, die von der Organisation selbst ausgeführt werden und denen, die von anderen ausgeführt werden  
+- Die Räume der Geschäftsführung  
+- Die Anforderungen der interessierten Parteien
 Rückseite:
 [ ] Die Themen des bestimmten internen und externen Kontextes  
 [ ] Schnittstellen und Abhängigkeiten zwischen Tätigkeiten, die von der Organisation selbst ausgeführt werden und denen, die von anderen ausgeführt werden  
@@ -2080,6 +2210,10 @@ Einfach
 Vorderseite:
 Was ist eine Krise nach dem BSI Notfallmanagement?
 
+- Eine krise ist die Vorstufe einer Katastrophe  
+- Eine Krise ist eine ungeplante Abweichung vom Normalbetrieb, die mit der normalen Aufbau- und Ablauforganisation nicht bewältigt werden kann.  
+- Eine Krise ist ein verschärfter Notfall, in dem die Existenz des Unternehmens oder Leben und Gesundheit von Personen gefährdet sind.
+
 Rückseite:
 [ ] Eine krise ist die Vorstufe einer Katastrophe  
 [x ] Eine Krise ist eine ungeplante Abweichung vom Normalbetrieb, die mit der normalen Aufbau- und Ablauforganisation nicht bewältigt werden kann.  
@@ -2092,6 +2226,10 @@ Einfach
 Vorderseite:
 Was gehört zum Verstehen des inneren Kontextes einer Organisation aus der ISO 27001 dazu?
 
+- Unternehmensstruktur und Entscheidungswege  
+- Stellenbeschreibungen  
+- Unternehmensziele  
+- Firmenkultur
 Rückseite:
 [ x] Unternehmensstruktur und Entscheidungswege  
 [ ] Stellenbeschreibungen  
@@ -2105,6 +2243,10 @@ Einfach
 Vorderseite:
 Welche Rollen gehören zur Notfallbewältigung?
 
+- Krisenstab  
+- Notfallbeauftragter  
+- Notfallteam  
+- Krisenentscheidungsgremium
 Rückseite: 
 [ x] Krisenstab  
 [ ] Notfallbeauftragter  
@@ -2118,6 +2260,9 @@ Einfach
 Vorderseite:
 Wann erfolgen im Zertifizierungszyklus Überwachungsaudits?
 
+- Jährlich zwischen den Rezertifizierungsaudit  
+- Jährlich zwischen den Rezertifizierungsaudits --> Ergänzungund nicht Teil der Antwort:(d.h. im 1. Und 2. Des 3 jährigen Zyklus)  
+- jährlich in den 3 Jahren in denen die Zertifizierung gelten soll.
 Rückseite:
 
 [x ] Jährlich zwischen den Rezertifizierungsaudit  
