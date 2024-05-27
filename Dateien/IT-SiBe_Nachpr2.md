@@ -1,7 +1,4 @@
----
-created: 2024-05-15T16:29
-updated: 2024-05-15T16:36
----
+
 TARGET DECK: IT-SiBe_Nachprüfung
 
 START
