@@ -1,0 +1,1906 @@
+TARGET DECK: Python_KW_21
+
+START
+Einfach
+Vorderseite:
+### Punkt 1: Definiert einen Integer a, einen String t, und einen Boolean b
+
+1. **Was ist der Wert der Variablen `a`, `t`, und `b`?**
+    
+    - a) 5, "(if > 5)", True
+    - b) 6, "(if > 6)", False 
+    - c) 7, "(if > 7)", True
+    - d) 6, "(if > 6)", True
+
+Rückseite:
+
+- a) 5, "(if > 5)", True
+- b) 6, "(if > 6)", False [RICHTIG]
+- c) 7, "(if > 7)", True
+- d) 6, "(if > 6)", True
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+1. **Welche Datentypen haben die Variablen `a`, `t`, und `b`?**
+    
+    - a) Integer, Float, Boolean
+    - b) Integer, String, Boolean 
+    - c) String, Integer, Boolean
+    - d) Boolean, String, Integer
+
+Rückseite:
+
+    
+- a) Integer, Float, Boolean
+    - b) Integer, String, Boolean [RICHTIG]
+    - c) String, Integer, Boolean
+    - d) Boolean, String, Integer
+
+
+END
+
+---
+
+
+START
+Einfach
+Vorderseite:
+1. **Wie würde man die Variable `a` als Float definieren?**
+    
+    - a) `a = 6.0`
+    - b) `a = "6"`
+    - c) `a = True`
+    - d) `a = 6`
+
+Rückseite:
+
+    
+- a) `a = 6.0` [RICHTIG]
+    - b) `a = "6"`
+    - c) `a = True`
+    - d) `a = 6`
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+4. **Wie ändert man den Wert von `t` in "(if > 10)"?**
+    
+    - a) `t = "(if > 6)"`
+    - b) `t = "(if > 10)"` 
+    - c) `t = 10`
+    - d) `t = True`
+
+
+Rückseite:
+
+    
+- a) `t = "(if > 6)"`
+    - b) `t = "(if > 10)"` [RICHTIG]
+    - c) `t = 10`
+    - d) `t = True`
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 2: Bedingt Code ausführen: nur wenn die Variable b True ist, dann will ich t ausgeben
+
+1. **Unter welcher Bedingung wird `t` ausgegeben?**
+    
+    - a) Wenn `a` größer als 6 ist
+    - b) Wenn `b` True ist 
+    - c) Wenn `t` länger als 6 Zeichen ist
+    - d) Wenn `b` False ist
+
+Rückseite:
+
+    
+- a) Wenn `a` größer als 6 ist
+    - b) Wenn `b` True ist [RICHTIG]
+    - c) Wenn `t` länger als 6 Zeichen ist
+    - d) Wenn `b` False ist
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Wie ändert man den Code, um `t` auszugeben, wenn `b` False ist?**
+    
+    - a) `if (b == True): print(t)`
+    - b) `if (b == False): print(t)` 
+    - c) `if (a == 6): print(t)`
+    - d) `if (t == "(if > 6)"): print(t)`
+
+Rückseite:
+
+- a) `if (b == True): print(t)`
+    - b) `if (b == False): print(t)` [RICHTIG]
+    - c) `if (a == 6): print(t)`
+    - d) `if (t == "(if > 6)"): print(t)`
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+4. **Wie fügt man eine else-Bedingung hinzu, die "b ist False" ausgibt?**
+    
+    - a) `if (b == True): print(t) else: print("b ist False")`
+    - b) `if (b == True): print(t) elif: print("b ist False")`
+    - c) `if (b == True): print(t) else: print("b ist False")` 
+    - d) `if (b == True): print(t) else print("b ist False")`
+
+Rückseite:
+
+    
+- a) `if (b == True): print(t) else: print("b ist False")`
+    - b) `if (b == True): print(t) elif: print("b ist False")`
+    - c) `if (b == True): print(t) else: print("b ist False")` [RICHTIG]
+    - d) `if (b == True): print(t) else print("b ist False")`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 3: Bedingt Code ausführen: Addiere 1 zu a, wenn b True ist
+
+1. **Was passiert mit der Variable `a`, wenn `b` True ist?**
+    
+    - a) `a` wird um 1 erhöht 
+    - b) `a` wird um 2 erhöht
+    - c) `a` wird nicht verändert
+    - d) `a` wird um 1 verringert
+
+Rückseite:
+
+    
+- a) `a` wird um 1 erhöht [RICHTIG]
+    - b) `a` wird um 2 erhöht
+    - c) `a` wird nicht verändert
+    - d) `a` wird um 1 verringert
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+2. **Wie ändert man den Code, um 2 zu `a` hinzuzufügen, wenn `b` True ist?**
+    
+    - a) `if (b == True): a = a + 1`
+    - b) `if (b == True): a = a + 2` 
+    - c) `if (b == True): a = a - 2`
+    - d) `if (b == True): a = a * 2`
+
+Rückseite:
+
+    
+- a) `if (b == True): a = a + 1`
+- b) `if (b == True): a = a + 2` [RICHTIG]
+- c) `if (b == True): a = a - 2`
+- d) `if (b == True): a = a * 2`
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+3. **Was ist der Wert von `a`, wenn `b` False ist?**
+    
+    - a) 5
+    - b) 6 
+    - c) 7
+    - d) 8
+
+Rückseite:
+
+    
+- a) 5
+    - b) 6 [RICHTIG]
+    - c) 7
+    - d) 8
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+4. **Wie könnte man den Code umschreiben, um die Bedingung und die Zuweisung in einer Zeile zu haben?**
+    
+    - a) `a = a + (1 if b else 0)`
+    - b) `a = a + 1 if b == True`
+    - c) `a = a + 1 if b`
+    - d) `a += 1 if b else 0`
+
+Rückseite:
+
+    
+- a) `a = a + (1 if b else 0)` [RICHTIG]
+    - b) `a = a + 1 if b == True`
+    - c) `a = a + 1 if b`
+    - d) `a += 1 if b else 0`
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 4: Bedingt Code ausführen: Wenn t länger als 20 Zeichen, dann addiere 2 zu a
+
+1. **Welche Bedingung muss erfüllt sein, damit `a` um 2 erhöht wird?**
+    
+    - a) Wenn `b` True ist
+    - b) Wenn `a` größer als 6 ist
+    - c) Wenn `t` länger als 20 Zeichen ist ]
+    - d) Wenn `t` länger als 10 Zeichen ist
+
+Rückseite:
+
+    
+- a) Wenn `b` True ist
+- b) Wenn `a` größer als 6 ist
+- c) Wenn `t` länger als 20 Zeichen ist [RICHTIG]
+- d) Wenn `t` länger als 10 Zeichen ist
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+2. **Wie kann man die Bedingung anpassen, um `a` zu erhöhen, wenn `t` länger als 10 Zeichen ist?**
+    
+    - a) `if (len(t) > 5): a += 2`
+    - b) `if (len(t) > 10): a += 2` 
+    - c) `if (len(t) > 15): a += 2`
+    - d) `if (len(t) > 20): a += 2`
+
+Rückseite:
+
+    
+- a) `if (len(t) > 5): a += 2`
+- b) `if (len(t) > 10): a += 2` [RICHTIG]
+- c) `if (len(t) > 15): a += 2`
+- d) `if (len(t) > 20): a += 2`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+3. **Was wird ausgegeben, wenn `t` die Länge 25 hat?**
+    
+    - a) `a` wird um 2 erhöht und "Der Wert von a ist:" gefolgt von dem neuen Wert von `a` wird ausgegeben 
+    - b) `a` wird um 2 erhöht, aber nichts wird ausgegeben
+    - c) `a` wird nicht erhöht und nichts wird ausgegeben
+    - d) Nur "Der Wert von a ist:" wird ausgegeben
+
+Rückseite:
+
+    
+- a) `a` wird um 2 erhöht und "Der Wert von a ist:" gefolgt von dem neuen Wert von `a` wird ausgegeben [RICHTIG]
+- b) `a` wird um 2 erhöht, aber nichts wird ausgegeben
+- c) `a` wird nicht erhöht und nichts wird ausgegeben
+- d) Nur "Der Wert von a ist:" wird ausgegeben
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+4. **Wie ändert man den Code, um den neuen Wert von `a` nur dann auszugeben, wenn `t` länger als 20 Zeichen ist?**
+    
+    - a) `if (len(t) > 20): a += 2`
+    - b) `if (len(t) > 20): a += 2; print("Der Wert von a ist:", a)` 
+    - c) `if (len(t) > 20): a = a + 2`
+    - d) `if (len(t) > 20): a = a + 2; print("a ist:", a)`
+
+Rückseite:
+    
+- a) `if (len(t) > 20): a += 2`
+- b) `if (len(t) > 20): a += 2; print("Der Wert von a ist:", a)` [RICHTIG]
+- c) `if (len(t) > 20): a = a + 2`
+- d) `if (len(t) > 20): a = a + 2; print("a ist:", a)`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 5: Definition der Funktion `greet_users()`
+
+1. **Was erwartet die Funktion `greet_users()` als Parameter?**
+    
+    - a) Einen einzelnen Namen
+    - b) Eine Liste 
+    - c) Eine Zahl
+    - d) Ein Dictionary
+
+Rückseite:
+
+    
+- a) Einen einzelnen Namen
+- b) Eine Liste [RICHTIG]
+- c) Eine Zahl
+- d) Ein Dictionary
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Was wird innerhalb der Funktion `greet_users()` gemacht?**
+    
+- a) Jeder Name wird mit `"Willkommen"` begrüßt
+- b) Jeder Name in der Liste wird geprüft und `"Hallo $Name"` wird ausgegeben 
+- c) Jeder Name wird in Großbuchstaben umgewandelt
+- d) Jeder Name wird der Liste hinzugefügt
+
+Rückseite:
+
+    
+- a) Jeder Name wird mit `"Willkommen"` begrüßt
+- b) Jeder Name in der Liste wird geprüft und `"Hallo $Name"` wird ausgegeben [RICHTIG]
+- c) Jeder Name wird in Großbuchstaben umgewandelt
+- d) Jeder Name wird der Liste hinzugefügt
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Welche Bedingung muss ein Element in der Liste erfüllen, um als Name erkannt zu werden?**
+    
+    - a) Es muss ein Integer sein
+    - b) Es muss ein String sein und die Länge muss zwischen 5 und 15 Zeichen liegen
+    - c) Es muss ein String sein und die Länge muss mehr als 20 Zeichen haben
+    - d) Es muss ein Boolean sein
+
+Rückseite:
+    
+- a) Es muss ein Integer sein
+    - b) Es muss ein String sein und die Länge muss zwischen 5 und 15 Zeichen liegen [RICHTIG]
+    - c) Es muss ein String sein und die Länge muss mehr als 20 Zeichen haben
+    - d) Es muss ein Boolean sein
+
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+4. **Welcher Ausdruck prüft, ob ein Element ein String ist?**
+    
+    - a) `if type(name) == str:` 
+    - b) `if isinstance(name, list):`
+    - c) `if len(name) > 5:`
+    - d) `if name.isalpha():`
+
+Rückseite:
+
+    
+- a) `if type(name) == str:` [RICHTIG]
+    - b) `if isinstance(name, list):`
+    - c) `if len(name) > 5:`
+    - d) `if name.isalpha():`
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 6: Implementierung der Funktion `clean_integer_list()`
+
+1. **Was macht die Funktion `clean_integer_list()`?**
+    
+    - a) Sie entfernt alle Elemente, die kein Integer sind, aus der Liste 
+    - b) Sie sortiert die Liste
+    - c) Sie konvertiert alle Elemente in Integers
+    - d) Sie gibt die Länge der Liste zurück
+
+Rückseite:
+
+1. **Was macht die Funktion `clean_integer_list()`?**
+    
+    - a) Sie entfernt alle Elemente, die kein Integer sind, aus der Liste [RICHTIG]
+    - b) Sie sortiert die Liste
+    - c) Sie konvertiert alle Elemente in Integers
+    - d) Sie gibt die Länge der Liste zurück
+
+END
+
+---
+
+
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Warum ist es problematisch, eine Liste zu bearbeiten, durch die man gerade iteriert?**
+    
+    - a) Es kann zu Endlosschleifen führen
+    - b) Es kann zu unerwartetem Verhalten oder Fehlern führen 
+    - c) Es ist ineffizient
+    - d) Es ist nicht möglich in Python
+
+Rückseite:
+
+    
+- a) Es kann zu Endlosschleifen führen
+    - b) Es kann zu unerwartetem Verhalten oder Fehlern führen [RICHTIG]
+    - c) Es ist ineffizient
+    - d) Es ist nicht möglich in Python
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Wie löst die Funktion `clean_integer_list()` dieses Problem?**
+    
+    - a) Indem sie die Liste in-place bearbeitet
+    - b) Indem sie eine neue Liste anlegt und nur die Integer hinzufügt 
+    - c) Indem sie die Liste sortiert
+    - d) Indem sie die Liste in eine Zeichenkette umwandelt
+
+Rückseite:
+
+    
+- a) Indem sie die Liste in-place bearbeitet
+    - b) Indem sie eine neue Liste anlegt und nur die Integer hinzufügt [RICHTIG]
+    - c) Indem sie die Liste sortiert
+    - d) Indem sie die Liste in eine Zeichenkette umwandelt
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+4. **Wie prüft die Funktion `clean_integer_list()`, ob ein Element ein Integer ist?**
+    
+    - a) `if element == int:`
+    - b) `if element is not int:`
+    - c) `if type(element) is int:` 
+    - d) `if isinstance(element, list):`
+
+Rückseite:
+
+    
+- a) `if element == int:`
+    - b) `if element is not int:`
+    - c) `if type(element) is int:` [RICHTIG]
+    - d) `if isinstance(element, list):`
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 7: Wahrheitsoperatoren und Vergleichsoperatoren
+
+1. **Welche Ausgabe erzeugt der folgende Code: `if (Bedingung1 and Bedingung2): print("Beides True")`?**
+    
+    - a) "Beides True", wenn beide Bedingungen wahr sind 
+    - b) "Eine von beiden Bedingungen ist True", wenn mindestens eine Bedingung wahr ist
+    - c) "False", wenn beide Bedingungen falsch sind
+    - d) "Beides True", wenn beide Bedingungen falsch sind
+
+Rückseite:
+
+    
+- a) "Beides True", wenn beide Bedingungen wahr sind [RICHTIG]
+    - b) "Eine von beiden Bedingungen ist True", wenn mindestens eine Bedingung wahr ist
+    - c) "False", wenn beide Bedingungen falsch sind
+    - d) "Beides True", wenn beide Bedingungen falsch sind
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Welche Vergleichsoperatoren werden verwendet, um Größen zu vergleichen?**
+    
+    - a) `==, !=`
+    - b) `<, >, <=, >=` 
+    - c) `is, is not`
+    - d) `and, or, not`
+
+Rückseite:
+    
+- a) `==, !=`
+    - b) `<, >, <=, >=` [RICHTIG]
+    - c) `is, is not`
+    - d) `and, or, not`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Welche Ausgabe erzeugt `print(type("Test") == str)`?**
+    
+    - a) True 
+    - b) False
+    - c) "Test"
+    - d) `str`
+Rückseite:
+
+    
+- a) True [RICHTIG]
+    - b) False
+    - c) "Test"
+    - d) `str`
+
+END
+
+---
+
+
+START
+Einfach
+Vorderseite:  
+4. **Welche Ausgabe erzeugt `print("DAS IST EIN TEST" > "str5ing")`?**
+    
+    - a) True
+    - b) False 
+    - c) "DAS IST EIN TEST"
+    - d) Error
+
+Rückseite:
+
+    
+- a) True
+    - b) False [RICHTIG]
+    - c) "DAS IST EIN TEST"
+    - d) Error
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 8: Konzept `try/except`
+
+1. **Was passiert im `try`-Block des folgenden Codes?**
+    
+    - a) `result` wird auf `10 / 2` gesetzt
+    - b) `result` wird auf `10 / 0` gesetzt, was einen ZeroDivisionError erzeugt 
+    - c) `liste` wird auf `[1, 2, 3]` gesetzt
+    - d) `a` wird auf `liste[0]` gesetzt
+
+Rückseite:
+
+    
+- a) `result` wird auf `10 / 2` gesetzt
+    - b) `result` wird auf `10 / 0` gesetzt, was einen ZeroDivisionError erzeugt [RICHTIG]
+    - c) `liste` wird auf `[1, 2, 3]` gesetzt
+    - d) `a` wird auf `liste[0]` gesetzt
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Was passiert, wenn ein `ZeroDivisionError` im `try`-Block auftritt?**
+    
+    - a) "Division erfolgreich, Ergebnis ist: " wird ausgegeben
+    - b) "You can't divide by zero!" wird ausgegeben 
+    - c) "Ein unbekannter Fehler ist aufgetreten" wird ausgegeben
+    - d) Der Fehler wird ignoriert
+
+Rückseite:
+
+    
+- a) "Division erfolgreich, Ergebnis ist: " wird ausgegeben
+    - b) "You can't divide by zero!" wird ausgegeben [RICHTIG]
+    - c) "Ein unbekannter Fehler ist aufgetreten" wird ausgegeben
+    - d) Der Fehler wird ignoriert
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Was passiert, wenn ein anderer Fehler im `try`-Block auftritt?**
+    
+    - a) Der Fehler wird ignoriert
+    - b) "You can't divide by zero!" wird ausgegeben
+    - c) "Ein unbekannter Fehler ist aufgetreten" wird ausgegeben 
+    - d) Der Fehler wird an den Aufrufer weitergegeben
+
+Rückseite:
+
+    
+- a) Der Fehler wird ignoriert
+    - b) "You can't divide by zero!" wird ausgegeben
+    - c) "Ein unbekannter Fehler ist aufgetreten" wird ausgegeben [RICHTIG]
+    - d) Der Fehler wird an den Aufrufer weitergegeben
+
+END
+
+---
+
+START
+Einfach
+Vorderseite: 
+4. **Was wird im `finally`-Block des folgenden Codes ausgeführt?**
+    
+    - a) Der `finally`-Block wird nur ausgeführt, wenn kein Fehler auftritt
+    - b) Der `finally`-Block wird immer ausgeführt, unabhängig davon, ob ein Fehler auftritt oder nicht 
+    - c) Der `finally`-Block wird nur ausgeführt, wenn ein Fehler auftritt
+    - d) Der `finally`-Block wird nie ausgeführt
+
+Rückseite:
+
+    
+- a) Der `finally`-Block wird nur ausgeführt, wenn kein Fehler auftritt
+    - b) Der `finally`-Block wird immer ausgeführt, unabhängig davon, ob ein Fehler auftritt oder nicht [RICHTIG]
+    - c) Der `finally`-Block wird nur ausgeführt, wenn ein Fehler auftritt
+    - d) Der `finally`-Block wird nie ausgeführt
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 9: Schleifen und Bedingungen in Python
+
+1. **Welche Schleife wird verwendet, um durch jedes Element einer Liste zu iterieren?**
+    
+    - a) `while`
+    - b) `for` 
+    - c) `foreach`
+    - d) `loop`
+
+Rückseite:
+
+    
+- a) `while`
+    - b) `for` [RICHTIG]
+    - c) `foreach`
+    - d) `loop`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Wie wird überprüft, ob ein Element ein String ist und eine Länge zwischen 5 und 15 Zeichen hat?**
+    
+    - a) `if type(element) == str and 5 > len(element) > 15:`
+    - b) `if type(element) == str and len(element) >= 5 and len(element) < 15:` 
+    - c) `if isinstance(element, str) and len(element) >= 5 and len(element) < 15:`
+    - d) `if isinstance(element, str) and 5 > len(element) > 15:`
+
+Rückseite:
+
+    
+- a) `if type(element) == str and 5 > len(element) > 15:`
+    - b) `if type(element) == str and len(element) >= 5 and len(element) < 15:` [RICHTIG]
+    - c) `if isinstance(element, str) and len(element) >= 5 and len(element) < 15:`
+    - d) `if isinstance(element, str) and 5 > len(element) > 15:`
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 10: Problematische Listenbearbeitung
+
+1. **Warum sollte man keine Liste bearbeiten, durch die man gerade iteriert?**
+    
+    - a) Es kann zu unerwartetem Verhalten führen 
+    - b) Es ist nicht effizient
+    - c) Es führt zu Endlosschleifen
+    - d) Es ist in Python nicht erlaubt
+
+Rückseite:
+
+    
+- a) Es kann zu unerwartetem Verhalten führen [RICHTIG]
+    - b) Es ist nicht effizient
+    - c) Es führt zu Endlosschleifen
+    - d) Es ist in Python nicht erlaubt
+
+END
+
+---
+
+START
+Einfach
+Vorderseite: 
+2. **Was macht die Funktion `flawed_clean_integer_list()`?**
+    
+    - a) Sie entfernt alle Elemente, die kein Integer sind, aus der Liste in-place 
+    - b) Sie gibt eine neue Liste mit nur Integers zurück
+    - c) Sie sortiert die Liste
+    - d) Sie konvertiert alle Elemente in Integers
+
+Rückseite:
+    
+- a) Sie entfernt alle Elemente, die kein Integer sind, aus der Liste in-place [RICHTIG]
+    - b) Sie gibt eine neue Liste mit nur Integers zurück
+    - c) Sie sortiert die Liste
+    - d) Sie konvertiert alle Elemente in Integers
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Wie verbessert die Funktion `clean_integer_list()` die problematische Listenbearbeitung?**
+    
+    - a) Indem sie eine neue Liste erstellt und nur Integer hinzufügt 
+    - b) Indem sie die Original-Liste in-place bearbeitet
+    - c) Indem sie die Liste sortiert
+    - d) Indem sie die Liste in eine Zeichenkette umwandelt
+
+Rückseite:
+
+    
+- a) Indem sie eine neue Liste erstellt und nur Integer hinzufügt [RICHTIG]
+    - b) Indem sie die Original-Liste in-place bearbeitet
+    - c) Indem sie die Liste sortiert
+    - d) Indem sie die Liste in eine Zeichenkette umwandelt
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 11: Wahrheitsoperatoren
+
+1. **Welche Ausgabe erzeugt der folgende Code: `if (Bedingung1 and Bedingung2): print("Beides True")`?**
+    
+    - a) "Beides True", wenn beide Bedingungen wahr sind 
+    - b) "Eine von beiden Bedingungen ist True", wenn mindestens eine Bedingung wahr ist
+    - c) "False", wenn beide Bedingungen falsch sind
+    - d) "Beides True", wenn beide Bedingungen falsch sind
+
+Rückseite:
+ 
+- a) "Beides True", wenn beide Bedingungen wahr sind [RICHTIG]
+    - b) "Eine von beiden Bedingungen ist True", wenn mindestens eine Bedingung wahr ist
+    - c) "False", wenn beide Bedingungen falsch sind
+    - d) "Beides True", wenn beide Bedingungen falsch sind
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Welche Ausgabe erzeugt der folgende Code: `elif(Bedingung1 or Bedingung2): print("Eine von beiden Bedingungen ist True")`?**
+    
+    - a) Wenn beide Bedingungen wahr sind
+    - b) Wenn mindestens eine Bedingung wahr ist 
+    - c) Wenn keine der Bedingungen wahr ist
+    - d) Wenn beide Bedingungen falsch sind
+
+Rückseite:
+- a) Wenn beide Bedingungen wahr sind
+    - b) Wenn mindestens eine Bedingung wahr ist [RICHTIG]
+    - c) Wenn keine der Bedingungen wahr ist
+    - d) Wenn beide Bedingungen falsch sind
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Punkt 12: Vergleichsoperatoren
+
+1. **Welche Vergleichsoperatoren werden verwendet, um Größen zu vergleichen?**
+    - a) `==, !=`
+    - b) `<, >, <=, >=` 
+    - c) `is, is not`
+    - d) `and, or,
+
+Rückseite:
+
+- a) `==, !=`
+    - b) `<, >, <=, >=` [RICHTIG]
+    - c) `is, is not`
+    - d) `and, or,
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Aufgabe 1: Namen in Großbuchstaben umwandeln
+
+1. **Was macht die Funktion `namen_zu_grossbuchstaben(namen)`?**
+    
+    - a) Sie wandelt eine Liste von Namen in Großbuchstaben um und gibt eine neue Liste zurück 
+    - b) Sie wandelt eine Liste von Großbuchstaben in Kleinbuchstaben um
+    - c) Sie zählt die Anzahl der Buchstaben in jedem Namen
+    - d) Sie entfernt die Leerzeichen am Anfang und Ende jedes Namens
+
+Rückseite:
+    
+- a) Sie wandelt eine Liste von Namen in Großbuchstaben um und gibt eine neue Liste zurück [RICHTIG]
+    - b) Sie wandelt eine Liste von Großbuchstaben in Kleinbuchstaben um
+    - c) Sie zählt die Anzahl der Buchstaben in jedem Namen
+    - d) Sie entfernt die Leerzeichen am Anfang und Ende jedes Namens
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Welche Methode wird verwendet, um einen String in Großbuchstaben umzuwandeln?**
+    
+    - a) `str.upper()`
+    - b) `str.lower()`
+    - c) `str.capitalize()`
+    - d) `str.title()`
+
+Rückseite:
+    
+- a) `str.upper()` [RICHTIG]
+    - b) `str.lower()`
+    - c) `str.capitalize()`
+    - d) `str.title()`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Welche Schleife wird verwendet, um durch die Liste von Namen zu iterieren?**
+    
+    - a) `for`
+    - b) `while`
+    - c) `foreach`
+    - d) `for` 
+
+Rückseite:
+
+- a) `for`
+- b) `while`
+- c) `foreach`
+- d) `for` [RICHTIG]
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+4. **Was tut die `str.upper()` Funktion?**
+    
+    - a) Sie wandelt einen String in Kleinbuchstaben um
+    - b) Sie wandelt einen String in Großbuchstaben um
+    - c) Sie zählt die Anzahl der Buchstaben in einem String
+    - d) Sie entfernt Leerzeichen aus einem String
+
+Rückseite:
+
+    
+- a) Sie wandelt einen String in Kleinbuchstaben um
+- b) Sie wandelt einen String in Großbuchstaben um [RICHTIG]
+- c) Sie zählt die Anzahl der Buchstaben in einem String
+- d) Sie entfernt Leerzeichen aus einem String
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Aufgabe 2: Filtern von Wörtern nach Länge
+
+1. **Was macht die Funktion `long_words(words, length)`?**
+    
+    - a) Sie gibt eine Liste von Wörtern zurück, die länger als die angegebene Länge sind
+    - b) Sie wandelt eine Liste von Wörtern in Großbuchstaben um
+    - c) Sie zählt die Anzahl der Buchstaben in jedem Wort
+    - d) Sie entfernt alle Leerzeichen aus den Wörtern
+
+Rückseite:
+    
+- a) Sie gibt eine Liste von Wörtern zurück, die länger als die angegebene Länge sind [RICHTIG]
+    - b) Sie wandelt eine Liste von Wörtern in Großbuchstaben um
+    - c) Sie zählt die Anzahl der Buchstaben in jedem Wort
+    - d) Sie entfernt alle Leerzeichen aus den Wörtern
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Welche Bedingung wird verwendet, um zu prüfen, ob ein Wort länger als die angegebene Länge ist?**
+    
+    - a) `if len(word) > length:`
+    - b) `if len(word) == length:`
+    - c) `if word.length() > length:`
+    - d) `if word.length() == length:`
+
+Rückseite:
+    
+- a) `if len(word) > length:` [RICHTIG]
+    - b) `if len(word) == length:`
+    - c) `if word.length() > length:`
+    - d) `if word.length() == length:`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Welche Schleife wird verwendet, um durch die Liste von Wörtern zu iterieren?**
+    
+    - a) `for`
+    - b) `while`
+    - c) `foreach`
+    - d) `loop`
+
+Rückseite:
+    
+- a) `for` [RICHTIG]
+    - b) `while`
+    - c) `foreach`
+    - d) `loop`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+4. **Was ist der Zweck der Funktion `long_words(words, length)`?**
+    
+    - a) Sie filtert eine Liste von Wörtern, um nur die Wörter zurückzugeben, die länger als eine angegebene Länge sind 
+    - b) Sie sortiert eine Liste von Wörtern in alphabetischer Reihenfolge
+    - c) Sie zählt die Anzahl der Buchstaben in jedem Wort
+    - d) Sie entfernt alle Leerzeichen aus den Wörtern
+
+Rückseite:
+    
+- a) Sie filtert eine Liste von Wörtern, um nur die Wörter zurückzugeben, die länger als eine angegebene Länge sind [RICHTIG]
+    - b) Sie sortiert eine Liste von Wörtern in alphabetischer Reihenfolge
+    - c) Sie zählt die Anzahl der Buchstaben in jedem Wort
+    - d) Sie entfernt alle Leerzeichen aus den Wörtern
+
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Aufgabe 3: Zählen von Buchstaben in einem Text
+
+1. **Was macht die Funktion `count_letters(text)`?**
+    
+    - a) Sie zählt die Anzahl der Buchstaben in einem Text und gibt diese zurück 
+    - b) Sie wandelt einen Text in Großbuchstaben um
+    - c) Sie zählt die Anzahl der Wörter in einem Text
+    - d) Sie entfernt Leerzeichen aus einem Text
+
+Rückseite:
+
+    
+- a) Sie zählt die Anzahl der Buchstaben in einem Text und gibt diese zurück [RICHTIG]
+    - b) Sie wandelt einen Text in Großbuchstaben um
+    - c) Sie zählt die Anzahl der Wörter in einem Text
+    - d) Sie entfernt Leerzeichen aus einem Text
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Welche Methode wird verwendet, um zu überprüfen, ob ein Zeichen ein Buchstabe ist?**
+    
+    - a) `str.isalpha()`
+    - b) `str.isdigit()`
+    - c) `str.isalnum()`
+    - d) `str.isspace()`
+
+Rückseite:
+    
+- a) `str.isalpha()` [RICHTIG]
+    - b) `str.isdigit()`
+    - c) `str.isalnum()`
+    - d) `str.isspace()`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Welche Schleife wird verwendet, um durch den Text zu iterieren?**
+    
+    - a) `for`
+    - b) `while`
+    - c) `foreach`
+    - d) `loop`
+
+Rückseite:
+    
+- a) `for`
+- b) `while` [RICHTIG]
+- c) `foreach`
+- d) `loop`
+
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+4. **Was gibt die `str.isalpha()` Methode zurück, wenn das Zeichen ein Buchstabe ist?**
+    
+    - a) True
+    - b) False
+    - c) Die Position des Buchstabens im Alphabet
+    - d) Die Anzahl der Buchstaben im Text
+
+Rückseite:
+
+    
+- a) True [RICHTIG]
+    - b) False
+    - c) Die Position des Buchstabens im Alphabet
+    - d) Die Anzahl der Buchstaben im Text
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Aufgabe 4: Filtern von Zahlen nach Grenzwert
+
+1. **Was macht die Funktion `filtere_groessere_zahlen(zahlen, grenze)`?**
+    
+    - a) Sie gibt eine Liste von Zahlen zurück, die größer als der angegebene Grenzwert sind 
+    - b) Sie wandelt eine Liste von Zahlen in Großbuchstaben um
+    - c) Sie zählt die Anzahl der Ziffern in jeder Zahl
+    - d) Sie entfernt alle Leerzeichen aus den Zahlen
+
+Rückseite:
+    
+ - a) Sie gibt eine Liste von Zahlen zurück, die größer als der angegebene Grenzwert sind [RICHTIG]
+    - b) Sie wandelt eine Liste von Zahlen in Großbuchstaben um
+    - c) Sie zählt die Anzahl der Ziffern in jeder Zahl
+    - d) Sie entfernt alle Leerzeichen aus den Zahlen
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Welche Bedingung wird verwendet, um zu prüfen, ob eine Zahl größer als der Grenzwert ist?**
+    
+    - a) `if number > grenze:`
+    - b) `if number == grenze:`
+    - c) `if number >= grenze:`
+    - d) `if number < grenze:`
+
+Rückseite:
+    
+- a) `if number > grenze:` [RICHTIG]
+    - b) `if number == grenze:`
+    - c) `if number >= grenze:`
+    - d) `if number < grenze:`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Was ist der Zweck der Funktion `filtere_groessere_zahlen(zahlen, grenze)`?**
+    
+    - a) Sie filtert eine Liste von Zahlen, um nur die Zahlen zurückzugeben, die größer als ein angegebener Grenzwert sind
+    - b) Sie sortiert eine Liste von Zahlen in aufsteigender Reihenfolge
+    - c) Sie zählt die Anzahl der Ziffern in jeder Zahl
+    - d) Sie entfernt alle Leerzeichen aus den Zahlen
+
+Rückseite:
+    
+- a) Sie filtert eine Liste von Zahlen, um nur die Zahlen zurückzugeben, die größer als ein angegebener Grenzwert sind [RICHTIG]
+    - b) Sie sortiert eine Liste von Zahlen in aufsteigender Reihenfolge
+    - c) Sie zählt die Anzahl der Ziffern in jeder Zahl
+    - d) Sie entfernt alle Leerzeichen aus den Zahlen
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+1. **Was tut die Funktion `list_remover(list, index)`?**
+    
+    - a) Sie entfernt das Element mit dem angegebenen Index aus der Liste
+    - b) Sie fügt ein Element mit dem angegebenen Index in die Liste ein
+    - c) Sie überprüft, ob das Element mit dem angegebenen Index in der Liste vorhanden ist
+    - d) Sie gibt den Index des Elements in der Liste zurück
+
+Rückseite:
+    
+- a) Sie entfernt das Element mit dem angegebenen Index aus der Liste [RICHTIG]
+    - b) Sie fügt ein Element mit dem angegebenen Index in die Liste ein
+    - c) Sie überprüft, ob das Element mit dem angegebenen Index in der Liste vorhanden ist
+    - d) Sie gibt den Index des Elements in der Liste zurück
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Was passiert, wenn der angegebene Index nicht in der Liste vorhanden ist?**
+    
+    - a) Ein `ValueError` wird erzeugt
+    - b) Ein `TypeError` wird erzeugt
+    - c) Ein `IndexError` wird erzeugt
+    - d) Ein `NameError` wird erzeugt
+
+Rückseite:
+    
+ - a) Ein `ValueError` wird erzeugt [RICHTIG]
+    - b) Ein `TypeError` wird erzeugt
+    - c) Ein `IndexError` wird erzeugt
+    - d) Ein `NameError` wird erzeugt
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Welches Konzept wird verwendet, um Fehler beim Entfernen des Elements abzufangen?**
+    
+    - a) try/except 
+    - b) if/else
+    - c) while-Schleife
+    - d) for-Schleife
+
+Rückseite:
+    
+- a) try/except [RICHTIG]
+    - b) if/else
+    - c) while-Schleife
+    - d) for-Schleife
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+4. **Was wird im `try`-Block der Funktion `list_remover()` gemacht?**
+    
+    - a) Das Element mit dem angegebenen Index wird aus der Liste entfernt
+    - b) Der Index des Elements wird überprüft
+    - c) Die Liste wird geöffnet
+    - d) Die potenzielle Fehlerquelle wird ausgeführt 
+
+Rückseite:
+    
+- a) Das Element mit dem angegebenen Index wird aus der Liste entfernt
+    - b) Der Index des Elements wird überprüft
+    - c) Die Liste wird geöffnet
+    - d) Die potenzielle Fehlerquelle wird ausgeführt [RICHTIG]
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+
+
+### Zusätzliche Module einbinden und verwenden
+
+1. **Welche Funktion wird verwendet, um eine zufällige Zahl zu generieren?**
+    
+    - a) `random.randint()`
+    - b) `math.random()`
+    - c) `random.random()`
+    - d) `math.randint()`
+
+Rückseite:
+    
+- a) `random.randint()` [RICHTIG]
+    - b) `math.random()`
+    - c) `random.random()`
+    - d) `math.randint()`
+
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Welches Modul wird verwendet, um OS-Kommandos auszuführen?**
+    
+    - a) `os.command()`
+    - b) `os.execute()`
+    - c) `os.system()
+    - d) `os.run()`
+
+Rückseite:
+
+    
+- a) `os.command()`
+    - b) `os.execute()`
+    - c) `os.system()` [RICHTIG]
+    - d) `os.run()`
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Ergänzungen
+
+1. **Was bietet die `open()` Dokumentation an?**
+    
+    - a) Informationen zur Verwendung des `open()` Befehls in Python
+    - b) Eine Liste von Funktionen, die mit dem `open()` Befehl verwendet werden können
+    - c) Eine Erläuterung der verschiedenen Modi, in denen eine Datei geöffnet werden kann
+    - d) Alle oben genannten 
+
+Rückseite:
+
+    
+- a) Informationen zur Verwendung des `open()` Befehls in Python
+    - b) Eine Liste von Funktionen, die mit dem `open()` Befehl verwendet werden können
+    - c) Eine Erläuterung der verschiedenen Modi, in denen eine Datei geöffnet werden kann
+    - d) Alle oben genannten [RICHTIG]
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Was sind die Built-in Funktionen des Filepointers?**
+    
+    - a) `read()`, `readlines()` und `write()`
+    - b) `open()`, `close()` und `save()`
+    - c) `add()`, `remove()` und `update()`
+    - d) `import()`, `export()` und `print()`
+
+Rückseite:
+    
+- a) `read()`, `readlines()` und `write()` [RICHTIG]
+    - b) `open()`, `close()` und `save()`
+    - c) `add()`, `remove()` und `update()`
+    - d) `import()`, `export()` und `print()`
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+### Neue Module: random und os
+
+1. **Was bietet das `random`-Modul?**
+    
+    - a) Funktionen zum Generieren von Zufallszahlen
+    - b) Funktionen zum Arbeiten mit Listen
+    - c) Funktionen zum Ausführen von Betriebssystembefehlen
+    - d) Funktionen zum Lesen und Schreiben von Dateien
+
+Rückseite:
+
+- a) Funktionen zum Generieren von Zufallszahlen [RICHTIG]
+    - b) Funktionen zum Arbeiten mit Listen
+    - c) Funktionen zum Ausführen von Betriebssystembefehlen
+    - d) Funktionen zum Lesen und Schreiben von Dateien
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Was bietet das `os`-Modul?**
+    
+    - a) Funktionen zum Ausführen von Betriebssystembefehlen
+    - b) Funktionen zum Arbeiten mit Listen
+    - c) Funktionen zum Generieren von Zufallszahlen
+    - d) Funktionen zum Lesen und Schreiben von Dateien
+
+
+Rückseite:
+    
+ - a) Funktionen zum Ausführen von Betriebssystembefehlen [RICHTIG]
+    - b) Funktionen zum Arbeiten mit Listen
+    - c) Funktionen zum Generieren von Zufallszahlen
+    - d) Funktionen zum Lesen und Schreiben von Dateien
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+
+1. **Was macht die Funktion `list_remover(list, index)`?**
+    
+    - a) Sie entfernt das Element mit dem angegebenen Index aus der Liste
+    - b) Sie fügt ein Element mit dem angegebenen Index in die Liste ein
+    - c) Sie überprüft, ob das Element mit dem angegebenen Index in der Liste vorhanden ist
+    - d) Sie gibt den Index des Elements in der Liste zurück
+
+Rückseite:
+    
+- a) Sie entfernt das Element mit dem angegebenen Index aus der Liste [RICHTIG]
+    - b) Sie fügt ein Element mit dem angegebenen Index in die Liste ein
+    - c) Sie überprüft, ob das Element mit dem angegebenen Index in der Liste vorhanden ist
+    - d) Sie gibt den Index des Elements in der Liste zurück
+
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+2. **Was passiert, wenn der angegebene Index nicht in der Liste vorhanden ist?**
+    
+    - a) Ein `ValueError` wird erzeugt 
+    - b) Ein `TypeError` wird erzeugt
+    - c) Ein `IndexError` wird erzeugt
+    - d) Ein `NameError` wird erzeugt
+
+Rückseite:
+    
+- a) Ein `ValueError` wird erzeugt [RICHTIG]
+    - b) Ein `TypeError` wird erzeugt
+    - c) Ein `IndexError` wird erzeugt
+    - d) Ein `NameError` wird erzeugt
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Welches Konzept wird verwendet, um Fehler beim Entfernen des Elements abzufangen?**
+    
+    - a) try/except 
+    - b) if/else
+    - c) while-Schleife
+    - d) for-Schleife
+
+Rückseite:
+    
+- a) try/except [RICHTIG]
+    - b) if/else
+    - c) while-Schleife
+    - d) for-Schleife
+
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+4. **Was wird im `try`-Block der Funktion `list_remover()` gemacht?**
+    
+    - a) Das Element mit dem angegebenen Index wird aus der Liste entfernt
+    - b) Der Index des Elements wird überprüft
+    - c) Die Liste wird geöffnet
+    - d) Die potenzielle Fehlerquelle wird ausgeführt 
+
+
+Rückseite:
+    
+- a) Das Element mit dem angegebenen Index wird aus der Liste entfernt
+    - b) Der Index des Elements wird überprüft
+    - c) Die Liste wird geöffnet
+    - d) Die potenzielle Fehlerquelle wird ausgeführt [RICHTIG]
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+
+1. **Welches Modul wird für die Zufallsgenerierung verwendet?**
+    
+    - a) random 
+    - b) math
+    - c) os
+    - d) time
+
+Rückseite:
+  
+- a) random [RICHTIG]
+    - b) math
+    - c) os
+    - d) time**
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Warum ist es wichtig, die Generierung der Zahlen in eine separate Funktion auszulagern?**
+    
+    - a) Um den Code besser zu organisieren und wartbarer zu machen 
+    - b) Um mehr Speicherplatz zu sparen
+    - c) Um die Ausführungsgeschwindigkeit zu erhöhen
+    - d) Um die Zahlen besser zu überprüfen
+
+
+
+Rückseite:
+    
+- a) Um den Code besser zu organisieren und wartbarer zu machen [RICHTIG]
+    - b) Um mehr Speicherplatz zu sparen
+    - c) Um die Ausführungsgeschwindigkeit zu erhöhen
+    - d) Um die Zahlen besser zu überprüfen
+
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+3. **Was bedeutet es, den Code sauber zu dokumentieren?**
+    - a) Eine kurze Beschreibung des Codes in Kommentaren hinzufügen
+    - b) Eine detaillierte Analyse des Codes in einem separaten Dokument durchführen
+    - c) Den Code so zu schreiben, dass keine Kommentare benötigt werden
+    - d) Den Code für eine bessere Leistung zu optimieren
+
+Rückseite:
+
+- a) Eine kurze Beschreibung des Codes in Kommentaren hinzufügen [RICHTIG]
+    - b) Eine detaillierte Analyse des Codes in einem separaten Dokument durchführen
+    - c) Den Code so zu schreiben, dass keine Kommentare benötigt werden
+    - d) Den Code für eine bessere Leistung zu optimieren
+END
+
+----
+
+START
+Einfach
+Vorderseite:  
+4. **Welches Dateiformat sollte für die Lösung des Lottozahlengenerators verwendet werden?**
+- a) .txt
+- b) .csv
+- c) .py 
+- d) .docx
+
+Rückseite:
+- a) .txt
+- b) .csv
+- c) .py [RICHTIG]
+- d) .docx
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+5. **Was ist der Zweck des Hochladens der Datei zum Testen?**
+    - a) Um sicherzustellen, dass die Datei ordnungsgemäß gespeichert wurde
+    - b) Um die Funktion des Hochladeprozesses zu überprüfen
+    - c) Um sicherzustellen, dass die Lösung den Anforderungen entspricht 
+    - d) Um die Lösung mit anderen zu teilen
+
+Rückseite:  
+- a) Um sicherzustellen, dass die Datei ordnungsgemäß gespeichert wurde
+- b) Um die Funktion des Hochladeprozesses zu überprüfen
+- c) Um sicherzustellen, dass die Lösung den Anforderungen entspricht [RICHTIG]
+- d) Um die Lösung mit anderen zu teilen
+END
+
+---
+
+
+START
+Einfach
+Vorderseite:
+1. **Was macht die Funktion `greet_users()`?**
+    - a) Sie gibt "Hallo $Name" für jeden Namen in der Liste aus 
+    - b) Sie überprüft, ob ein Name in der Liste vorhanden ist
+    - c) Sie entfernt Namen aus der Liste, die nicht den Kriterien entsprechen
+    - d) Sie gibt die Länge der Namen in der Liste aus
+
+Rückseite:
+- a) Sie gibt "Hallo $Name" für jeden Namen in der Liste aus [RICHTIG]
+    - b) Sie überprüft, ob ein Name in der Liste vorhanden ist
+    - c) Sie entfernt Namen aus der Liste, die nicht den Kriterien entsprechen
+    - d) Sie gibt die Länge der Namen in der Liste aus
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Welches Konzept wird verwendet, um Fehler im Code abzufangen und zu verarbeiten?**
+    
+    - a) try/except
+    - b) if/else
+    - c) while-Schleife
+    - d) for-Schleife
+
+
+Rückseite:    
+- a) try/except [RICHTIG]
+    - b) if/else
+    - c) while-Schleife
+    - d) for-Schleife
+
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+1. **Was wird im `try`-Block des Beispielcodes gemacht?**
+    - a) Es wird versucht, durch Null zu teilen und ein Element aus einer Liste abzurufen
+    - b) Es wird überprüft, ob die Division erfolgreich ist
+    - c) Es wird die Ausgabe des Ergebnisses vorbereitet
+    - d) Es wird eine Liste erstellt und mit Werten gefüllt
+
+Rückseite:    
+- a) Es wird versucht, durch Null zu teilen und ein Element aus einer Liste abzurufen [RICHTIG]
+    - b) Es wird überprüft, ob die Division erfolgreich ist
+    - c) Es wird die Ausgabe des Ergebnisses vorbereitet
+    - d) Es wird eine Liste erstellt und mit Werten gefüllt
+END
+
+---
+
+
+START
+Einfach
+Vorderseite:
+4. **Was passiert, wenn der `ZeroDivisionError` auftritt?**
+    - a) "You can't divide by zero!" wird ausgegeben 
+    - b) Ein anderer Fehler wird abgefangen
+    - c) Der Code wird fortgesetzt, ohne eine Meldung auszugeben
+    - d) Der `finally`-Block wird ausgeführt
+
+Rückseite:    
+- a) "You can't divide by zero!" wird ausgegeben [RICHTIG]
+    - b) Ein anderer Fehler wird abgefangen
+    - c) Der Code wird fortgesetzt, ohne eine Meldung auszugeben
+    - d) Der `finally`-Block wird ausgeführt
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+5. **Welche Funktion liefert den Datentyp eines Objekts zurück?**
+    - a) type() 
+    - b) sum()
+    - c) range()
+    - d) len()
+
+Rückseite:
+- a) type() [RICHTIG]
+    - b) sum()
+    - c) range()
+    - d) len()
+
+END
+
+---
+START
+Einfach
+Vorderseite:  
+6. **Was liefert die `sum()`-Funktion zurück?**
+    
+    - a) Die Summe eines iterierbaren Objekts
+    - b) Die Anzahl der Elemente in einem iterierbaren Objekt
+    - c) Eine Liste mit aufeinanderfolgenden ganzen Zahlen
+    - d) Eine Liste mit der Länge eines iterierbaren Objekts
+
+Rückseite:
+- a) Die Summe eines iterierbaren Objekts [RICHTIG]
+    - b) Die Anzahl der Elemente in einem iterierbaren Objekt
+    - c) Eine Liste mit aufeinanderfolgenden ganzen Zahlen
+    - d) Eine Liste mit der Länge eines iterierbaren Objekts
+
+END
+
+---
+
+
+START
+Einfach
+Vorderseite:  
+8. **Was ist der Zweck der `range()`-Funktion?**
+    - a) Sie erzeugt eine Sequenz von Zahlen 
+    - b) Sie berechnet die Länge eines iterierbaren Objekts
+    - c) Sie überprüft, ob ein Element in einer Liste vorhanden ist
+    - d) Sie gibt den Datentyp eines Objekts zurück
+
+Rückseite:
+- a) Sie erzeugt eine Sequenz von Zahlen [RICHTIG]
+    - b) Sie berechnet die Länge eines iterierbaren Objekts
+    - c) Sie überprüft, ob ein Element in einer Liste vorhanden ist
+    - d) Sie gibt den Datentyp eines Objekts zurück
+END
+
+---
+
+START
+Einfach
+Vorderseite:
+1. **Was tut das Programm, wenn der erste Wert nicht erfolgreich in einen Integer umgewandelt werden kann?**
+    - a) Ein `ValueError` wird entsprechend abgefangen, ohne dass das Programm abstürzt 
+    - b) Das Programm stürzt ab
+    - c) Es wird eine Meldung "Ungültiger Wert" ausgegeben
+    - d) Der erste Wert wird als 0 betrachtet
+
+Rückseite:
+
+- a) Ein `ValueError` wird entsprechend abgefangen, ohne dass das Programm abstürzt [RICHTIG]
+    - b) Das Programm stürzt ab
+    - c) Es wird eine Meldung "Ungültiger Wert" ausgegeben
+    - d) Der erste Wert wird als 0 betrachtet
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+2. **Was passiert, wenn der String länger als 30 Zeichen ist?**
+    - a) Es wird "Halt dich kurz, ja - Computerzeit ist kostbar" ausgegeben 
+    - b) Das Programm stürzt ab
+    - c) Es wird eine Fehlermeldung "String zu lang" ausgegeben
+    - d) Der String wird auf 30 Zeichen gekürzt
+
+Rückseite:    
+
+- a) Es wird "Halt dich kurz, ja - Computerzeit ist kostbar" ausgegeben [RICHTIG]
+    - b) Das Programm stürzt ab
+    - c) Es wird eine Fehlermeldung "String zu lang" ausgegeben
+    - d) Der String wird auf 30 Zeichen gekürzt
+END
+
+----
+
+START
+Einfach
+Vorderseite:  
+3. **Was wird ausgeführt, wenn versucht wird, durch Null zu teilen in der Funktion `divide(a, b)`?**
+    - a) Ein `ZeroDivisionError` wird erzeugt
+    - b) Das Programm stürzt ab
+    - c) Es wird eine Meldung "Division durch Null" ausgegeben
+    - d) Das Ergebnis wird als None zurückgegeben
+
+Rückseite:
+
+- a) Ein `ZeroDivisionError` wird erzeugt [RICHTIG]
+    - b) Das Programm stürzt ab
+    - c) Es wird eine Meldung "Division durch Null" ausgegeben
+    - d) Das Ergebnis wird als None zurückgegeben
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+4. **Was wird in der Funktion `read_file(file_path)` gemacht, wenn der Dateipfad nicht existiert?**
+    - a) Ein `FileNotFoundError` wird erzeugt
+    - b) Das Programm stürzt ab
+    - c) Es wird eine leere Zeichenfolge zurückgegeben
+    - d) Es wird eine Meldung "Datei nicht gefunden" ausgegeben
+
+Rückseite:
+
+- a) Ein `FileNotFoundError` wird erzeugt [RICHTIG]
+    - b) Das Programm stürzt ab
+    - c) Es wird eine leere Zeichenfolge zurückgegeben
+    - d) Es wird eine Meldung "Datei nicht gefunden" ausgegeben
+END
+
+---
+
+START
+Einfach
+Vorderseite:  
+5. **Was wird in der Funktion `process_list(data, index, divisor)` gemacht, wenn versucht wird, auf ein Element zuzugreifen, das nicht in der Liste vorhanden ist?**
+    
+    - a) Ein `IndexError` wird erzeugt
+    - b) Das Programm stürzt ab
+    - c) Es wird eine leere Zeichenfolge zurückgegeben
+    - d) Es wird eine Meldung "Element nicht gefunden" ausgegeben
+Rückseite:
+
+- a) Ein `IndexError` wird erzeugt [RICHTIG]
+    - b) Das Programm stürzt ab
+    - c) Es wird eine leere Zeichenfolge zurückgegeben
+    - d) Es wird eine Meldung "Element nicht gefunden" ausgegeben
+
+END
+
+----
+
+START
+Einfach
+Vorderseite:  
+6. **Was ist der Zweck des Bonus Teils des Programms?**
+    
+    - a) Namen Zeile für Zeile aus einer Testdatei einzulesen 
+    - b) Eine zusätzliche Funktion zu implementieren
+    - c) Die Dateigröße zu überprüfen
+    - d) Eine Testdatei zu erstellen
+Rückseite:
+
+- a) Namen Zeile für Zeile aus einer Testdatei einzulesen [RICHTIG]
+    - b) Eine zusätzliche Funktion zu implementieren
+    - c) Die Dateigröße zu überprüfen
+    - d) Eine Testdatei zu erstellen
+END
