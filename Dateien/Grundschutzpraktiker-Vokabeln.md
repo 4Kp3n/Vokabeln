@@ -1229,8 +1229,7 @@ END
 START
 Einfach
 Vorderseite: 
-### Sie sind Informationssicherheitsbeauftragter in Ihrem Unternehmen. Die von Ihnen vorgeschlagenen  
-Sicherheitsmaßnahmen werden von der Unternehmensleitung nicht genehmigt. Was sind ihre nächsten Schritte?
+### Sie sind Informationssicherheitsbeauftragter in Ihrem Unternehmen. Die von Ihnen vorgeschlagenen Sicherheitsmaßnahmen werden von der Unternehmensleitung nicht genehmigt. Was sind ihre nächsten Schritte?
 **RICHTIG / FALSCH**
 - Sie teilen der Unternehmensleitung mit, welche Risiken durch das Nicht-Umsetzen der Maßnahme entstehen können
 - Sie setzen die Maßnahmen im Sinne der Sicherheit auf einem anderen Weg um
