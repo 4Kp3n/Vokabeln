@@ -138,6 +138,7 @@ Rückseite:
 - Problemfindung, Analyse des Systems zB mittels STRIDE
 - Behebung, Behandlung der Bedrohung nach Priorisierung
 - Überprüfung, ob die Bedrohung erfolgreich eliminiert / mitigiert wurde
+![[Bedrohungsmodellierung.png]]
 
 
 END

@@ -2,9 +2,41 @@ import os
 import shutil
 import re
 
-REPO_PATH = "./Dateien"  
+REPO_PATH = "./Dateien"
+PICTURES_PATH = "./Bilder"
 # Pfad anpassen!
 OBSIDIAN_PATH = "C:/Users/User/Kioku/Anki" # Change this to the path of your folder
+OBSIDIAN_PICTURES_PATH = OBSIDIAN_PATH + "/Bilder"
+
+def synchronize_pictures():
+    #TODO Check if folders exist and create if they don't
+    # List files in both folders
+    repo_pictures = set(os.listdir(PICTURES_PATH))
+    obsidian_pictures = set(os.listdir(OBSIDIAN_PICTURES_PATH))
+    
+    # Identify files that are already in the Repo but not in Obsidian
+    files_to_copy_to_obsidian = repo_pictures - obsidian_pictures
+    
+    # Identify files that are already in Obsidian but not in the Repo 
+    files_to_copy_to_repo = obsidian_pictures - repo_pictures
+    
+    # Copy files from the Repo to Obsidian 
+    for file_name in files_to_copy_to_obsidian:
+        source_file_path = os.path.join(PICTURES_PATH, file_name)
+        target_file_path = os.path.join(OBSIDIAN_PICTURES_PATH, file_name)
+        
+        # Copy file
+        shutil.copy2(source_file_path, target_file_path)
+        print(f"Copied {file_name} from {PICTURES_PATH} to {OBSIDIAN_PICTURES_PATH}")
+
+    # Copy files from Obsidian to the Repo 
+    for file_name in files_to_copy_to_repo:
+        source_file_path = os.path.join(OBSIDIAN_PICTURES_PATH, file_name)
+        target_file_path = os.path.join(PICTURES_PATH, file_name)
+        
+        # Copy file
+        shutil.copy2(source_file_path, target_file_path)
+        print(f"Copied {file_name} from {OBSIDIAN_PICTURES_PATH} to {PICTURES_PATH}")
 
 # summary: Takes a path to a .md file and parses all contained vocabulary cards (Anki format required!)
 # filepath: Path to the .md file to parse
@@ -73,6 +105,7 @@ def get_all_md_files_in_folder(path):
 
 # Get all .md files in both folders
 def main():
+    synchronize_pictures()
     repo_md_filenames = get_all_md_files_in_folder(REPO_PATH)
     obsidian_md_filenames = get_all_md_files_in_folder(OBSIDIAN_PATH)
 
