@@ -1,7 +1,7 @@
 import os
 import shutil
 import re
-
+# DELETE ME I´m A TESTFILE 
 REPO_PATH = "./Dateien"
 PICTURES_PATH = "./Bilder"
 # Pfad anpassen!
