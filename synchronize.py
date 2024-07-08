@@ -7,6 +7,8 @@ PICTURES_PATH = "./Bilder"
 
 hab was angepasst 
 
+wieder löschen
+
 # Pfad anpassen!
 OBSIDIAN_PATH = "C:\\Users\\mecha\\OneDrive\\Documents\\Obsidian Vault\\Anki" # Change this to the path of your folder
 OBSIDIAN_PICTURES_PATH = OBSIDIAN_PATH + "/Bilder"
