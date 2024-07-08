@@ -4,8 +4,11 @@ import re
 
 REPO_PATH = "./Dateien"
 PICTURES_PATH = "./Bilder"
+
+hab was angepasst 
+
 # Pfad anpassen!
-OBSIDIAN_PATH = "C:/Users/User/Kioku/Anki" # Change this to the path of your folder
+OBSIDIAN_PATH = "C:\\Users\\mecha\\OneDrive\\Documents\\Obsidian Vault\\Anki" # Change this to the path of your folder
 OBSIDIAN_PICTURES_PATH = OBSIDIAN_PATH + "/Bilder"
 
 def synchronize_pictures():
