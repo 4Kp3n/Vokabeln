@@ -7,7 +7,7 @@ PICTURES_PATH = "./Bilder"
 # Pfad anpassen!
 OBSIDIAN_PATH = "C:/Users/User/Kioku/Anki" # Change this to the path of your folder
 OBSIDIAN_PICTURES_PATH = OBSIDIAN_PATH + "/Bilder"
-# test
+######
 def synchronize_pictures():
     #TODO Check if folders exist and create if they don't
     # List files in both folders
