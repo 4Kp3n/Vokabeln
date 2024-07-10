@@ -5,6 +5,7 @@ import re
 REPO_PATH = "./Dateien"
 PICTURES_PATH = "./Bilder"
 # Pfad anpassen!
+
 OBSIDIAN_PATH = "C:\Users\arsch\OneDrive\Dokumente\Obsidian Vault\Vokabeln" # Change this to the path of your folder
 OBSIDIAN_PICTURES_PATH = OBSIDIAN_PATH + "/Bilder"
 
@@ -184,6 +185,6 @@ def main():
                     with open(obsidian_fp, 'a', encoding='utf-8') as fp:
                         fp.write(content)
 
-# Run main function
+# Run main function guken ob es passt
 if __name__ == '__main__':
     main()
