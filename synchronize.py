@@ -5,7 +5,8 @@ import re
 REPO_PATH = "./Dateien"
 PICTURES_PATH = "./Bilder"
 # Pfad anpassen!
-OBSIDIAN_PATH = "C:\Users\arsch\OneDrive\Dokumente\Obsidian Vault\Vokabeln" # Change this to the path of your folder
+# Change this to the path of your folder
+OBSIDIAN_PATH = "C:\\Users\\arsch\\OneDrive\\Dokumente\\ObsidianVault\\Vokabeln" 
 OBSIDIAN_PICTURES_PATH = OBSIDIAN_PATH + "/Bilder"
 
 def synchronize_pictures():
