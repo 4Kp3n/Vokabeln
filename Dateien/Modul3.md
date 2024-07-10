@@ -156,3 +156,19 @@ Rückseite:
 - Vertrauensgrenze
 
 END
+
+START
+Einfach
+Vorderseite:
+### Beschreibe die Stufen eines BCMS 
+
+Rückseite:
+
+- BCM: "Geschäftsfortführungs-Management-System" 
+- Ziel: Geschäftsprozesse gegen Ausfälle absichern
+- + Ausfallzeitverringerung bei Krisen/Notfällen
+- Einstieg/Reihenfolge beim Aufbau nicht relevant
+Reaktiv-BCMS -> Aufbau-BCMS -> Standard-BCMS 
+![[BCMS_Stufenmodell.png]]
+
+END
