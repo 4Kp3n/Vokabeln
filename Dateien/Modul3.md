@@ -192,3 +192,15 @@ Reaktiv-BCMS -> Aufbau-BCMS -> Standard-BCMS
 ![[BCMS_Stufenmodell.png]]
 
 END
+
+START
+Einfach
+Vorderseite:
+### Einen Angriff auf Kerberos nennt man zum Beispiel "Kerberoasting" - Nenne den Service auf den dieser Angriff abzielt und was ein Angreifer sich daraus potenziell erhofft.
+
+Rückseite:
+
+- Service: Ticket Granting System (TGS)
+- Ziel: Tickets sammeln und später Benutzerpasswörter daraus extrahieren
+
+END
