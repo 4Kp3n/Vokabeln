@@ -156,6 +156,27 @@ Rückseite:
 - Vertrauensgrenze
 
 END
+
+START
+Einfach
+Vorderseite:
+### In welche zwei grundsätzlichen Kategorien kann ich die **Umsetzung** (Do! des PDCA - Zyklus) des BCMS unterteilen?
+
+(Erkläre die beiden Kategorien anhand der Darstellung auf der Rückseite in eigenen Worten)
+
+Rückseite:
+
+Der Prozessschritt Aufbau und Befähigung der BAO beinhaltet alle Aspekte, um eine funktionierende BAO zu etablieren, die im Not- und Krisenfall sofort erreichbar und ar￾beitsfähig ist.
+Alle weiteren Prozessschritte in der DO-Phase dienen der angemessenen Absicherung der zeitkritischen Geschäftsprozesse. 
+Fast jeder dieser Schritte verbessert die Mög￾lichkeiten, einen Vorfall in einer geordneten BC-Planung zu behandeln anstatt nur reak￾tiv in einer Krise.
+
+![[BCMS_Kategorien.png]]
+
+![[BCMS_Legende.png]]
+
+END
+
+
 START
 Einfach
 Vorderseite:
