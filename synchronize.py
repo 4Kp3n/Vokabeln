@@ -184,6 +184,6 @@ def main():
                     with open(obsidian_fp, 'a', encoding='utf-8') as fp:
                         fp.write(content)
 
-# Run main function
+# Run main function guken ob es passt
 if __name__ == '__main__':
     main()
