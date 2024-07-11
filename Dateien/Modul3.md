@@ -192,3 +192,14 @@ Reaktiv-BCMS -> Aufbau-BCMS -> Standard-BCMS
 ![[BCMS_Stufenmodell.png]]
 
 END
+
+START
+Einfach
+Vorderseite:
+### Was versteht man unter Kerberoasting?
+ 
+Rückseite:
+- Ein Angriff auf das Kerberos Protokoll. 
+- Ein authentifizierter AD Benutzer (Vorraussetzung) fordert Service Tickets der Service Accounts an und versucht anschließend die enthaltenen Password-Hashes offline zu knacken.
+
+END
