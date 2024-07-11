@@ -192,3 +192,16 @@ Reaktiv-BCMS -> Aufbau-BCMS -> Standard-BCMS
 ![[BCMS_Stufenmodell.png]]
 
 END
+
+START
+Einfach
+Vorderseite:
+### Was ist SMB 
+
+Rückseite:
+Das Server Message Block (SMB) Protokoll ist ein wichtiger Netzwerkstandard, der Datei- und Druckfreigabedienste in Windows-Netzwerken ermöglicht. Im Laufe der Jahre hat sich SMB in drei Hauptversionen weiterentwickelt:
+- SMBv1: Die erste Version von SMB, die in Windows NT 4.0 eingeführt wurde. Obwohl sie weit verbreitet war, weist sie erhebliche Sicherheitslücken auf und sollte nicht mehr verwendet werden.
+- SMBv2: Diese Version wurde in Windows Server 2008 und Windows Vista SP1 eingeführt. Sie bietet Verbesserungen in den Bereichen Leistung, Skalierbarkeit und Sicherheit.
+- SMBv3: Eingeführt in Windows Server 2012 und Windows 8, bietet SMBv3 weitere Verbesserungen, einschließlich transparentem Failover, Multichannel-Unterstützung, Verschlüsselung und optimierter Leistung
+
+END
