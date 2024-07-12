@@ -5,7 +5,7 @@ import re
 REPO_PATH = "./Dateien"
 PICTURES_PATH = "./Bilder"
 # Pfad anpassen!
-OBSIDIAN_PATH = "C:\\Users\\do5dt\\Documents\\CloudCommand Teams\\ANKI" # Change this to the path of your folder
+OBSIDIAN_PATH = "C:/Users/User/Kioku/Anki" # Change this to the path of your folder
 OBSIDIAN_PICTURES_PATH = OBSIDIAN_PATH + "/Bilder"
 
 def synchronize_pictures():
