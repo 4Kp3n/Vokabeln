@@ -98,7 +98,7 @@ Vorderseite: If-Else Sentence
 Rückseite: Im Code prüft eine If-Else-Anweisung eine Bedingung und führt je nach Ergebnis entweder einen Codeblock (If) oder einen alternativen Codeblock (Else) aus.
 ```
 If (happy_face):
-	print("You look happe :)")
+	print("You look happy :)")
 Else:
 	print("Winter is coming!")
 ```
